@@ -1,0 +1,28 @@
+{
+  "heading" : {
+    "en" : "News",
+    "de" : "News" },
+
+  "news" : [ 
+
+    { "date"      : "2014-02-04",
+      "title"     : "Website Is Live",
+      "short"     : "The official VISSOFT website has gone live. We will successively integrate additional information once available. Stay tuned!",
+      "text"      : "<![CDATA[The official VISSOFT website has gone live. We will successively integrate additional information once available. Stay tuned!]]>",
+    },
+	
+	{ "date"      : "2014-02-14",
+      "title"     : "Keynote Speakers Invited",
+      "short"     : "Dr. Margaret-Anne Storey and Dr. Ronald A. Rensink",
+      "text"      : "<![CDATA[Dr. Margaret-Anne Storey and Dr. Ronald A. Rensink, are this years keynote speakers:<p><div class='col-4 col-sm-4 col-lg-4'><img src='/img/people-margaret-anne-storey.jpg' class='img-responsive'><h4><a href='http://webhome.cs.uvic.ca/~mstorey' target='blank'>Margaret-Anne Storey</a><br><small>University of Victoria, CA</small></h4></div><div class='col-4 col-sm-4 col-lg-4'><img src='/img/people-ronald-a-rensink.jpg' class='img-responsive'><h4><a href='https://www.cs.ubc.ca/~rensink/' target='blank'>Ronald A. Rensink</a><br><small>University of British Columbia, CA</small></h4></div></p>]]>",
+    },
+	
+	{ "date"      : "2014-02-16",
+      "title"     : "Call for Papers Available",
+      "short"     : "The call for papers is now available",
+      "text"      : "<![CDATA[The call for papers is now available <a href='submissions.html'>here</a>. Please also find the PDF versions for further distribution there.]]>",
+    },
+
+  ]
+
+}

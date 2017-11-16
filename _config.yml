@@ -1,0 +1,46 @@
+# Site settings
+timezone: Europe/Berlin
+
+baseurl: '' # the subpath of your site, e.g. /blog/
+url: 'https://cgcostume.github.io' # the base hostname & protocol for your site
+
+title: 'Expressive 2018'
+author: 'Amir Semmo, Santiago Montesdeoca'
+
+languages: [ 'en' ]
+
+google_font_sans_serif: 'Source+Sans+Pro:300'
+
+flickr_user: '131006004@N06'
+flickr_api_key: adb4be93419edab991522b4fa92b7029
+
+# Handling Reading
+safe: true
+encoding: utf-8
+
+# Build settings
+markdown: kramdown
+
+# Outputting
+exclude: [
+  'cibuild',
+  'Gemfile',
+  'Gemfile.lock',
+  'package.json',
+  'README.md',
+  'vendor']
+
+defaults:
+  - scope:
+      path: ''
+    values:
+      lang: en
+      description: 'Expressive Joint Symposium Website'
+  - scope:
+      path: 'en'
+    values:
+      lang: en
+
+# CSS Minification
+sass:
+  style: compressed

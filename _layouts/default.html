@@ -1,0 +1,51 @@
+---
+layout: compress
+---
+<!DOCTYPE html>
+<html lang="{{ page.lang }}">
+
+{% include head.html %}
+
+<body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
+
+{% include navbar.html %}
+
+<div class="container">
+
+{% include header.html %}
+
+      <div class="row row-offcanvas row-offcanvas-right">
+        <div class="col-xs-12 col-sm-9">
+          <p class="pull-right visible-xs" id="news-toggle">
+            <button type="button" class="btn btn-primary btn-xs" data-toggle="offcanvas">Toggle nav</button>
+          </p>
+          <div class="row">
+		  
+		{% assign navigation_pages = site.html_pages | sort: 'navigation_weight' %}
+        {% for p in navigation_pages %}
+            {% if p.url == page.url %} 
+			  {% if p.content_page %} 
+			    {% include {{ p.content_page }} %}
+			  {% else %} 
+			    {% include expressive.html %}
+			  {% endif %}
+			{% endif %}
+        {% endfor %}
+
+          </div><!--/row-->
+        </div><!--/span-->
+
+		{% include sidebar.html %}
+
+      </div><!--/row-->
+
+      <hr>
+	  
+	  {% include footer.html %}
+
+    </div><!--/.container-->
+
+{% include scripts.html %}
+
+</body>
+</html>
