@@ -1,5 +1,5 @@
 # Site settings
-timezone: Europe/Berlin
+timezone: America/Vancouver
 
 baseurl: '' # the subpath of your site, e.g. /blog/
 url: 'https://expressivegraphics.github.io' # the base hostname & protocol for your site
