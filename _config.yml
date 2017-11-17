@@ -5,9 +5,7 @@ baseurl: '' # the subpath of your site, e.g. /blog/
 url: 'https://expressivegraphics.github.io' # the base hostname & protocol for your site
 
 title: 'Expressive 2018'
-author: 'Amir Semmo, Santiago Montesdeoca'
-
-languages: [ 'en' ]
+author: 'Santiago Montesdeoca, Amir Semmo'
 
 google_font_sans_serif: 'Source+Sans+Pro:300'
 
@@ -29,17 +27,6 @@ exclude: [
   'package.json',
   'README.md',
   'vendor']
-
-defaults:
-  - scope:
-      path: ''
-    values:
-      lang: en
-      description: 'Expressive Joint Symposium Website'
-  - scope:
-      path: 'en'
-    values:
-      lang: en
 
 # CSS Minification
 sass:
