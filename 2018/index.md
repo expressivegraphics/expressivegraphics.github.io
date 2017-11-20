@@ -2,7 +2,7 @@
 layout: plain
 title: Expressive 2018
 ---
-<img src="/img/teaser.jpg" class="img-responsive top1" id="venue" alt="venue">
+<img src="/img/teaser.jpg" class="img-responsive img-thumbnail top1" id="venue" alt="venue">
 
 <section id="introduction" class="text-center top2" markdown="1">
 
