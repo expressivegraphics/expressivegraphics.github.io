@@ -1,13 +1,9 @@
 ---
 layout: default
 title: Program
-navigation_weight: 3
-content_page: program.html
 ---
 
 <div class="col-12 col-sm-12 col-lg-12">
-
-  <a name="program"></a><h2>Program</h2>
 
   <div class="panel panel-default">
   <!-- Default panel contents -->

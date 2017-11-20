@@ -1,10 +1,30 @@
 ---
-layout: default
+layout: plain
 title: Expressive 2018
 ---
+<img src="/img/teaser.jpg" class="img-responsive top1" id="venue" alt="venue">
 
-# This is markdown
+<section id="introduction" class="text-center top2" markdown="1">
 
+## — Expressive 2018 —
+
+The **Joint Symposium** on
+
+### Computational Aesthetics
+
+and
+
+### Sketch-Based Interfaces and Modeling
+
+and
+
+### Non-Photorealistic Animation and Rendering
+
+_in Victoria, Canada, on 17–19 August 2018._
+
+</section>
+
+<!--
 <div class="col-12 col-sm-12 col-lg-12">
 
   <p><img src="/img/teaser.jpg" class="img-responsive img-thumbnail" id="venue" alt="venue"></p>

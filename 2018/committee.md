@@ -1,11 +1,7 @@
 ---
 layout: default
-title: Committee
+title: Organizing Committee
 ---
-
-<div class="col-12 col-sm-12 col-lg-12">
-	<a name="organizing"></a><h2>Organizing Committee</h2>
-</div>
 
 <div class="col-4 col-sm-4 col-lg-4">
 	<div class="panel panel-default">

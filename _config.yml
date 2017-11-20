@@ -45,3 +45,23 @@ exclude: [
 # CSS Minification
 sass:
   style: compressed
+
+
+# Site owner
+owner:
+  name: Expressive Symposium
+  disqus-shortname: expressiverendering
+  twitter: ExpressiveGfx
+  github: expressivegraphics
+  google:
+    plus: #username
+    analytics: UA-76809364-1
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
+
+
+# Conference chairs
+chair2018:
+  name: Brian Wyvill

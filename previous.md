@@ -4,7 +4,6 @@ title: Previous Editions
 ---
 <div class="col-12 col-sm-12 col-lg-12">
 
-  <a name="previous"></a><h2>Previous Editions</h2>
   <p>The 2014 edition of the Working Conference on Software Visualization VISSOFT was preceded by one edition of the VISSOFT working conference, six editions of the VISSOFT workshop, and five editions of SOFTVIS, as follows:</p>
 
   <div class="panel panel-default">
