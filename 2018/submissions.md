@@ -2,23 +2,12 @@
 layout: default
 title: Submission
 excerpt: "Submit to Expressive 2018"
+headline: "Call for Papers"
 #navigation_weight: 1
 #content_page: submissions.html
 ---
 
-## Expressive 2018 - Call for Papers
-
-In a nutshell:
-* __Dates:__ August 12-19, 2018
-* __Location:__ Victoria, Canada
-* __URL:__ [expressive.graphics/2018](expressive.graphics/2018)
-* __Co-sponsored by:__ ACM Siggraph, Eurographics and Adobe
-
-| Important dates |
-| --- |
-| Abstract submission deadline: |
-| Paper submission deadline: |
-| Acceptance notification: |
+[<span class="glyphicon glyphicon-file"></span> Call for Papers (PDF, 317 KiB)](/docs/vissoft-2014-call-for-papers.pdf)
 
 Expressive is a joint Symposium featuring the following workshops:
 
@@ -26,15 +15,52 @@ Expressive is a joint Symposium featuring the following workshops:
 * Non-photorealistic Animation and Rendering (NPAR)
 * Sketch-based Interfaces and Modelling (SBIM)
 
-Being at the forefront of expressive rendering research since 2012, Expressive 2018 will take place in Victoria, Canada, August 12–19, 2019 --- shortly before [SIGGRAPH 2018](http://s2018.siggraph.org/) in Vancouver. A single registration for Expressive 2018 will include all three workshops.
+Being at the forefront of expressive rendering research since 2012, Expressive 2018 will take place in Victoria, Canada, August 17–19, 2018 --- shortly before [SIGGRAPH 2018](http://s2018.siggraph.org/) in Victoria. A single registration for Expressive 2018 will include all three workshops.
 Invited talks and artists talks will be shared among the workshops and sessions will be mixed. The submission, review, and publication process for the event will be handled jointly across the three conferences. Each paper submission should be designated as belonging to one of the three tracks.
-Computational Aesthetics
 
-__Computational Aesthetics (CAe)__ integrates the bridging aspects of computer science, philosophy, psychology, and the fine, applied & performing arts. CAe investigates both tools to enhance the expressiveness of fine and applied arts, as well as theoretical approaches that further our understanding of aesthetic evaluation, perception and meaning.
+{::options parse_block_html="true" /}
 
-__Non-Photorealistic Animation and Rendering (NPAR)__ investigates computational techniques for visual communication. Such techniques usually focuses on imagery and motion which is expressive, rather than photorealistic, although they may incorporate realistic elements.
+<div class="panel panel-default">
+#### Computational Aesthetics (CAe)
+{: .panel-heading}
+<div class="panel-body">
 
-__Sketch-Based Interfaces and Modeling (SBIM)__ focuses on the exploration of models, algorithms, and technologies for efficient sketch-based interfaces. It investigates the classification and recognition of hand-drawn shapes, and ways of using these techniques for creating or editing digital models, text, mathematics or 3D shapes.
+Computational Aesthetics integrates the bridging aspects of computer science, philosophy, psychology, and the fine, applied & performing arts. CAe investigates both tools to enhance the expressiveness of fine and applied arts, as well as theoretical approaches that further our understanding of aesthetic evaluation, perception and meaning.
+
+</div>
+</div>
+
+{::options parse_block_html="false" /}
+
+{::options parse_block_html="true" /}
+
+<div class="panel panel-default">
+#### Non-Photorealistic Animation and Rendering (NPAR)
+{: .panel-heading}
+<div class="panel-body">
+
+Non-Photorealistic Animation and Rendering investigates computational techniques for visual communication. Such techniques usually focuses on imagery and motion which is expressive, rather than photorealistic, although they may incorporate realistic elements.
+
+</div>
+</div>
+
+{::options parse_block_html="false" /}
+
+{::options parse_block_html="true" /}
+
+<div class="panel panel-default">
+#### Sketch-Based Interfaces and Modeling (SBIM)
+{: .panel-heading}
+<div class="panel-body">
+
+Sketch-Based Interfaces and Modeling focuses on the exploration of models, algorithms, and technologies for efficient sketch-based interfaces. It investigates the classification and recognition of hand-drawn shapes, and ways of using these techniques for creating or editing digital models, text, mathematics or 3D shapes.
+
+</div>
+</div>
+
+{::options parse_block_html="false" /}
+
+### Submission Types
 
 Each paper submission should be designated by the authors as belonging to at least one of the three tracks. Paper submissions are invited across the broad range of areas covered by Expressive. We welcome papers in several categories:
 
@@ -42,7 +68,12 @@ Each paper submission should be designated by the authors as belonging to at lea
 * __Production:__ candid discussion of the process of creating a work (e.g., film, image, game) or art tool (e.g., paint or CAD program, software library). We are equally interested in papers on the use of existing techniques combined in novel ways, or applying them in a new or unusual context.
 * __Meta:__ statements about research that do not contain new results, e.g.: grand challenges, position papers, evaluation standards, surveys, and primers on art / aesthetics / psychophysics for a computer science audience. We welcome papers that discuss the challenges of bridging computational expression across disciplines.
 
-Topics include, but are not limited to:
+{::options parse_block_html="true" /}
+
+<div class="panel panel-default">
+#### Topics include, but are not limited to:
+{: .panel-heading}
+<div class="panel-body">
 
 * Analysis and modeling of creative behavior (AI, A-life)
 * Simulation of natural media, traditional styles, and novel artistic styles
@@ -67,7 +98,24 @@ Topics include, but are not limited to:
 * Aesthetic evaluation and stylistic rendering of visual effects such as motion blur, depth of field, and lighting
 * Non-traditional camera models
 
-### Paper submissions
+</div>
+</div>
+
+{::options parse_block_html="false" /}
+
+### Submission Information
+
+In a nutshell:
+* __Dates:__ August 12-19, 2018
+* __Location:__ Victoria, Canada
+* __URL:__ [expressive.graphics/2018](expressive.graphics/2018)
+* __Co-sponsored by:__ ACM Siggraph, Eurographics and Adobe
+
+| Important dates |
+| --- |
+| Abstract submission deadline: |
+| Paper submission deadline: |
+| Acceptance notification: |
 
 All work must be previously unpublished. Production and Meta papers need not contain original research or results, but must make a substantive contribution to the knowledge in the field. Papers should be 8–10 pages in length (excluding citations). Papers longer than 10 pages must make a very significant contribution.
 
