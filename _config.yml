@@ -1,7 +1,7 @@
 # Site settings
 timezone: America/Vancouver
 
-baseurl: '' # the subpath of your site, e.g. /blog/
+baseurl: '/2018' # the subpath to the year of conference
 url: 'https://expressivegraphics.github.io' # the base hostname & protocol for your site
 
 title: 'Expressive 2018'
@@ -15,9 +15,23 @@ flickr_api_key: adb4be93419edab991522b4fa92b7029
 # Handling Reading
 safe: true
 encoding: utf-8
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 # Build settings
+permalink: /:categories/:title/
 markdown: kramdown
+
+# Defaults
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.
+    values:
+      layout: "default"
+      schema: NewsArticle
+      comments: true
+      share: true
 
 # Outputting
 exclude: [

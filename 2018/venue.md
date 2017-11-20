@@ -1,3 +1,8 @@
+---
+layout: default
+title: Venue
+---
+
 <div class="col-12 col-sm-12 col-lg-12">
 
   <p><img src="/img/venue.jpg" class="img-responsive img-thumbnail" id="venue" alt="venue"></p>
@@ -5,7 +10,7 @@
   <a name="venue"></a><h2>Venue</h2>
 
   <div class="alert alert-warning">Since we share the registration system with ICSME, please refer to the <a href="http://icsme2014.org/">ICSME website</a> for any additional details and updates.</div>
- 
+
   <p><a href="http://en.wikipedia.org/wiki/Victoria,_British_Columbia" target="blank">Visit Wikipedia for more information on Victoria, BC, Canada.</a></p>
 
   <p class="Flexible-container">

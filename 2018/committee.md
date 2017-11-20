@@ -1,3 +1,8 @@
+---
+layout: default
+title: Committee
+---
+
 <div class="col-12 col-sm-12 col-lg-12">
 	<a name="organizing"></a><h2>Organizing Committee</h2>
 </div>
@@ -136,14 +141,14 @@
 				<h4><a href="http://researcher.watson.ibm.com/researcher/view.php?person=us-wim" target="blank">Wim De Pauw</a><br><small>IBM Research, US</small></h4>
 				<h4><a href="http://compbio.ucdenver.edu/goerg/" target="blank">Carsten Görg</a><br><small>University of Colorado, US</small></h4>
 				<h4><a href="http://www.cs.arizona.edu/~kobourov/" target="blank">Stephen Kobourov</a><br><small>University of Arizona, US</small></h4>
-				<h4><a href="http://www.tu-cottbus.de/fakultaet1/de/software-systemtechnik/lehrstuhl/personen/prof-dr-claus-lewerentz.html" target="blank">Claus Lewerentz</a><br><small>BTU Cottbus, DE</small></h4>   
+				<h4><a href="http://www.tu-cottbus.de/fakultaet1/de/software-systemtechnik/lehrstuhl/personen/prof-dr-claus-lewerentz.html" target="blank">Claus Lewerentz</a><br><small>BTU Cottbus, DE</small></h4>
 				<h4><a href="http://people.engr.ncsu.edu/ermurph3/" target="blank">Emerson Murphy-Hill</a><br><small>North Carolina State University, US</small></h4>
 				<h4><a href="http://www.win.tue.nl/~vanwijk/" target="blank">Jarke J. van Wijk</a><br><small>TU Eindhoven, NL</small></h4>
 			</div>
 
 			<div class="col-4 col-sm-4 col-lg-4">
-				<h4><a href="http://www.st.uni-trier.de/~diehl/" target="blank">Stephan Diehl</a><br><small>University of Trier, DE</small></h4>		
-				<h4><a href="http://www-pr.informatik.uni-tuebingen.de/?site=mitarbeiter/michaelkaufmann/index" target="blank">Michael Kaufmann</a><br><small>University of Tuebingen, DE</small></h4>		
+				<h4><a href="http://www.st.uni-trier.de/~diehl/" target="blank">Stephan Diehl</a><br><small>University of Trier, DE</small></h4>
+				<h4><a href="http://www-pr.informatik.uni-tuebingen.de/?site=mitarbeiter/michaelkaufmann/index" target="blank">Michael Kaufmann</a><br><small>University of Tuebingen, DE</small></h4>
 				<h4><a href="http://www.cs.uga.edu/~eileen/" target="blank">Eileen Kraemer</a><br><small>University of Georgia, US</small></h4>
 				<h4><a href="http://www.cs.ucdavis.edu/~ma/" target="blank">Kwan-Liu Ma</a><br><small>University of California, Davis, US</small></h4>
 				<h4><a href="http://www.dcs.gla.ac.uk/~hcp/" target="blank">Helen Purchase</a><br><small>University of Glasgow, UK</small></h4>
@@ -184,7 +189,7 @@
 				<h4><a href="http://www.cs.wm.edu/~denys/" target="blank">Denys Poshyvanyk</a><br><small>College of William and Mary, US</small></h4>
 				<h4><a href="http://www-hagen.informatik.uni-kl.de/~zeckzer" target="blank">Dirk Zeckzer</a><br><small>University of Kaiserslautern, DE</small></h4>
 			</div>
-			<div class="col-4 col-sm-4 col-lg-4">	
+			<div class="col-4 col-sm-4 col-lg-4">
 				<h4><a href="http://research.fbeck.com" target="blank">Fabian Beck</a><br><small>University of Stuttgart, DE</small></h4>
 				<h4><a href="http://www.visus.uni-stuttgart.de/institut/personen/wissenschaftliche-mitarbeiter/michael-burch.html" target="blank">Michael Burch</a><br><small>University of Stuttgart, DE</small></h4>
 				<h4><a href="http://scg.unibe.ch/staff/mircea" target="blank">Mircea Lungu</a><br><small>University of Bern, CH</small></h4>

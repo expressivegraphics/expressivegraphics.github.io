@@ -1,0 +1,22 @@
+# Site navigation links
+
+- title: Submission
+  url: /submissions/
+
+- title: Program
+  url: /program/
+
+- title: Committee
+  url: /committee/
+
+- title: Projects
+  url: /registration/
+
+- title: Venue
+  url: /venue/
+
+- title: Previous Editions
+  url: /../previous/
+
+- title: News
+  url: /../news/

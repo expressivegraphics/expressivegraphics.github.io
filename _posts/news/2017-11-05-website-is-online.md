@@ -1,5 +1,4 @@
 ---
-layout: plain
 categories: news
 title: Website is online
 excerpt: Finally, after a few weeks in development, the website is online
@@ -7,9 +6,6 @@ image:
   feature: headers/website.png
   #credit: "The Non-photorealistic Rendering Framework"
   card: cards/website.jpg
-comments: true
-share: true
-schema: NewsArticle
 ---
 Testing markdown syntax
 

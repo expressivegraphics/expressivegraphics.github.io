@@ -1,3 +1,10 @@
+---
+layout: default
+title: Program
+navigation_weight: 3
+content_page: program.html
+---
+
 <div class="col-12 col-sm-12 col-lg-12">
 
   <a name="program"></a><h2>Program</h2>
@@ -11,10 +18,10 @@
 
   <tr><td>09:00</td><td><b>Welcome</b><br/>Houari Sahraoui, Andy Zaidman, and Bonita Sharif</td><td></td></tr>
   <tr><td>09:30</td><td><b><a href="keynotes.html#kn1">Visualization for Software Analytics</a></b><br/>Margaret-Anne (Peggy) Storey</td><td>Keynote</td></tr>
-  
+
   <tr><td>10:30</td><td colspan="2">Coffee Break</td></tr>
   <tr><td>11:00</td><td colspan="2"><b>Session 1: Visualization Techniques</b><br/>Steven Reiss (Chair)</td></tr>
-    
+
   <tr><td></td><td><a href="accepted.html#combining-tiled-and-textual-views-of-code">Combining Tiled and Textual Views of Code</a>
   	<br/>Michael Homer and James Noble</td><td>Full</td></tr>
   <tr><td></td><td><a href="accepted.html#integrating-anomaly-diagnosis-techniques-into-spreadsheet-environments">Integrating Anomaly Diagnosis Techniques into Spreadsheet Environments</a>
@@ -82,10 +89,10 @@
   <table class="table table-striped">
 
   <tr><td>09:30</td><td><b><a href="keynotes.html#kn2">Visualization And Human Vision: A Tale of Two Systems</a></b><br/>Ronald Rensink</td><td>Keynote</td></tr>
-  
+
   <tr><td>10:30</td><td colspan="2">Coffee Break</td></tr>
   <tr><td>11:00</td><td colspan="2"><b>Session 4: Compilers, Control Flow, and Debugging</b><br/>Mircea Lungu (Chair)</td></tr>
-    
+
   <tr><td></td><td><a href="accepted.html#how-developers-visualize-compiler-messages">How Developers Visualize Compiler Messages: A Foundational Approach to Notification Construction</a>
   	<br/>Titus Barik, Kevin Lubick, Samuel Christie, and Emerson Murphy-Hill</td><td>Full</td></tr>
   <tr><td></td><td><a href="accepted.html#regvis">Lightweight Structured Visualization of Assembler Control Flow based on Regular Expressions</a>
@@ -94,7 +101,7 @@
   	<br/>Daniel Rozenberg and Ivan Beschastnikh</td><td>NIER</td></tr>
   <tr><td></td><td><a href="accepted.html#the-challenge-of-helping-the-programmer-during-debugging">The Challenge of Helping the Programmer During Debugging</a>
  	<br/>Steven Reiss</td><td>NIER</td></tr>
-  	
+
   <tr><td>12:30</td><td colspan="2">Lunch</td></tr>
   <tr><td>13:30</td><td colspan="2"><b>Session 5: Evolution</b><br/>Titus Barik (Chair)</td></tr>
 

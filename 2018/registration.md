@@ -1,3 +1,8 @@
+---
+layout: default
+title: Registration
+---
+
 <div class="col-12 col-sm-12 col-lg-12">
 
   <a name="registration"></a><h2>Registration</h2>

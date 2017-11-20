@@ -1,3 +1,9 @@
+---
+layout: default
+title: Accepted papers
+---
+
+
 <div class="col-12 col-sm-12 col-lg-12">
 
   <p><a href="http://conferences.computer.org/vissoft/2014/">Open Access Proceedings</a> available.</p>
@@ -94,7 +100,7 @@
       <p>Blake Haugen and Jakub Kurzak.</p>
       <p>Software performance optimization and many other fields are interested in finding an optimal solution in a large search space. These search spaces are often large, complex, non- linear and even non-continuous at times. The size of the search space makes the a brute force solution intractable. As a result, one or more search space pruning constraints are often used to reduce the number of candidate configurations that must be evaluated in order to solve the optimization problem.</p>
       <p>If more than one pruning constraint is employed, it can be challenging to understand how the pruning constraints interact and overlap. This work presents a visualization technique based on a radial, space-filling technique that allows the user to gain a better understanding of how the pruning constraints remove candidates from the search space. The technique is then demonstrated using a search space pruning data set derived from the optimization of a matrix multiplication code for NVIDIA CUDA accelerators (<a href="http://vimeo.com/96285958">watch video</a>).</p>
-    
+
       <hr class="bs-docs-separator">
 
       <a name="using-a-task-oriented-framework-for-the-characterization-of-visualization-approaches"></a>
@@ -143,7 +149,7 @@
       <a name="templated-visualization-of-object-state-with-vebugger"></a>
       <hr class="bs-docs-separator">
       <h4>Templated Visualization of Object State with Vebugger</h4>
-      
+
       <p><a href="http://www.cs.ubc.ca/~rodaniel/">Daniel Rozenberg</a> and <a href="http://www.cs.ubc.ca/~bestchai/">Ivan Beschastnikh</a>.</p>
       <p>Software developers often need to inspect the state of objects during debugging. Existing debuggers display a textual representation of the state of selected objects. While these textual representations often contain enough information, they are also difficult to comprehend. For example, an object that represents a color is traditionally represented by listing the numbers that comprise its RGB values. This representation, while complete, is hardly comprehensible.</p>
       <p>We describe Vebugger, an IDE plugin for Eclipse that displays object state visually. Recalling the previous example, Vebugger displays the actual color that a Color object represents in addition to its RGB values. This representation is easier to understand. Vebugger visualizes object types using a set of extensible templates. These templates are written in HTML and CSS, and they are matched to Java types by inspecting the type hierarchy. We developed a dozen such templates for a diverse set of Java types to demonstrate the capabilities of the system. Vebugger is preliminary work, we also detail future research directions and our planned evaluation strategy (<a href="http://www.cs.ubc.ca/~rodaniel/papers/vissoft14_vebugger.pdf">open paper preprint</a> or <a href="https://github.com/daniboy/vebugger">visit tool website</a>).</p>
@@ -151,7 +157,7 @@
       <a name="livecoding-the-synthkit"></a>
       <hr class="bs-docs-separator">
       <h4>Livecoding the SynthKit: littleBits as an embodied programming language</h4>
-      
+
       <p><a href="http://www.mcs.vuw.ac.nz/people/James-Noble">James Noble</a>.</p>
       <p>littleBits (littleBits.cc) is an open-source hardware library of pre-assembled analogue components that can be easily assembled into circuits, disassembled, reassembled, and re-used. In this paper, we consider littleBits as a physically-embodied domain specific programming language. We describe the littleBits system, explain how littleBits "programs" are constructed as configurations of physical modules in the real world, and describe how they are typically used to control physical artefacts or constructions. We then argue that littleBits constructions essentially 'visualise themselves'. We describe how littleBits' liveness, embodiment, and plasticity assists both learning and debugging, and then evaluate littleBits configurations according to the cognitive dimensions of notations.</p>
 
@@ -161,7 +167,7 @@
 
       <a name="polyptychon"></a>
       <h4>Polyptychon: A Hierarchically-constrained Classified Dependencies Visualization</h4>
-      
+
       <p>Donny T. Daniel, Egon Wuchner, Konstantin Sokolov, Michael Stal and Peter Liggesmeyer.</p>
       <p>Architects and developers are often tasked with evaluating or maintaining unfamiliar software systems. Reverse engineering tools help extract relationships between the system parts as they exist instead of as documented. Though node-link diagrams have a straightforward correspondence with the graph-representable data generated, the scale and complexity of real-world data sets prevent efficient comprehension.</p>
       <p>This paper presents Polyptychon, an interactive node-link visualization designed for incremental exploration of dependency information. Given a hierarchical information space of software artifacts, Polyptychon constrains the visible dependencies to be related to the child nodes of a specified artifact node, called a view root. It then classifies these siblings as levelized, tangled and independent. It also includes context nodes, which are a filtered set of nodes elsewhere in the hierarchy that are related to the siblings. The context nodes are further grouped based on a project-specific partition function. The hierarchical constraints and partition function provide means to control the number of nodes displayed, while the dependency classification allows users to form a qualitative impression of the dependency structure. We demonstrate with examples from the Netty open source project. We conclude with areas of future work, in particular, as a basis of evolutionary dependency analysis (<a href="http://www.donny.in/papers/vissoft-2014.pdf">open paper preprint</a>).</p>

@@ -2,8 +2,8 @@
 layout: default
 title: Submission
 excerpt: "Submit to Expressive 2018"
-navigation_weight: 1
-content_page: submissions.html
+#navigation_weight: 1
+#content_page: submissions.html
 ---
 
 ## Expressive 2018 - Call for Papers

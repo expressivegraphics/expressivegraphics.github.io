@@ -1,3 +1,7 @@
+---
+layout: default
+title: Previous Editions
+---
 <div class="col-12 col-sm-12 col-lg-12">
 
   <a name="previous"></a><h2>Previous Editions</h2>
