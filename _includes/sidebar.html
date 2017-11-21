@@ -1,17 +1,23 @@
 <div class="col-xs-6 col-sm-3 sidebar-offcanvas" id="sidebar">
   <!-- SPONSORS -->
-  <div class="panel" id="sponsors">
+  <div class="panel panel-default" id="sponsors">
+    <h4 class="panel-heading">Co-sponsored by</h4>
     <div class="panel-body">
-      <h4>Sponsors</h4>
-      <a href="http://www.ieee.org/"><img src="http://www.ieee.org/documents/49263_ieee_mb_black.gif" class="img-responsive"></a>
-      <a href="http://www.cs-tcse.org/"><img src="http://www.cs-tcse.org/_/rsrc/1364849289897/tcse-logos/TCSE-Logo.png" class="img-responsive"></a>
+      <div class="dense-gutter">
+        <div class="col-sm-6">
+          <a href="http://www.siggraph.org/"><img src="/img/SIGGRAPH-logo.png" class="img-responsive"></a>
+        </div>
+        <div class="col-sm-6">
+          <a href="http://www.eg.org/"><img src="/img/Eurographics-logo.png" class="img-responsive"></a>
+        </div>
+      </div>
     </div>
   </div>
 
   <!-- NEWS -->
-  <div class="panel" id="news">
+  <div class="panel panel-default" id="news">
+    <h4 class="panel-heading">News</h4>
     <div class="list-group">
-      <h4>News</h4>
       {% assign news = site.data.news.news | sort:"date" %}
       {% for n in news reversed %}
   	<a href="/news/index.html#{{ n.date }}" class="list-group-item">
