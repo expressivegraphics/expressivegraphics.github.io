@@ -5,13 +5,18 @@ title: News
 
 <div class="col-12 col-sm-12 col-lg-12">
 
-    {% assign news = site.data.news.news | sort:"date" %}
+    {% assign news = site.categories.news | sort:"date" %}
     {% for n in news reversed %}
 
 	<div class="col-12 col-sm-12 col-lg-12">
-	<a name="{{ n.date }}"></a><h2>{{ n.title }}<br><small>{{ n.date }}</small></h2>
-	<p>{{ n.text }}</p>
-	</div>
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h2 class="panel-title">{{ n.title }}<br><small>{{ n.date | date: "%B %d, %Y" }}</small></h2>
+        </div>
+        <div class="panel-body">
+            {{ n.content }}
+        </div>
+    </div>
 
 	{% endfor %}
 
