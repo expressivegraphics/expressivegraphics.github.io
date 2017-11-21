@@ -4,39 +4,14 @@ title: Expressive 2018
 ---
 <img src="/img/teaser.jpg" class="img-responsive img-thumbnail top1" id="venue" alt="venue">
 
-<section id="introduction" class="text-center top2" markdown="1">
+## Aims and Scope
 
-## — Expressive 2018 —
+Expressive fuses three symposia centered on expressive aspects of computer graphics.
 
-The **Joint Symposium** on
+__Computational Aesthetics (CAe)__ bridges the analytic and synthetic by integrating aspects of computer science, philosophy, psychology, and the fine, applied & performing arts. It brings together individuals with technical experience of developing computer-based tools to solve aesthetic problems and people with artistic/design backgrounds who use these new tools.
 
-### Computational Aesthetics
+__Non-Photorealistic Animation and Rendering (NPAR)__ refers to computational techniques for visual communication. Such techniques usually generate imagery and motion which is expressive, rather than photorealistic, although they may incorporate realistic elements.
 
-and
+__Sketch-Based Interfaces and Modeling (SBIM)__ provides a unique venue for researchers, students and practitioners interested in sketch-based techniques to interact with one another, share lessons learned, show new results and discuss open issues.
 
-### Sketch-Based Interfaces and Modeling
-
-and
-
-### Non-Photorealistic Animation and Rendering
-
-_in Victoria, Canada, on 17–19 August 2018._
-
-</section>
-
-<!--
-<div class="col-12 col-sm-12 col-lg-12">
-
-  <p><img src="/img/teaser.jpg" class="img-responsive img-thumbnail" id="venue" alt="venue"></p>
-
-  <p>The second IEEE Working Conference on Software Visualization (VISSOFT 2014) builds upon the success of the first edition of VISSOFT in Eindhoven, which in turn followed after six editions of the IEEE International Workshop on Visualizing Software for Understanding and Analysis (VISSOFT) and five editions of the ACM Symposium on Software Visualization (SOFTVIS). In 2014, VISSOFT will again be co-located with ICSME in Victoria, BC, Canada.</p>
-
-  <p><b><a href="http://conferences.computer.org/vissoft/2014/">VISSOFT 2014 open access proceedings</a> available.</b></p>
-
-  <h3>Aims and Scope</h3>
-
-  <p>Software Visualization is a broad research area encompassing techniques that assist in a range of software engineering activities, such as, specification, design, programming, testing, maintenance, reverse engineering and reengineering. Covered methods contain the development and evaluation of approaches for visually analyzing software and software systems, including their structure, execution behavior, and evolution.</p>
-
-  <p>In this conference, we focus on visualization techniques that target aspects of software maintenance and evolution, program comprehension, reverse engineering, and reengineering, i.e., how visualization helps programmers to understand, analyze, and evolve software. We aim to gather tool developers, users and researchers from software engineering, information visualization, and human-computer interaction to discuss theoretical foundations, algorithms, techniques, tools, and applications related to software visualization. We seek theoretical, as well as practical papers on applications, techniques, tools, case studies, and empirical studies.</p>
-
-</div><!--/span-->
+These symposia were first held jointly in 2011, and continue to be integrated under the Expressive umbrella.
