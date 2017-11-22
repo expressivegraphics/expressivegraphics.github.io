@@ -1,13 +1,52 @@
 ---
 layout: default
-title: Submission
+title: Submissions
 excerpt: "Submit to Expressive 2018"
-headline: "Call for Papers"
+headline: "Submissions"
 #navigation_weight: 1
 #content_page: submissions.html
 ---
 
-[<span class="glyphicon glyphicon-file"></span> Call for Papers (PDF, 317 KiB)](/docs/vissoft-2014-call-for-papers.pdf)
+Being at the forefront of expressive rendering research since 2012, Expressive 2018 will take place in Victoria, Canada, August 17–19, 2018 --- shortly before [SIGGRAPH 2018](http://s2018.siggraph.org/) in Vancouver. A single registration for Expressive 2018 will include all three workshops.
+Invited talks and artists talks will be shared among the workshops and sessions will be mixed. The submission, review, and publication process for the event will be handled jointly across the three conferences.
+
+{::options parse_block_html="true" /}
+
+<div class="panel panel-warning">
+#### Important dates
+{: .panel-heading}
+<div class="panel-body">
+
+| __Abstract submission deadline:__ {{ site.symposium.abstract }} |
+| __Paper submission deadline:__ {{ site.symposium.paper }} |
+| __Acceptance notification:__ {{ site.symposium.acceptance }} |
+
+</div>
+</div>
+
+{::options parse_block_html="false" /}
+
+{::options parse_block_html="true" /}
+
+<div class="panel panel-default">
+#### Organization
+{: .panel-heading}
+<div class="panel-body">
+
+| __General Chairs:__ || Bruce Gooch, Texas A&M University, USA
+|                     || Yotam Gingold, George Mason University, USA
+| __Paper chairs:__   || Holger Winnemoeller, Adobe Systems, Inc., USA
+|                     || Lyn Bartram, Simon Fraser University, Canada
+| __Art chair:__      || Ergun Akleman, Texas A&M University, USA ||
+
+</div>
+</div>
+
+{::options parse_block_html="false" /}
+
+## Call for Papers
+
+[<span class="glyphicon glyphicon-file"></span> Call for Papers (PDF, 317 KiB)](/docs/expressive-2018-call-for-papers.pdf)
 
 Expressive is a joint Symposium featuring the following workshops:
 
@@ -15,8 +54,7 @@ Expressive is a joint Symposium featuring the following workshops:
 * Non-photorealistic Animation and Rendering (NPAR)
 * Sketch-based Interfaces and Modelling (SBIM)
 
-Being at the forefront of expressive rendering research since 2012, Expressive 2018 will take place in Victoria, Canada, August 17–19, 2018 --- shortly before [SIGGRAPH 2018](http://s2018.siggraph.org/) in Victoria. A single registration for Expressive 2018 will include all three workshops.
-Invited talks and artists talks will be shared among the workshops and sessions will be mixed. The submission, review, and publication process for the event will be handled jointly across the three conferences. Each paper submission should be designated as belonging to one of the three tracks.
+Each paper submission should be designated as belonging to one of the three tracks.
 
 {::options parse_block_html="true" /}
 
@@ -68,6 +106,8 @@ Each paper submission should be designated by the authors as belonging to at lea
 * __Production:__ candid discussion of the process of creating a work (e.g., film, image, game) or art tool (e.g., paint or CAD program, software library). We are equally interested in papers on the use of existing techniques combined in novel ways, or applying them in a new or unusual context.
 * __Meta:__ statements about research that do not contain new results, e.g.: grand challenges, position papers, evaluation standards, surveys, and primers on art / aesthetics / psychophysics for a computer science audience. We welcome papers that discuss the challenges of bridging computational expression across disciplines.
 
+### Topics
+
 {::options parse_block_html="true" /}
 
 <div class="panel panel-default">
@@ -105,31 +145,41 @@ Each paper submission should be designated by the authors as belonging to at lea
 
 ### Submission Information
 
-In a nutshell:
-* __Dates:__ August 12-19, 2018
-* __Location:__ Victoria, Canada
-* __URL:__ [expressive.graphics/2018](expressive.graphics/2018)
-* __Co-sponsored by:__ ACM Siggraph, Eurographics and Adobe
-
-| Important dates |
-| --- |
-| Abstract submission deadline: {{ site.symposium.abstract }} |
-| Paper submission deadline: {{ site.symposium.paper }} |
-| Acceptance notification: {{ site.symposium.acceptance }} |
-
 All work must be previously unpublished. Production and Meta papers need not contain original research or results, but must make a substantive contribution to the knowledge in the field. Papers should be 8–10 pages in length (excluding citations). Papers longer than 10 pages must make a very significant contribution.
 
 Paper submission is electronic using the [??? system](URL COMES HERE).
 
 For detailed instructions to submit papers, posters, videos and other materials, please view the submission instructions.
 
-#### General Chairs:
-Bruce Gooch, Texas A&M University, USA
-Yotam Gingold, George Mason University, USA
+## Call for General Submissions
 
-#### Paper chairs:
-Holger Winnemoeller, Adobe Systems, Inc., USA
-Lyn Bartram, Simon Fraser University, Canada
+[<span class="glyphicon glyphicon-file"></span> Call for General Submissions (PDF, 317 KiB)](/docs/expressive-2018-call-for-general-submissions.pdf)
 
-#### Art chair:
-Ergun Akleman, Texas A&M University, USA
+Expressive 2018 will continue to host a gallery for 2D and 3D artworks, sculptures, animations, posters and demonstration projects, where artist installations and computational demonstrations will be featured side-by-side. In this category, we focus on recent research and creative activities at the intersection of arts and sciences. We are open to any work that is related to topics of the Expressive 2018 conferences (Computational Aesthetics, Sketch-Based Interfaces and Modeling, and Non-Photorealistic Animation and Rendering). The authors of accepted works will be invited to present their work through a panel discussion or short oral presentation within the main Expressive 2018 conference. Accepted works will be archived through the ACM Digital Library.
+
+### Topics
+
+General Submissions seeks for submissions for posters, demos and art exhibition in the three main tracks of Expressive Conference. We are interested in a wide variety of works that bridge arts and sciences. We are particularly interested in techniques for visually communicating ideas and information and for sketch based interaction and modeling integration through integration of computer science, mathematics, philosophy, psychology, and the fine, applied & performing arts.
+
+Expressive solicits extended abstracts for poster, demo and art exhibition proposals. Accepted works will be demonstrated and exhibited during the conference. We expect these works will pose new questions and motivate further research in three main areas of Expressive Conference: (1) Computational Aesthetics; (2) Sketch Based Interfaces and Modeling; and (3) Non-Photorealistic Animation and Rendering.
+
+### Guidelines
+
+We seek poster, demo and art exhibition submissions that show work that pertains to all three tracks of Expressive 2018. All submissions should be in the form of a two-page or longer abstract, written in English, and should follow the SIGGRAPH formatting instructions, including a title page with an abstract, keywords, and a bibliography. Submissions should provide a clear description of the work and the process. Posters, demos and artworks will be demonstrated and/or displayed at the conference venue. Authors of accepted works in all areas of submitted work are encouraged to bring a demonstration of their work as well; it is not necessary to create a separate submission for a poster and a demo if they refer to the same project.
+
+Submission is electronic using the EasyChair system.
+
+For detailed instructions to submit posters, papers, videos and other materials, please view the submission instructions.
+
+## Call for Journal Presentations
+
+[<span class="glyphicon glyphicon-file"></span> Call for Journal Presentations (PDF, 317 KiB)](/docs/expressive-2018-call-for-journal-presentations.pdf)
+
+As at previous events, we will include a submission category for the presentation of work previously published in a journal. The intent of this category is to allow authors of journal papers the opportunity to present their research at Expressive. These papers will not appear in the Expressive proceedings.
+
+### Guidelines
+
+The work should be published in the July 2017 – July 2018 time frame, and not have been previously presented at a conference or symposium. A copy of the paper abstract and a link to the published paper or preprint should be submitted via email to the program chairs. Submissions will be reviewed by the program committee. Note that accepted presentations are subject to the same rules as regular papers, namely that at least one author must register for the conference.
+
+Rolling notification closes {{ site.symposium.general }} |.
+
