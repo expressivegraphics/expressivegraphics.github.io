@@ -1,198 +1,122 @@
 ---
 layout: default
-title: Organizing Committee
+title: Organization
 ---
 
-<div class="col-4 col-sm-4 col-lg-4">
-	<div class="panel panel-default">
-		<div class="panel-heading">
-			<h4 class="panel-title">General Chair</h4>
-		</div>
-		<div class="panel-body">
-			<img src="/img/people-none.jpg" class="img-responsive">
-			<h4><a href="http://www.iro.umontreal.ca/~sahraouh/index_eng.html" target="blank">Houari Sahraoui</a><br><small>University of Montreal, CA</small></h4>
-		</div>
-	</div>
-</div>
-
-<div class="col-8 col-sm-8 col-lg-8">
-	<div class="panel panel-default">
-		<div class="panel-heading">
-			<h4 class="panel-title">Program Co-Chairs</h4>
-		</div>
-		<div class="panel-body">
-			<div class="row">
-				<div class="col-6 col-sm-6 col-lg-6">
-					<img src="/img/people-none.jpg" class="img-responsive">
-					<h4><a href="http://www.csis.ysu.edu/~bsharif/" target="blank">Bonita Sharif</a><br><small>Youngstown State University, US</small></h4>
-				</div>
-				<div class="col-6 col-sm-6 col-lg-6">
-					<img src="/img/people-none.jpg" class="img-responsive">
-					<h4><a href="http://www.st.ewi.tudelft.nl/~zaidman/" target="blank">Andy Zaidman</a><br><small>Delft University of Technology, NL</small></h4>
-				</div>
-			</div>
-		</div>
-	</div>
-</div>
-
-<div class="col-8 col-sm-8 col-lg-8">
-	<div class="panel panel-default">
-		<div class="panel-heading">
-			<h4 class="panel-title">NIER & Tool-Demo Track Co-Chairs</h4>
-		</div>
-		<div class="panel-body">
-			<div class="row">
-				<div class="col-6 col-sm-6 col-lg-6">
-					<img src="/img/people-none.jpg" class="img-responsive">
-					<h4><a href="http://www.visus.uni-stuttgart.de/en/institute/people/research-associates/fabian-beck.html" target="blank">Fabian Beck</a><br><small>University of Stuttgart, DE</small></h4>
-				</div>
-				<div class="col-6 col-sm-6 col-lg-6">
-					<img src="/img/people-none.jpg" class="img-responsive">
-					<h4><a href="http://scg.unibe.ch/staff/mircea" target="blank">Mircea Lungu</a><br><small>University of Bern, CH</small></h4>
-				</div>
-			</div>
-		</div>
-	</div>
-</div>
-
-<div class="col-4 col-sm-4 col-lg-4">
-	<div class="panel panel-default">
-		<div class="panel-heading">
-			<h4 class="panel-title">Challenge Chair</h4>
-		</div>
-		<div class="panel-body">
-			<img src="/img/people-none.jpg" class="img-responsive">
-			<h4><a href="http://www.gousios.gr/" target="blank">Georgios Gousios</a><br><small>Delft University of Technology</small></h4>
-		</div>
-	</div>
-</div>
-
-<div class="col-4 col-sm-4 col-lg-4">
-	<div class="panel panel-default">
-		<div class="panel-heading">
-			<h4 class="panel-title">Publicity & Web Chair</h4>
-		</div>
-		<div class="panel-body">
-			<img src="/img/people-none.jpg" class="img-responsive">
-			<h4><a href="http://www.hpi.uni-potsdam.de/doellner/people/limberger.html" target="blank">Daniel Limberger</a><br><small>Hasso Plattner Institute, DE</small></h4>
-		</div>
-	</div>
-</div>
-
 <div class="col-12 col-sm-12 col-lg-12">
-	<a name="steering"></a><h2>Steering Committee</h2>
 
+	<h2>Organizing Committee</h2>
+	
+	<div class="alert alert-warning">To be announced/determined.</div>
+
+
+<div class="col-4 col-sm-4 col-lg-4">
 	<div class="panel panel-default">
+		<div class="panel-heading">
+			<h4 class="panel-title">General Chairs</h4>
+		</div>
 		<div class="panel-body">
-			<div class="col-4 col-sm-4 col-lg-4">
-				<img src="/img/people-none.jpg" class="img-responsive">
-				<h4><a href="http://www.st.uni-trier.de/~diehl/" target="blank">Stephan Diehl</a><br><small>University of Trier, DE</small></h4>
-				<hr>
-				<img src="/img/people-none.jpg" class="img-responsive">
-				<h4><a href="http://www.informatik.uni-bremen.de/~koschke/" target="blank">Rainer Koschke</a><br><small>University of Bremen, DE</small></h4>
-				<hr>
-				<img src="/img/people-none.jpg" class="img-responsive">
-				<h4><a href="http://www.cs.brown.edu/~spr/" target="blank">Steven P. Reiss</a><br><small>Brown University, RI, US</small></h4>
-				<hr>
-				<img src="/img/people-none.jpg" class="img-responsive left">
-				<h4><a href="http://www.iro.umontreal.ca/~sahraouh/index_eng.html" target="blank">Houari Sahraoui</a><br><small>University of Montreal, CA</small></h4>
-			</div>
-			<div class="col-4 col-sm-4 col-lg-4">
-				<img src="/img/people-none.jpg" class="img-responsive">
-				<h4><a href="http://compbio.ucdenver.edu/goerg/" target="blank">Carsten Görg</a><br><small>University of Colorado, US</small></h4>
-				<hr>
-				<img src="/img/people-none.jpg" class="img-responsive">
-				<h4><a href="http://www.inf.usi.ch/faculty/lanza/" target="blank">Michele Lanza</a><br><small>University of Lugano, CH</small></h4>
-				<hr>
-				<img src="/img/people-none.jpg" class="img-responsive">
-				<h4><a href="http://webhome.cs.uvic.ca/~mstorey" target="blank">Margaret-Anne Storey</a><br><small>University of Victoria, CA</small></h4>
-			</div>
-			<div class="col-4 col-sm-4 col-lg-4">
-				<img src="/img/people-none.jpg" class="img-responsive">
-				<h4><a href="http://eerc.wsu.edu/faculty/profiles/Christopher-Hundhausen.shtml" target="blank">Christopher Hundhausen</a><br><small>Washington State University, US</small></h4>
-				<hr>
-				<img src="/img/people-none.jpg" class="img-responsive">
-				<h4><a href="http://www.cs.kent.edu/~jmaletic/" target="blank">Jonathan Maletic</a><br><small>Kent State University, US</small></h4>
-				<hr>
-				<img src="/img/people-none.jpg" class="img-responsive">
-				<h4><a href="http://www.cs.rug.nl/svcg/People/AlexandruTelea" target="blank">Alexandru C. Telea</a><br><small>University of Groningen, NL</small></h4>
-			</div>
-
+			<h4>Bruce Gooch<br><small>Texas A&M University, USA</small></h4>
+			<h4>Yotam Gingold<br><small>George Mason University, USA</small></h4>
 		</div>
 	</div>
+</div>
 
+<div class="col-8 col-sm-8 col-lg-4">
+	<div class="panel panel-default">
+		<div class="panel-heading">
+			<h4 class="panel-title">Paper Chairs</h4>
+		</div>
+		<div class="panel-body">
+			<h4>Holger Winnemöller<br><small>Adobe Systems, USA</small></h4>
+			<h4>Lyn Bartram<br><small>Simon Fraser University, CA</small></h4>
+		</div>
+	</div>
+</div>
+
+<div class="col-8 col-sm-8 col-lg-4">
+	<div class="panel panel-default">
+		<div class="panel-heading">
+			<h4 class="panel-title">Art Chair</h4>
+		</div>
+		<div class="panel-body">
+			<h4>Ergun Akleman<br><small>Texas A&M University, USA</small></h4>
+		</div>
+	</div>
+</div>
 
 </div>
 
 <div class="col-12 col-sm-12 col-lg-12">
 
-	<a name="track1"></a><h2>Program Committee - Main Track</h2>
-
-	<!--<div class="alert alert-warning">To be announced/determined.</div>-->
-
-	<div class="panel panel-default">
-		<div class="panel-body">
-
-			<div class="col-4 col-sm-4 col-lg-4">
-				<h4><a href="http://researcher.watson.ibm.com/researcher/view.php?person=us-wim" target="blank">Wim De Pauw</a><br><small>IBM Research, US</small></h4>
-				<h4><a href="http://compbio.ucdenver.edu/goerg/" target="blank">Carsten Görg</a><br><small>University of Colorado, US</small></h4>
-				<h4><a href="http://www.cs.arizona.edu/~kobourov/" target="blank">Stephen Kobourov</a><br><small>University of Arizona, US</small></h4>
-				<h4><a href="http://www.tu-cottbus.de/fakultaet1/de/software-systemtechnik/lehrstuhl/personen/prof-dr-claus-lewerentz.html" target="blank">Claus Lewerentz</a><br><small>BTU Cottbus, DE</small></h4>
-				<h4><a href="http://people.engr.ncsu.edu/ermurph3/" target="blank">Emerson Murphy-Hill</a><br><small>North Carolina State University, US</small></h4>
-				<h4><a href="http://www.win.tue.nl/~vanwijk/" target="blank">Jarke J. van Wijk</a><br><small>TU Eindhoven, NL</small></h4>
-			</div>
-
-			<div class="col-4 col-sm-4 col-lg-4">
-				<h4><a href="http://www.st.uni-trier.de/~diehl/" target="blank">Stephan Diehl</a><br><small>University of Trier, DE</small></h4>
-				<h4><a href="http://www-pr.informatik.uni-tuebingen.de/?site=mitarbeiter/michaelkaufmann/index" target="blank">Michael Kaufmann</a><br><small>University of Tuebingen, DE</small></h4>
-				<h4><a href="http://www.cs.uga.edu/~eileen/" target="blank">Eileen Kraemer</a><br><small>University of Georgia, US</small></h4>
-				<h4><a href="http://www.cs.ucdavis.edu/~ma/" target="blank">Kwan-Liu Ma</a><br><small>University of California, Davis, US</small></h4>
-				<h4><a href="http://www.dcs.gla.ac.uk/~hcp/" target="blank">Helen Purchase</a><br><small>University of Glasgow, UK</small></h4>
-				<h4><a href="http://pages.cpsc.ucalgary.ca/~rwalker/" target="blank">Robert Walker</a><br><small>University of Calgary, US</small></h4>
-			</div>
-
-			<div class="col-4 col-sm-4 col-lg-4">
-				<h4><a href="http://www.hpi.uni-potsdam.de/personen/professoren/doellner.html" target="blank">Jürgen Döllner</a><br><small>Hasso Plattner Institute, DE</small></h4>
-				<h4><a href="http://holgerkienle.wikispaces.com/" target="blank">Holger Kienle</a><br><small>University of Victoria, CA</small></h4>
-				<h4><a href="http://www.inf.usi.ch/faculty/lanza/" target="blank">Michele Lanza</a><br><small>University of Lugano, CH</small></h4>
-				<h4><a href="http://www.cs.kent.edu/~jmaletic/" target="blank">Jonathan Maletic</a><br><small>Kent State University, US</small></h4>
-				<h4><a href="http://www.cs.brown.edu/~spr/" target="blank">Steven P. Reiss</a><br><small>Brown University, US</small></h4>
-				<h4><a href="http://www.utdallas.edu/~kzhang/" target="blank">Kang Zhang</a><br><small>University of Texas, US</small></h4>
-			</div>
-
-
-		</div>
-	</div>
-
-	<a name="track2"></a><h2>Program Committee - NIER and Tool-Demo Tracks</h2>
+	<h2>Program Committee</h2>
+	
+	<div class="alert alert-warning">To be announced/determined.</div>
 
 	<div class="panel panel-default">
 		<div class="panel-body">
 
 			<div class="col-4 col-sm-4 col-lg-4">
-				<h4><a href="http://www.cvast.tuwien.ac.at/~bilal" target="blank">Bilal Alsallakh</a><br><small>Vienna University of Technology, IT</small></h4>
-				<h4><a href="http://www.bergel.eu" target="blank">Alexandre Bergel</a><br><small>University of Chile, CL</small></h4>
-				<h4><a href="http://www.tudorgirba.com/" target="blank">Tudor Girba</a><br><small>University of Bern, CH</small></h4>
-				<h4><a href="http://www.ecs.vuw.ac.nz/people/Stuart-Marshall" target="blank">Stuart Marshall</a><br><small>Victoria University of Wellington, NZ</small></h4>
-				<h4><a href="http://www.michaelperscheid.de/" target="blank">Michael Perscheid</a><br><small>SAP Innovation Center Potsdam, DE</small></h4>
-				<h4><a href="http://www.cs.rug.nl/svcg/People/AlexandruTelea" target="blank">Alexandru C. Telea</a><br><small>University of Groningen, NL</small></h4>
+				<h4>Ergun Akleman<br><small>Texas A&M University, USA</small></h4>
+				<h4>Loïc Barthe<br><small>Université Paul Sabatier, FR</small></h4>
+				<h4>Stefan Bruckner<br><small>University of Bergen, NO</small></h4>
+				<h4>Frederic Cordier<br><small>Université de Haute Alsace, FR</small></h4>
+				<h4>Stephen DiVerdi<br><small>Adobe Research, USA</small></h4>
+				<h4>Katayoon Etemad<br><small>University of Calgary, CA</small></h4>
+				<h4>Angus Forbes<br><small>University of California, USA</small></h4>
+				<h4>Yotam Gingold<br><small>George Mason University, USA</small></h4>
+				<h4>Peter Hall<br><small>University of Bath, UK</small></h4>
+				<h4>Victoria Interrante<br><small>University of Minnesota, USA</small></h4>
+				<h4>Craig S. Kaplan<br><small>University of Waterloo, CA</small></h4>
+				<h4>Barbara Meier<br><small>Brown University, USA</small></h4>
+				<h4>Peter Rautek<br><small>KAUST, SA</small></h4>
+				<h4>Paul L. Rosin<br><small>Cardiff University, UK</small></h4>
+				<h4>Stefan Schlechtweg<br><small>Hochschule Anhalt, DE</small></h4>
+				<h4>Peter Shirley<br><small>University of Utah, USA</small></h4>
+				<h4>Kenshi Takayama<br><small>National Institute of Informatics, JP</small></h4>
+				<h4>Luiz Velho<br><small>IMPA, BR</small></h4>
 			</div>
 			<div class="col-4 col-sm-4 col-lg-4">
-				<h4><a href="http://anslow.cpsc.ucalgary.ca/" target="blank">Craig Anslow</a><br><small>University of Calgary, CA</small></h4>
-				<h4><a href="http://www.isys.uni-klu.ac.at/ISYS/RM/Staff/Andreas.Bollin" target="blank">Andreas Bollin</a><br><small>University of Klagenfurt, AT</small></h4>
-				<h4><a href="http://homepage.lnu.se/staff/akemsi/" target="blank">Andreas Kerren</a><br><small>Linnaeus University, SE</small></h4>
-				<h4><a href="http://vidi.cs.ucdavis.edu/People/muelder.php" target="blank">Chris Muelder</a><br><small>University of California, US</small></h4>
-				<h4><a href="http://www.cs.wm.edu/~denys/" target="blank">Denys Poshyvanyk</a><br><small>College of William and Mary, US</small></h4>
-				<h4><a href="http://www-hagen.informatik.uni-kl.de/~zeckzer" target="blank">Dirk Zeckzer</a><br><small>University of Kaiserslautern, DE</small></h4>
+				<h4>Zainab AlMeraj<br><small>Kuwait University, KW</small></h4>
+				<h4>Pierre Bénard<br><small>Université de Bordeaux, FR</small></h4>
+				<h4>Marie-Paule Cani<br><small>Grenoble Institute of Technology, FR</small></h4>
+				<h4>Pedro Cruz<br><small>Northeastern University, USA</small></h4>
+				<h4>Jürgen Döllner<br><small>Hasso Plattner Institute, DE</small></h4>
+				<h4>Adam Finkelstein<br><small>Princeton University, USA</small></h4>
+				<h4>Esteban Garcia Bravo<br><small>Purdue University, USA</small></h4>
+				<h4>Bruce Gooch<br><small>Texas A&M University, USA</small></h4>
+				<h4>Donald House<br><small>Clemson University, USA</small></h4>
+				<h4>Tobias Isenberg<br><small>Inria / Université Paris Saclay, FR</small></h4>
+				<h4>Joe La Viola<br><small>University of Central Florida, USA</small></h4>
+				<h4>David Mould<br><small>Carleton University, CA</small></h4>
+				<h4>Christian Richardt<br><small>University of Bath, UK</small></h4>
+				<h4>Anthony Santella<br><small>USA</small></h4>
+				<h4>Amir Semmo<br><small>Hasso Plattner Institute, DE</small></h4>
+				<h4>Karan Singh<br><small>University of Toronto, CA</small></h4>
+				<h4>Joëlle Thollot<br><small>Université Grenoble Alpes, FR</small></h4>
+				<h4>Daniel Weiskopf<br><small>Universität Stuttgart, DE</small></h4>
 			</div>
 			<div class="col-4 col-sm-4 col-lg-4">
-				<h4><a href="http://research.fbeck.com" target="blank">Fabian Beck</a><br><small>University of Stuttgart, DE</small></h4>
-				<h4><a href="http://www.visus.uni-stuttgart.de/institut/personen/wissenschaftliche-mitarbeiter/michael-burch.html" target="blank">Michael Burch</a><br><small>University of Stuttgart, DE</small></h4>
-				<h4><a href="http://scg.unibe.ch/staff/mircea" target="blank">Mircea Lungu</a><br><small>University of Bern, CH</small></h4>
-				<h4><a href="http://www.cc.gatech.edu/~vector/" target="blank">Chris Parnin</a><br><small>Georgia Tech, US</small></h4>
-				<h4><a href="" target="blank">David Röthlisberger</a><br><small></small></h4>
+				<h4>Paul Asente<br><small>Adobe Research, USA</small></h4>
+				<h4>Adrien Bousseau<br><small>Inria Sophia-Antipolis, FR</small></h4>
+				<h4>Nathan Carr<br><small>Adobe Research, USA</small></h4>
+				<h4>Oliver Deussen<br><small>Universität Konstanz, USA</small></h4>
+				<h4>David Ebert<br><small>Purdue University, USA</small></h4>
+				<h4>Roland Fleming<br><small>University of Giessen, DE</small></h4>
+				<h4>Murat Germen<br><small>Sabanci University, TR</small></h4>
+				<h4>Eduard Gröller<br><small>Vienna University of Technology, AT</small></h4>
+				<h4>John Hughes<br><small>Brown University, USA</small></h4>
+				<h4>Pushkar Joshi<br><small>Google Inc., USA</small></h4>
+				<h4>Ligang Liu<br><small>USTC, CN</small></h4>
+				<h4>Karol Myszkowski<br><small>Max-Planck-Institut für Informatik, DE</small></h4>
+				<h4>Remi Ronfard<br><small>Inria, FR</small></h4>
+				<h4>Mateu Sbert<br><small>University of Girona, ES</small></h4>
+				<h4>Metin Sezgin<br><small>Koc University, TR</small></h4>
+				<h4>Daniel Sýkora<br><small>Czech Technical University in Prague</small></h4>
+				<h4>David Vanderhaeghe<br><small>Université Paul Sabatier, FR</small></h4>
+				<h4>Holger Winnemöller<br><small>Adobe Research, USA</small></h4>
 			</div>
-
+			
 		</div>
 	</div>
 
