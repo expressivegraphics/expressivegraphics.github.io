@@ -7,12 +7,14 @@ title: Venue
 
   <p><img src="/img/2018/venue.jpg" class="img-responsive img-thumbnail" id="venue" alt="venue"></p>
 
-  <div class="alert alert-warning">Since we share the registration system with ICSME, please refer to the <a href="http://icsme2014.org/">ICSME website</a> for any additional details and updates.</div>
-
   <p><a href="http://en.wikipedia.org/wiki/Victoria,_British_Columbia" target="blank">Visit Wikipedia for more information on Victoria, BC, Canada.</a></p>
 
   <p class="Flexible-container">
-  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5396681.8555037975!2d-123.81048764814469!3d48.665357731396774!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x548f738bddb06171%3A0x38e8f3741ebb48ed!2sVictoria%2C+BC%2C+Canada!5e0!3m2!1sen!2s!4v1390948775616" width="400" height="300" frameborder="0" style="border:0"></iframe>
-  </p>
-
+  <iframe
+    width="600"
+    height="450"
+    frameborder="0" style="border:0"
+    src="https://www.google.com/maps/embed/v1/place?key=AIzaSyBUszhnIOQJDdJyEILgLQIWujmrKDBP2B8&q=University of Victoria" allowfullscreen>
+  </iframe>
+  
 </div><!--/span-->
