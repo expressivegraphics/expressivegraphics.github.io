@@ -113,9 +113,9 @@ In a nutshell:
 
 | Important dates |
 | --- |
-| Abstract submission deadline: |
-| Paper submission deadline: |
-| Acceptance notification: |
+| Abstract submission deadline: {{ site.symposium.abstract }} |
+| Paper submission deadline: {{ site.symposium.paper }} |
+| Acceptance notification: {{ site.symposium.acceptance }} |
 
 All work must be previously unpublished. Production and Meta papers need not contain original research or results, but must make a substantive contribution to the knowledge in the field. Papers should be 8–10 pages in length (excluding citations). Papers longer than 10 pages must make a very significant contribution.
 

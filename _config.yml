@@ -47,14 +47,20 @@ sass:
   style: compressed
 
 
-# Site owner
-owner:
+# Symposium data
+symposium:
   name: Expressive joint Symposium
+  date: August 12-19, 2018
+  location: Victoria, Canada
+  URL: expressive.graphics/2018
+  sponsors: ACM Siggraph, Eurographics and Adobe
+  abstract: March xx, 2018
+  paper: April xx, 2018
+  acceptance: May xx, 2018
   disqus-shortname: expressiverendering
   twitter: ExpressiveGfx
   github: expressivegraphics
   google:
-    plus: #username
     analytics: UA-76809364-1
     verify:
     ad-client:

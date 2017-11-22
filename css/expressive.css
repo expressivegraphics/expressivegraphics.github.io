@@ -113,9 +113,13 @@ div.progress-bar-none {
 
 /* useful classes */
 .top1 { margin-top: 1em; }
+.top-1 { margin-top: -1em; }
 .top2 { margin-top: 2em; }
+.top-2 { margin-top: -2em; }
 .top3 { margin-top: 3em; }
-
+.top-3 { margin-top: -3em; }
+.bold { font-weight: bold; }
+.italic { font-style: italic; }
 
 /* Responsive Google maps  - Flexible iFrame */
 
