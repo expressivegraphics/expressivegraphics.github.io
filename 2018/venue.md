@@ -5,7 +5,7 @@ title: Venue
 
 <div class="col-12 col-sm-12 col-lg-12">
 
-  <p><img src="/img/venue.jpg" class="img-responsive img-thumbnail" id="venue" alt="venue"></p>
+  <p><img src="/img/2018/venue.jpg" class="img-responsive img-thumbnail" id="venue" alt="venue"></p>
 
   <div class="alert alert-warning">Since we share the registration system with ICSME, please refer to the <a href="http://icsme2014.org/">ICSME website</a> for any additional details and updates.</div>
 

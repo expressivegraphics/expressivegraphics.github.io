@@ -2,7 +2,7 @@
 layout: plain
 title: Expressive 2018
 ---
-<img src="/img/teaser.jpg" class="img-responsive img-thumbnail top1" id="venue" alt="venue">
+<img src="/img/2018/teaser.jpg" class="img-responsive img-thumbnail top1" id="venue" alt="venue">
 
 ## Aims and Scope
 
@@ -15,3 +15,10 @@ __Non-Photorealistic Animation and Rendering (NPAR)__ refers to computational te
 __Sketch-Based Interfaces and Modeling (SBIM)__ provides a unique venue for researchers, students and practitioners interested in sketch-based techniques to interact with one another, share lessons learned, show new results and discuss open issues.
 
 These symposia were first held jointly in 2011, and continue to be integrated under the Expressive umbrella.
+
+<!-- featured images -->
+<figure class="top3" >
+	<img class="col-xs-12 col-sm-4" src="/img/2018/CAe.png" alt="CAe">
+	<img class="col-xs-12 col-sm-4" src="/img/2018/SBIM.png" alt="SBIM">
+	<img class="col-xs-12 col-sm-4" src="/img/2018/NPAR.png" alt="NPAR">
+</figure>
