@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Submissions
+title: Call for Submissions
 excerpt: "Submit to Expressive 2018"
-headline: "Submissions"
+headline: "Call for Submissions"
 #navigation_weight: 1
 #content_page: submissions.html
 ---
