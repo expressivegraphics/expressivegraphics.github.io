@@ -1,8 +1,10 @@
 ---
 layout: plain
 title: Expressive 2018
+image:
+  feature: 2018/teaser.jpg
+  card: 2018/expressiveCard.jpg
 ---
-<img src="/img/2018/teaser.jpg" class="img-responsive img-thumbnail top1" id="venue" alt="venue">
 
 ## Aims and Scope
 

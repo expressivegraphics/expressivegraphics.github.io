@@ -45,16 +45,16 @@ Adding images using markdown is not possible, but we can always revert back to H
 
 Using Bootstrap to format images is straightforward. One can simply specify how many columns (12 in total) they should take along the entire width. These columns can also be set by device, so the images are resized according to different screen sizes. Two examples are seen below.
 
-<figure>
-	<img class="col-xs-12 col-sm-4" src="/img/2018/CAe.png" alt="CAe">
-	<img class="col-xs-12 col-sm-4" src="/img/2018/SBIM.png" alt="SBIM">
-	<img class="col-xs-12 col-sm-4" src="/img/2018/NPAR.png" alt="NPAR">
-  <figcaption>Three images in a row for big screens, one image per row for small screens</figcaption>
+<figure class="col-xs-12">
+    <img class="col-xs-12 col-sm-4" src="/img/2018/CAe.png" alt="CAe">
+    <img class="col-xs-12 col-sm-4" src="/img/2018/SBIM.png" alt="SBIM">
+    <img class="col-xs-12 col-sm-4" src="/img/2018/NPAR.png" alt="NPAR">
+    <figcaption class="col-xs-12">Three images in a row for big screens, one image per row for small screens</figcaption>
 </figure>
 
 In the example above, each image has the classes `class="col-xs-12 col-sm-4"`. This means that for extra small devices `xs` (e.g. phones), the images will span the entire width (12 columns). For bigger devices `sm` (small) and above, each image will span 4 columns out of the 12, allowing us to fit 3 images per row.
 
-<figure>
+<figure style="width:60%;">
 	<img class="col-xs-12" src="/img/2018/CAe.png" alt="CAe">
   <figcaption>A single image that spans the entire row width</figcaption>
 </figure>

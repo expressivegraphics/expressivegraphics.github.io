@@ -15,13 +15,16 @@ html {
 }
 
 figure {
-  margin-top: 2em;
+  margin: 2em auto 0em;
   margin-bottom: 2em;
+  display: block;
 }
 
 figcaption {
   text-align: center;
   font-style: italic;
+  margin-bottom: 1em;
+  color: #999;
 }
 
 .page-header div {
@@ -111,13 +114,30 @@ footer #sponsors img {
 
 .news .panel .panel-heading h2 {
   margin-top:0px;
-  font-size: 2.2em;
+  font-size: 2em;
+  color: #428bca;
+}
+
+.news .panel .panel-body h2 {
+  margin-top: 1em;
+  font-size: 1.8em;
   color:inherit;
 }
 
 .news .panel .panel-heading p {
   margin: 0px;
   font-size: 1em;
+  font-style: italic;
+}
+
+.entry-feature-image{
+  width: 100%;
+  margin-top: 1em;
+  border-radius: 4px;
+}
+
+.image-credit {
+  text-align: right;
   font-style: italic;
 }
 
