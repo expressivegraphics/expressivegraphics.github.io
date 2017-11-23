@@ -1,6 +1,7 @@
 ---
+layout: news
 categories: news
-title: Website is Live
+title: Website is Live!
 excerpt: The official Expressive 2018 website has gone live
 #image:
   #feature: headers/website.png
@@ -8,4 +9,4 @@ excerpt: The official Expressive 2018 website has gone live
   #card: cards/website.jpg
 ---
 
-The official VISSOFT website has gone live. We will successively integrate additional information once available. Stay tuned!
+The official Expressive 2018 website has gone live! We will successively integrate additional information once available. Stay tuned!

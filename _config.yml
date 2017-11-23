@@ -32,6 +32,8 @@ defaults:
       schema: NewsArticle
       comments: true
       share: true
+      image:
+        card: expressiveCard.jpg
 
 # Outputting
 exclude: [
