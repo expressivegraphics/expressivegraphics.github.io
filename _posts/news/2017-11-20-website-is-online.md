@@ -7,6 +7,7 @@ excerpt: The official Expressive 2018 website has gone live
   #feature: headers/website.png
   ##credit: "The Non-photorealistic Rendering Framework"
   #card: cards/website.jpg
+sidebar: twitter
 ---
 
 The official Expressive 2018 website has gone live! We will successively integrate additional information once available. Stay tuned!

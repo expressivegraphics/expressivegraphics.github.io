@@ -1,6 +1,11 @@
 ---
 layout: default
 title: Previous Editions
+image:
+  feature: previous.jpg
+  credit: "Glen Noble"
+  creditlink: "https://unsplash.com/photos/o4-YyGi5JBc"
+  card: 2018/expressiveCard.jpg
 ---
 {::options parse_block_html="true" /}
 

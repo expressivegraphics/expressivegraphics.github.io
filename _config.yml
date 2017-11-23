@@ -34,7 +34,7 @@ defaults:
       comments: true
       share: true
       image:
-        card: expressiveCard.jpg
+        card: 2018/expressiveCard.jpg
 
 # Outputting
 exclude: [

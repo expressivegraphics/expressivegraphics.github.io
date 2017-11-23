@@ -1,10 +1,7 @@
 ---
-layout: default
+layout: submission
 title: Call for Submissions
-excerpt: "Submit to Expressive 2018"
-headline: "Submissions"
-#navigation_weight: 1
-#content_page: submissions.html
+excerpt: "Submit your work to Expressive 2018"
 ---
 
 Being at the forefront of expressive rendering research since 2012, Expressive 2018 will take place in Victoria, Canada, August 17–19, 2018 --- shortly before [SIGGRAPH 2018](http://s2018.siggraph.org/) in Vancouver. A single registration for Expressive 2018 will include all three workshops.
@@ -45,6 +42,7 @@ Invited talks and artists talks will be shared among the workshops and sessions 
 {::options parse_block_html="false" /}
 
 ## Call for Papers
+{: .top2}
 
 [<span class="glyphicon glyphicon-file"></span> Call for Papers (PDF, 317 KiB)](/docs/expressive-2018-call-for-papers.pdf)
 
@@ -152,6 +150,7 @@ Paper submission is electronic using the [??? system](URL COMES HERE).
 For detailed instructions to submit papers, posters, videos and other materials, please view the submission instructions.
 
 ## Call for General Submissions
+{: .top2}
 
 [<span class="glyphicon glyphicon-file"></span> Call for General Submissions (PDF, 317 KiB)](/docs/expressive-2018-call-for-general-submissions.pdf)
 
@@ -172,6 +171,7 @@ Submission is electronic using the EasyChair system.
 For detailed instructions to submit posters, papers, videos and other materials, please view the submission instructions.
 
 ## Call for Journal Presentations
+{: .top2}
 
 [<span class="glyphicon glyphicon-file"></span> Call for Journal Presentations (PDF, 317 KiB)](/docs/expressive-2018-call-for-journal-presentations.pdf)
 
@@ -182,4 +182,3 @@ As at previous events, we will include a submission category for the presentatio
 The work should be published in the July 2017 – July 2018 time frame, and not have been previously presented at a conference or symposium. A copy of the paper abstract and a link to the published paper or preprint should be submitted via email to the program chairs. Submissions will be reviewed by the program committee. Note that accepted presentations are subject to the same rules as regular papers, namely that at least one author must register for the conference.
 
 Rolling notification closes {{ site.symposium.general }} |.
-

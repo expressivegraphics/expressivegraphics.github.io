@@ -1,6 +1,7 @@
 ---
 layout: news
 title: News
+sidebar: twitter
 ---
 
 <div class="col-12 col-sm-12 col-lg-12 news">

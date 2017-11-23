@@ -8,6 +8,7 @@ image:
   credit: "Markus Spiske"
   creditlink: "https://unsplash.com/photos/8OyKWQgBsKQ"
   card: 2018/expressiveCard.jpg
+sidebar: twitter
 ---
 
 This website is built using the Jekyll framework, which makes the development of static websites easy and straightforward, even for non-developers. This template post is meant to help anyone unfamiliar with Jekyll to get started and add content to this website.
