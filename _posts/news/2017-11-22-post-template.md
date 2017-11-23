@@ -5,7 +5,8 @@ title: Post template
 excerpt: A post template to help create posts using Jekyll
 image:
   feature: sample.jpg
-  credit: "unsplash.com"
+  credit: "Markus Spiske"
+  creditlink: "https://unsplash.com/photos/8OyKWQgBsKQ"
   card: 2018/expressiveCard.jpg
 ---
 
@@ -65,7 +66,7 @@ In the example above, the single image will span the entire width as only the ex
 A number of small utility classes have also been added to aid formatting content on this website. These classes can be used in both HTML `<figure class="top3"></figure>` and Markdown `{: .top3}` (in the line following the content that should have the class). Some common classes are the following:
 
 * Adding top margins to the html are also available _top1, top2, top3_.
-* Adding bottom margins to the html are also available _bottom1, bottom2, bottom3+.
+* Adding bottom margins to the html are also available _bottom1, bottom2, bottom3_.
 * Pulling things to either side _pull-right, pull-left_.
 
 That's it, this should cover the basics to start adding content with markdown on the conference website. Have fun!
