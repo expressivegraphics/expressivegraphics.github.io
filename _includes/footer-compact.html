@@ -1,0 +1,18 @@
+<div id="blueimp-gallery" class="blueimp-gallery js-only">
+  <div class="slides">#</div>
+  <h3 class="title">#</h3>
+  <a class="prev">‹</a>
+  <a class="next">›</a>
+  <a class="close">×</a>
+  <a class="play-pause"></a>
+  <ol class="indicator"></ol>
+</div>
+
+<!-- footer -->
+<div id="social">
+  <span>&copy; {{ site.time | date: '%Y' }} {{ site.symposium.name }}.</span>
+  <div class="social-icons pull-right">
+    {% if site.symposium.twitter %}<a href="https://twitter.com/{{ site.symposium.twitter }}" title="{{ site.symposium.name}} on Twitter" target="_blank"><i class="fa fa-twitter-square fa-2x"></i></a>{% endif %}
+    {% if site.symposium.github %}<a href="https://github.com/{{ site.symposium.github }}" title="{{ site.symposium.name}} on Github" target="_blank"><i class="fa fa-github-square fa-2x"></i></a>{% endif %}
+  </div><!-- /.social-icons -->
+</div>

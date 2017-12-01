@@ -1,0 +1,57 @@
+---
+layout: compress
+---
+<!DOCTYPE html>
+<html lang="en">
+
+{% include head.html %}
+
+<body id="page-top" data-spy="scroll">
+
+<div class="container">
+
+{% include header-compact.html %}
+
+      <div class="row">
+
+        <div class="col-md-6 col-md-offset-3">
+
+            <div id="main" role="main">
+              <article class="entry">
+                <!--HEADER-->
+                {% if page.image.feature %}
+                  <img src="{{ site.url }}/img/{{ page.image.feature }}" class="entry-feature-image" alt="{{ page.title }}">
+                  {% if page.image.credit %}
+                    <p class="image-credit"><a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></p>
+                  {% endif %}
+				  <br>
+				  <br>
+                {% endif %}
+                <!--ENTRY-->
+                <div class="entry-wrapper">
+                  <div class="entry-content" align="center">
+                    {{ content }}
+                  </div><!-- /.entry-content -->
+                </div><!-- /.entry-wrapper -->
+              </article>
+			  <hr>
+            </div><!-- /#main -->
+
+        </div><!--/span-->
+		
+		<div class="col-xs-12 col-md-6 col-md-offset-3">
+		
+		<hr>
+		
+		{% include footer-compact.html %}
+					
+		</div><!--/span-->
+
+      </div><!--/row-->
+
+    </div><!--/.container-->
+
+{% include scripts.html %}
+
+</body>
+</html>

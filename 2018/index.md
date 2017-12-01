@@ -1,22 +1,34 @@
 ---
-layout: plain
+layout: teaser
 title: Expressive 2018
 image:
   feature: 2018/teaser.jpg
   card: 2018/expressiveCard.jpg
 ---
 
-## Aims and Scope
+##### The __Joint Symposium__ on
 
-Expressive fuses three symposia centered on expressive aspects of computer graphics.
+#### __Computational Aesthetics__
 
-__Computational Aesthetics (CAe)__ bridges the analytic and synthetic by integrating aspects of computer science, philosophy, psychology, and the fine, applied & performing arts. It brings together individuals with technical experience of developing computer-based tools to solve aesthetic problems and people with artistic/design backgrounds who use these new tools.
+and
 
-__Non-Photorealistic Animation and Rendering (NPAR)__ refers to computational techniques for visual communication. Such techniques usually generate imagery and motion which is expressive, rather than photorealistic, although they may incorporate realistic elements.
+#### __Sketch-Based Interfaces and Modeling__
 
-__Sketch-Based Interfaces and Modeling (SBIM)__ provides a unique venue for researchers, students and practitioners interested in sketch-based techniques to interact with one another, share lessons learned, show new results and discuss open issues.
+and
 
-These symposia were first held jointly in 2011, and continue to be integrated under the Expressive umbrella.
+#### __Non-Photorealistic Animation and Rendering__
+
+##### in __Victoria, Canada__ on __17 – 19 August 2018__.
+
+<br>
+
+Expressive 2018 starts one day after SIGGRAPH 2018 (Vancouver) ends.
+
+Victoria is a short ferry or float plane ride from Vancouver.
+
+<br>
+
+#### Stay tuned for further information!
 
 <!-- featured images -->
 <figure class="top3" >

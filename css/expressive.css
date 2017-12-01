@@ -38,6 +38,10 @@ figcaption {
   font-size: 26px;
 }
 
+.page-header-compact {
+  border-bottom: 0px;
+}
+
 #title-header {
   margin-top: 0;
   margin-bottom: 0;
