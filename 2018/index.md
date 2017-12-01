@@ -32,7 +32,7 @@ Victoria is a short ferry or float plane ride from Vancouver.
 
 <!-- featured images -->
 <figure class="top3" >
-	<img class="col-xs-12 col-sm-4" src="/img/2018/CAe.png" alt="CAe">
-	<img class="col-xs-12 col-sm-4" src="/img/2018/SBIM.png" alt="SBIM">
-	<img class="col-xs-12 col-sm-4" src="/img/2018/NPAR.png" alt="NPAR">
+	<img class="col-xs-4 col-sm-4" src="/img/2018/CAe.png" alt="CAe">
+	<img class="col-xs-4 col-sm-4" src="/img/2018/SBIM.png" alt="SBIM">
+	<img class="col-xs-4 col-sm-4" src="/img/2018/NPAR.png" alt="NPAR">
 </figure>
