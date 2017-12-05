@@ -30,11 +30,10 @@ Invited talks and artists talks will be shared among the workshops and sessions 
 {: .panel-heading}
 <div class="panel-body">
 
-| __General Chairs:__ || Bruce Gooch, Texas A&M University, USA
-|                     || Yotam Gingold, George Mason University, USA
-| __Paper chairs:__   || Holger Winnemoeller, Adobe Systems, Inc., USA
-|                     || Lyn Bartram, Simon Fraser University, Canada
-| __Art chair:__      || Ergun Akleman, Texas A&M University, USA ||
+| __General Chairs:__ || Brian Wyvill, University of Victoria, Canada
+|                     || Hongbo Fu, City University of Hong Kong
+| __Paper chairs:__   || Tunç Aydın, Disney Research Zürich, Switzerland
+| __Art chair:__      || TBA ||
 
 </div>
 </div>

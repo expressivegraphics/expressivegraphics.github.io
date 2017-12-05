@@ -6,8 +6,6 @@ title: Organization
 <div class="col-12 col-sm-12 col-lg-12">
 
 	<h2>Organizing Committee</h2>
-	
-	<div class="alert alert-warning">To be announced/determined.</div>
 
 
 <div class="col-4 col-sm-4 col-lg-4">
@@ -16,8 +14,8 @@ title: Organization
 			<h4 class="panel-title">General Chairs</h4>
 		</div>
 		<div class="panel-body">
-			<h4>Bruce Gooch<br><small>Texas A&M University, USA</small></h4>
-			<h4>Yotam Gingold<br><small>George Mason University, USA</small></h4>
+			<h4>Brian Wyvill<br><small>University of Victoria, Canada</small></h4>
+			<h4>Hongbo Fu<br><small>City University of Hong Kong</small></h4>
 		</div>
 	</div>
 </div>
@@ -25,11 +23,10 @@ title: Organization
 <div class="col-8 col-sm-8 col-lg-4">
 	<div class="panel panel-default">
 		<div class="panel-heading">
-			<h4 class="panel-title">Paper Chairs</h4>
+			<h4 class="panel-title">Paper Chair</h4>
 		</div>
 		<div class="panel-body">
-			<h4>Holger Winnemöller<br><small>Adobe Systems, USA</small></h4>
-			<h4>Lyn Bartram<br><small>Simon Fraser University, CA</small></h4>
+			<h4>Tunç Aydın<br><small>Disney Research Zürich, Switzerland</small></h4>
 		</div>
 	</div>
 </div>
@@ -40,7 +37,7 @@ title: Organization
 			<h4 class="panel-title">Art Chair</h4>
 		</div>
 		<div class="panel-body">
-			<h4>Ergun Akleman<br><small>Texas A&M University, USA</small></h4>
+			<h4>TBA</h4>
 		</div>
 	</div>
 </div>
