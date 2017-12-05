@@ -1,6 +1,10 @@
 ---
 layout: default
 title: Venue
+image:
+  feature: 2018/venue.jpg
+  credit: "Brandon Godfrey"
+  creditlink: "https://www.flickr.com/photos/32093297@N04/4067225575/"
 ---
 
 {::options parse_block_html="true" /}
