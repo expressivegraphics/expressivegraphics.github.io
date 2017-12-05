@@ -42,6 +42,18 @@ title: Organization
 	</div>
 </div>
 
+<div class="col-8 col-sm-8 col-lg-4">
+	<div class="panel panel-default">
+		<div class="panel-heading">
+			<h4 class="panel-title">Publicity Chairs</h4>
+		</div>
+		<div class="panel-body">
+			<h4>Santiago Montesdeoca<br><small>Nanyang Technological University, Singapore</small></h4>
+			<h4>Amir Semmo<br><small>Hasso Plattner Institute, Germany</small></h4>
+		</div>
+	</div>
+</div>
+
 </div>
 
 <div class="col-12 col-sm-12 col-lg-12">
