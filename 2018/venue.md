@@ -7,6 +7,92 @@ image:
   creditlink: "https://www.flickr.com/photos/32093297@N04/4067225575/"
 ---
 
+<div>
+  <p class="Flexible-container">
+  <iframe width="600" height="450" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?key=AIzaSyBUszhnIOQJDdJyEILgLQIWujmrKDBP2B8&q=University of Victoria" allowfullscreen>
+  </iframe>
+  </p>
+</div><!--/span-->
+
+---
+
+## Travel to Victoria
+
+{::options parse_block_html="true" /}
+
+<div class="row">
+
+<div class="col-4 col-sm-4 col-lg-4">
+
+  <p><img src="/img/2018/vialogo.jpg" class="img-responsive img-thumbnail"></p>
+  
+</div>
+  
+<div class="col-8 col-sm-8 col-lg-8">
+  
+{::options parse_block_html="false" /}
+  
+The most convenient way of travelling to Victoria is by flight to [Victoria International Airport](http://www.victoriaairport.com). This international airport serves direct flights to Toronto, Vancouver, Calgary, Seattle, San Francisco, and many more destinations.
+
+{::options parse_block_html="true" /}
+
+</div>
+</div>
+
+There are hourly flights (15 mins. duration) with Air Canada for passengers connecting through Vancouver airport (VYR). After you get off the flight, there are [airport shuttle and taxi services](http://www.victoriaairport.com/taxi-and-shuttle) that carries you to down-town and University of Victoria. If you missed an airport shuttle, [regular buses](http://www.victoriaairport.com/public-transportation) are always available with $2.5 CAD per ticket and $5 CAD for a day pass.
+
+{::options parse_block_html="true" /}
+
+<div class="row">
+
+<div class="col-9 col-sm-9 col-lg-9">
+  
+{::options parse_block_html="false" /}
+  
+If you get to __Vancouver__ first by air or ground transportation, there are the [BC Ferries Connector](http://bcfconnector.com) shuttle services in addition to the regular buses to go over the Victoria-Vancouver BC Ferries. The shuttle services starts from either YVR airport or Vancouver down-town and directly goes to Victoria down-town without stopping.
+
+{::options parse_block_html="true" /}
+
+</div>
+
+<div class="col-3 col-sm-3 col-lg-3">
+
+  <p><img src="/img/2018/bcconnector.jpg" class="img-responsive img-thumbnail"></p>
+  
+</div>
+</div>
+
+If you are going by the regular bus services from Vancouver, then first get to the __Bridgeport Skytrain Station__ in Richmond, take the __No.620__ bus to the __Tsawwassen Ferry Terminal__, and take the [BC Ferries](http://www.bcferries.com) to __Victoria (Swartz Bay)__. After you get off the ferry, take the __No. 70 or No. 72 buses__ to get to Victoria down-town.
+
+Drivers from Vancouver can directly proceed to the __BC Ferries Tsawwassen Ferry Terminal__ and take the ferry to cross the sea, then take the __BC-17 Highway__ to Victoria down-town.
+
+{::options parse_block_html="true" /}
+
+<div class="row">
+
+<div class="col-9 col-sm-9 col-lg-9">
+  
+{::options parse_block_html="false" /}
+  
+If you start from __Seattle__, there are direct, passenger-only ferry connections from Seattle down-town to Victoria down-town ([Clipper Vacations](http://www.clippervacations.com)). If you drive from Seattle, please go to the Port Angeles ferry port first and take the [Black Ball Ferry Line](https://www.cohoferry.com) to go to Victoria.
+
+{::options parse_block_html="true" /}
+
+</div>
+
+<div class="col-3 col-sm-3 col-lg-3">
+
+  <p><img src="/img/2018/clipper.jpg" class="img-responsive img-thumbnail"></p>
+  
+</div>
+</div>
+
+{::options parse_block_html="false" /}
+
+---
+
+## Attractions
+
 {::options parse_block_html="true" /}
 
 <div class="row">
@@ -34,22 +120,7 @@ image:
 </div>
 </div>
 
-<hr>
-
-{::options parse_block_html="false" /}
-<div>
-  <p class="Flexible-container">
-  <iframe width="600" height="450" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?key=AIzaSyBUszhnIOQJDdJyEILgLQIWujmrKDBP2B8&q=University of Victoria" allowfullscreen>
-  </iframe>
-  </p>
-</div><!--/span-->
-{::options parse_block_html="true" /}
-
-{::options parse_block_html="false" /}
-
----
-
-## The Inner Harbour and the Fisherman's Wharf
+### The Inner Harbour and the Fisherman's Wharf
 
 {::options parse_block_html="true" /}
 
@@ -77,9 +148,7 @@ image:
 
 {::options parse_block_html="false" /}
 
----
-
-## [The Butchart Gardens](http://www.butchartgardens.com)
+### [The Butchart Gardens](http://www.butchartgardens.com)
 
 {::options parse_block_html="true" /}
 
@@ -104,9 +173,7 @@ image:
 
 {::options parse_block_html="false" /}
 
----
-
-## [Craigdarroch Castle](http://thecastle.ca)
+### [Craigdarroch Castle](http://thecastle.ca)
 
 {::options parse_block_html="true" /}
 
@@ -134,9 +201,7 @@ image:
 
 {::options parse_block_html="false" /}
 
----
-
-## The Finnerty Gardens and the Cadboro Bay
+### The Finnerty Gardens and the Cadboro Bay
 
 The Finnerty Gardens and the Cadboro Bay are scenic sites near the conference venues where you can have a relaxed walk and conversation. Finnerty Gardens is in the University of Victoria, just across the Ring Road. Cadboro Bay is about 15 minutes walk from the conference venue, which is a beautiful, well-maintained beach park with a community centre that has coffee shops, restaurants and a grocery store ([Pepper's](http://www.peppers-foods.com)).
 
