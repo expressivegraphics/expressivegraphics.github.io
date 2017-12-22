@@ -9,13 +9,14 @@ image:
 
 <div>
   <p class="Flexible-container">
-  <iframe width="600" height="450" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?key=AIzaSyBUszhnIOQJDdJyEILgLQIWujmrKDBP2B8&q=University of Victoria" allowfullscreen>
+  <iframe width="600" height="450" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?key=AIzaSyBUszhnIOQJDdJyEILgLQIWujmrKDBP2B8&q=University of Victoria Department of Computer Science" allowfullscreen>
   </iframe>
   </p>
 </div><!--/span-->
 
 ---
-
+## Conference Venue
+The Expressive 2018 Joint Symposium will be hosted in Room ECS.660. in the building of Department of Computer Science in University of Victoria.
 ## Travel to Victoria
 
 {::options parse_block_html="true" /}
@@ -39,7 +40,7 @@ The most convenient way of travelling to Victoria is by flight to [Victoria Inte
 </div>
 </div>
 
-There are hourly flights (15 mins. duration) with Air Canada for passengers connecting through Vancouver airport (VYR). After you get off the flight, there are [airport shuttle and taxi services](http://www.victoriaairport.com/taxi-and-shuttle) that carries you to down-town and University of Victoria. If you missed an airport shuttle, [regular buses](http://www.victoriaairport.com/public-transportation) are always available with $2.5 CAD per ticket and $5 CAD for a day pass.
+There are hourly flights (15 mins. duration) with Air Canada for passengers connecting through Vancouver airport (VYR). After you get off the flight, there are [airport shuttle and taxi services](http://www.victoriaairport.com/taxi-and-shuttle) that carries you to down-town and University of Victoria. If you missed an airport shuttle, [regular buses](https://bctransit.com/victoria/) are always available with $2.5 CAD per ticket and $5 CAD for a day pass. A number of routes of buses run to the university's bus loop, as shown in the image below.
 
 {::options parse_block_html="true" /}
 
@@ -57,7 +58,7 @@ If you get to __Vancouver__ first by air or ground transportation, there are the
 
 <div class="col-3 col-sm-3 col-lg-3">
 
-  <p><img src="/img/2018/bcconnector.jpg" class="img-responsive img-thumbnail"></p>
+  <p><img src="/img/2018/uvicbusloop.jpg" class="img-responsive img-thumbnail"></p>
   
 </div>
 </div>
