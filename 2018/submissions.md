@@ -4,7 +4,7 @@ title: Call for Submissions
 excerpt: "Submit your work to Expressive 2018"
 ---
 
-Being at the forefront of expressive rendering research since 2012, Expressive 2018 will take place in Victoria, Canada, August 17–19, 2018 --- shortly before [SIGGRAPH 2018](http://s2018.siggraph.org/) in Vancouver. A single registration for Expressive 2018 will include all three workshops.
+Being at the forefront of expressive rendering research since 2012, Expressive 2018 will take place in Victoria, Canada, August 17–19, 2018 --- shortly after [SIGGRAPH 2018](http://s2018.siggraph.org/) in Vancouver. A single registration for Expressive 2018 will include all three workshops.
 Invited talks and artists talks will be shared among the workshops and sessions will be mixed. The submission, review, and publication process for the event will be handled jointly across the three conferences.
 
 {::options parse_block_html="true" /}
