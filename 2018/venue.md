@@ -33,7 +33,7 @@ There are hourly flights (15 mins. duration) with Air Canada for passengers conn
 If you get to __Vancouver__ first by air or ground transportation, there are the [BC Ferries Connector](http://bcfconnector.com) shuttle services in addition to the regular buses to go over the Victoria-Vancouver BC Ferries. The shuttle services starts from either YVR airport or Vancouver down-town and directly goes to Victoria down-town without stopping.
 
 <figure>
-<img src="/img/2018/uvicbusloop.jpg" class="img-responsive pull-center">
+<img src="/img/2018/uvic-busloop.jpg" class="img-responsive pull-center">
 </figure>
 
 If you are going by the regular bus services from Vancouver, then first get to the __Bridgeport Skytrain Station__ in Richmond, take the __No.620__ bus to the __Tsawwassen Ferry Terminal__, and take the [BC Ferries](http://www.bcferries.com) to __Victoria (Swartz Bay)__. After you get off the ferry, take the __No. 70 or No. 72 buses__ to get to Victoria down-town.
