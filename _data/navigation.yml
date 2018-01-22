@@ -6,17 +6,17 @@
 - title: Submission Instructions
   url: /instructions/
 
-- title: Program
-  url: /program/
+#- title: Program
+#  url: /program/
 
-- title: Committee
-  url: /committee/
-
-- title: Registration
-  url: /registration/
+#- title: Registration
+#  url: /registration/
 
 - title: Venue
   url: /venue/
+
+- title: Committee
+  url: /committee/
 
 - title: Previous Editions
   url: /../previous/

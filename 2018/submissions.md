@@ -14,7 +14,6 @@ Invited talks and artists talks will be shared among the workshops and sessions 
 {: .panel-heading}
 <div class="panel-body">
 
-| __Abstract submission deadline:__ {{ site.symposium.abstract }} |
 | __Paper submission deadline:__ {{ site.symposium.paper }} |
 | __Acceptance notification:__ {{ site.symposium.acceptance }} |
 
@@ -40,6 +39,8 @@ Invited talks and artists talks will be shared among the workshops and sessions 
 
 {::options parse_block_html="false" /}
 
+---
+
 ## Call for Papers
 {: .top2}
 
@@ -47,9 +48,9 @@ Invited talks and artists talks will be shared among the workshops and sessions 
 
 Expressive is a joint Symposium featuring the following workshops:
 
-* Computational Aesthetics (CAe)
-* Non-photorealistic Animation and Rendering (NPAR)
-* Sketch-based Interfaces and Modelling (SBIM)
+* **Computational Aesthetics (CAe)**
+* **Non-photorealistic Animation and Rendering (NPAR)**
+* **Sketch-based Interfaces and Modelling (SBIM)**
 
 Each paper submission should be designated as belonging to one of the three tracks.
 
@@ -148,6 +149,8 @@ Paper submission is electronic using the [??? system](URL COMES HERE).
 
 For detailed instructions to submit papers, posters, videos and other materials, please view the submission instructions.
 
+---
+
 ## Call for General Submissions
 {: .top2}
 
@@ -168,6 +171,8 @@ We seek poster, demo and art exhibition submissions that show work that pertains
 Submission is electronic using the EasyChair system.
 
 For detailed instructions to submit posters, papers, videos and other materials, please view the submission instructions.
+
+---
 
 ## Call for Journal Presentations
 {: .top2}
