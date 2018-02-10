@@ -8,15 +8,15 @@ image:
 
 ## Aims and Scope
 
-Expressive fuses three symposia centered on expressive aspects of computer graphics.
+_Expressive_ fuses three symposia centered on expressive aspects of computer graphics.
 
-__Computational Aesthetics (CAe)__ bridges the analytic and synthetic by integrating aspects of computer science, philosophy, psychology, and the fine, applied & performing arts. It brings together individuals with technical experience of developing computer-based tools to solve aesthetic problems and people with artistic/design backgrounds who use these new tools.
+__Computational Aesthetics (CAe)__ integrates the bridging aspects of computer science, philosophy, psychology, and the fine, applied & performing arts. CAe investigates both tools to enhance the expressiveness of fine and applied arts, as well as theoretical approaches that further our understanding of aesthetic evaluation, perception and meaning.
 
-__Non-Photorealistic Animation and Rendering (NPAR)__ refers to computational techniques for visual communication. Such techniques usually generate imagery and motion which is expressive, rather than photorealistic, although they may incorporate realistic elements.
+__Non-Photorealistic Animation and Rendering (NPAR)__ investigates computational techniques for visual communication. Such techniques usually focuses on imagery and motion which is expressive, rather than photorealistic, although they may incorporate realistic elements.
 
-__Sketch-Based Interfaces and Modeling (SBIM)__ provides a unique venue for researchers, students and practitioners interested in sketch-based techniques to interact with one another, share lessons learned, show new results and discuss open issues.
+__Sketch-Based Interfaces and Modeling (SBIM)__ focuses on the exploration of models, algorithms, and technologies for efficient sketch-based interfaces. It investigates the classification and recognition of hand-drawn shapes, and ways of using these techniques for creating or editing digital models, text, mathematics or 3D shapes.
 
-These symposia were first held jointly in 2011, and continue to be integrated under the Expressive umbrella.
+These symposia were first held jointly in 2011, and continue to be integrated under the _Expressive_ umbrella.
 
 <!-- featured images -->
 <figure class="top3" >

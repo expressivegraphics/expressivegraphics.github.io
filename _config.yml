@@ -2,7 +2,7 @@
 timezone: America/Vancouver
 
 baseurl: '/2018' # the subpath to the year of conference
-url: 'https://expressivegraphics.github.io' # the base hostname & protocol for your site
+url: 'http://expressive.graphics' # the base hostname & protocol for your site
 # url: 'http://localhost:4000'
 
 title: 'Expressive 2018'
@@ -56,10 +56,11 @@ symposium:
   date: August 12-19, 2018
   location: Victoria, Canada
   URL: expressive.graphics/2018
-  sponsors: ACM Siggraph, Eurographics and Adobe
-  abstract: May 14, 2018
-  paper: May 14, 2018
-  acceptance: coming soon...
+  sponsors: ACM Siggraph, Eurographics, Disney Research and Adobe Research
+  abstract: April 3, 2018
+  paper: April 10, 2018
+  acceptance: May 8, 2018
+  camera-ready: June 5, 2018
   disqus-shortname: expressiverendering
   twitter: ExpressiveGfx
   github: expressivegraphics
@@ -69,8 +70,22 @@ symposium:
     ad-client:
     ad-slot:
   bing-verify:
+  submission: https://easychair.org/conferences/?conf=expressive18
 
 
 # Conference chairs
-chair2018:
-  name: Brian Wyvill
+chairs2018:
+  general: Brian Wyvill
+  generalAff: University of Victoria, Canada
+  general2: Hongbo Fu
+  general2Aff: City University of Hong Kong, Hong Kong
+  paper: Tunç Aydın
+  paperAff: Disney Research Zurich, Switzerland
+  paper2: Daniel Sýkora
+  paper2Aff: Czech Technical University in Prague, Czech Republic
+  art: Jane Prophet
+  artAff: University of London, United Kingdom
+  publicity: Santiago Montesdeoca
+  publicityAff: Nanyang Technological University, Singapore
+  publicity2: Amir Semmo
+  publicity2Aff: Hasso Plattner Institute, Germany

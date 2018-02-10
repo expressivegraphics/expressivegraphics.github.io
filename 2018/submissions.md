@@ -16,23 +16,7 @@ Invited talks and artists talks will be shared among the workshops and sessions 
 
 | __Paper submission deadline:__ {{ site.symposium.paper }} |
 | __Acceptance notification:__ {{ site.symposium.acceptance }} |
-
-</div>
-</div>
-
-{::options parse_block_html="false" /}
-
-{::options parse_block_html="true" /}
-
-<div class="panel panel-default">
-#### Organization
-{: .panel-heading}
-<div class="panel-body">
-
-| __General Chairs:__ || Brian Wyvill, University of Victoria, Canada
-|                     || Hongbo Fu, City University of Hong Kong
-| __Paper chairs:__   || Tunç Aydın, Disney Research Zürich, Switzerland
-| __Art chair:__      || TBA ||
+| __Camera-ready submission:__ {{ site.symposium.camera-ready }} |
 
 </div>
 </div>
@@ -97,6 +81,7 @@ Sketch-Based Interfaces and Modeling focuses on the exploration of models, algor
 {::options parse_block_html="false" /}
 
 ### Submission Types
+{: .top1}
 
 Each paper submission should be designated by the authors as belonging to at least one of the three tracks. Paper submissions are invited across the broad range of areas covered by Expressive. We welcome papers in several categories:
 
@@ -104,7 +89,7 @@ Each paper submission should be designated by the authors as belonging to at lea
 * __Production:__ candid discussion of the process of creating a work (e.g., film, image, game) or art tool (e.g., paint or CAD program, software library). We are equally interested in papers on the use of existing techniques combined in novel ways, or applying them in a new or unusual context.
 * __Meta:__ statements about research that do not contain new results, e.g.: grand challenges, position papers, evaluation standards, surveys, and primers on art / aesthetics / psychophysics for a computer science audience. We welcome papers that discuss the challenges of bridging computational expression across disciplines.
 
-### Topics
+**Authors of selected papers will be invited to submit extended versions of their manuscripts to be considered for publication in a special section of [Computers & Graphics](https://www.journals.elsevier.com/computers-and-graphics/) journal (Elsevier) via a fast-track review process.**
 
 {::options parse_block_html="true" /}
 
@@ -131,10 +116,11 @@ Each paper submission should be designated by the authors as belonging to at lea
 * Accounts of real productions (e.g., animated films, digital art) or applications in software products (e.g., modeling, visualization, presentation software)
 * Visual composition
 * Design, rendering, and evaluation of layouts for text and presentation graphics
-* Style transfer
+* Example-based style transfer
 * Temporal and spatial coherence
 * Aesthetic evaluation and stylistic rendering of visual effects such as motion blur, depth of field, and lighting
 * Non-traditional camera models
+
 
 </div>
 </div>
@@ -142,12 +128,13 @@ Each paper submission should be designated by the authors as belonging to at lea
 {::options parse_block_html="false" /}
 
 ### Submission Information
+{: .top1}
 
 All work must be previously unpublished. Production and Meta papers need not contain original research or results, but must make a substantive contribution to the knowledge in the field. Papers should be 8–10 pages in length (excluding citations). Papers longer than 10 pages must make a very significant contribution.
 
-Paper submission is electronic using the [??? system](URL COMES HERE).
+Paper submission is electronic using the [EasyChair system]({{site.symposium.submission}}).
 
-For detailed instructions to submit papers, posters, videos and other materials, please view the submission instructions.
+For detailed instructions to submit papers, posters, videos and other materials, please view the [submission instructions](/2018/instructions/).
 
 ---
 
@@ -168,9 +155,10 @@ Expressive solicits extended abstracts for poster, demo and art exhibition propo
 
 We seek poster, demo and art exhibition submissions that show work that pertains to all three tracks of Expressive 2018. All submissions should be in the form of a two-page or longer abstract, written in English, and should follow the SIGGRAPH formatting instructions, including a title page with an abstract, keywords, and a bibliography. Submissions should provide a clear description of the work and the process. Posters, demos and artworks will be demonstrated and/or displayed at the conference venue. Authors of accepted works in all areas of submitted work are encouraged to bring a demonstration of their work as well; it is not necessary to create a separate submission for a poster and a demo if they refer to the same project.
 
-Submission is electronic using the EasyChair system.
+General submission are in electronic form using the [EasyChair system]({{site.symposium.submission}}).
 
-For detailed instructions to submit posters, papers, videos and other materials, please view the submission instructions.
+For detailed instructions to submit papers, posters, videos and other materials, please view the [submission instructions](/2018/instructions/).
+
 
 ---
 
@@ -183,6 +171,28 @@ As at previous events, we will include a submission category for the presentatio
 
 ### Guidelines
 
-The work should be published in the July 2017 – July 2018 time frame, and not have been previously presented at a conference or symposium. A copy of the paper abstract and a link to the published paper or preprint should be submitted via email to the program chairs. Submissions will be reviewed by the program committee. Note that accepted presentations are subject to the same rules as regular papers, namely that at least one author must register for the conference.
+The work should be published in the July 2017 – July 2018 time-frame, and not have been previously presented at a conference or symposium. A copy of the paper abstract and a link to the published paper or preprint should be submitted via email to the program chairs. Submissions will be reviewed by the program committee. Note that accepted presentations are subject to the same rules as regular papers, namely that at least one author must register for the conference.
 
-Rolling notification closes {{ site.symposium.general }} |.
+Rolling notification closes {{ site.symposium.paper }} |.
+
+---
+{::options parse_block_html="true" /}
+
+<div class="panel panel-default">
+
+#### Conference Chairs
+{: .panel-heading .top2}
+<div class="panel-body">
+
+| __General Chairs:__ || {{ site.chairs2018.general }}, _{{ site.chairs2018.generalAff }}_
+|                     || {{ site.chairs2018.general2 }}, _{{ site.chairs2018.general2Aff }}_
+| __Paper chairs:__   || {{ site.chairs2018.paper }}, _{{ site.chairs2018.paperAff }}_
+|                     || {{ site.chairs2018.paper2 }}, _{{ site.chairs2018.paper2Aff }}_
+| __Art chair:__      || {{ site.chairs2018.art }}, _{{ site.chairs2018.artAff }}_
+| __Publicity chairs:__      || {{ site.chairs2018.publicity }}, _{{ site.chairs2018.publicityAff }}_
+|                     || {{ site.chairs2018.publicity2 }}, _{{ site.chairs2018.publicity2Aff }}_ ||
+
+</div>
+</div>
+
+{::options parse_block_html="false" /}

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Organization
+title: Committee
 ---
 
 <div class="col-12 col-sm-12 col-lg-12">
@@ -14,8 +14,8 @@ title: Organization
 			<h4 class="panel-title">General Chairs</h4>
 		</div>
 		<div class="panel-body">
-			<h4>Brian Wyvill<br><small>University of Victoria, Canada</small></h4>
-			<h4>Hongbo Fu<br><small>City University of Hong Kong</small></h4>
+			<h4>{{site.chairs2018.general}}<br><small>{{site.chairs2018.generalAff}}</small></h4>
+			<h4>{{site.chairs2018.general2}}<br><small>{{site.chairs2018.general2Aff}}</small></h4>
 		</div>
 	</div>
 </div>
@@ -23,10 +23,11 @@ title: Organization
 <div class="col-8 col-sm-8 col-lg-4">
 	<div class="panel panel-default">
 		<div class="panel-heading">
-			<h4 class="panel-title">Paper Chair</h4>
+			<h4 class="panel-title">Paper Chairs</h4>
 		</div>
 		<div class="panel-body">
-			<h4>Tunç Aydın<br><small>Disney Research Zürich, Switzerland</small></h4>
+			<h4>{{site.chairs2018.paper}}<br><small>{{site.chairs2018.paperAff}}</small></h4>
+			<h4>{{site.chairs2018.paper2}}<br><small>{{site.chairs2018.paper2Aff}}</small></h4>
 		</div>
 	</div>
 </div>
@@ -37,7 +38,7 @@ title: Organization
 			<h4 class="panel-title">Art Chair</h4>
 		</div>
 		<div class="panel-body">
-			<h4>TBA</h4>
+			<h4>{{site.chairs2018.art}}<br><small>{{site.chairs2018.artAff}}</small></h4>
 		</div>
 	</div>
 </div>
@@ -48,8 +49,8 @@ title: Organization
 			<h4 class="panel-title">Publicity Chairs</h4>
 		</div>
 		<div class="panel-body">
-			<h4>Santiago Montesdeoca<br><small>Nanyang Technological University, Singapore</small></h4>
-			<h4>Amir Semmo<br><small>Hasso Plattner Institute, Germany</small></h4>
+			<h4>{{site.chairs2018.publicity}}<br><small>{{site.chairs2018.publicityAff}}</small></h4>
+			<h4>{{site.chairs2018.publicity2}}<br><small>{{site.chairs2018.publicity2Aff}}</small></h4>
 		</div>
 	</div>
 </div>
@@ -59,8 +60,8 @@ title: Organization
 <div class="col-12 col-sm-12 col-lg-12">
 
 	<h2>Program Committee</h2>
-	
-	<div class="alert alert-warning">To be announced/determined.</div>
+
+	<div class="alert alert-warning">Final committee to be announced/determined soon.</div>
 
 	<div class="panel panel-default">
 		<div class="panel-body">
@@ -125,7 +126,7 @@ title: Organization
 				<h4>David Vanderhaeghe<br><small>Université Paul Sabatier, FR</small></h4>
 				<h4>Holger Winnemöller<br><small>Adobe Research, USA</small></h4>
 			</div>
-			
+
 		</div>
 	</div>
 
