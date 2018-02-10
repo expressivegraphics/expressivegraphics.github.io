@@ -4,6 +4,7 @@ title: Expressive 2018
 image:
   feature: 2018/teaser.jpg
   card: 2018/expressiveCard.jpg
+year: 2018
 ---
 
 ## Aims and Scope

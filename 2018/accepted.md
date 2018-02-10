@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Accepted papers
+year: 2018
 ---
 
 

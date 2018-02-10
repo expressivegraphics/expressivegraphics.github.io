@@ -3,6 +3,7 @@ layout: default
 title: Paper Submission Instructions
 excerpt: "Paper Submission Instructions for Expressive 2018"
 headline: "Paper Submission Instructions"
+year: 2018
 ---
 
 All work must be previously unpublished. Production and Meta papers need not contain original research or results, but must make a substantive contribution to the knowledge in the field. Papers should be 8–10 pages in length (excluding citations). Papers longer than 10 pages must make a very significant contribution. Supplemental video and images may also be submitted. Research papers are reviewed double-blind and so must be anonymous when submitted. References to your own work should be made in the third person to maintain anonymity.

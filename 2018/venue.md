@@ -5,6 +5,7 @@ image:
   feature: 2018/venue.jpg
   credit: "Brandon Godfrey"
   creditlink: "https://www.flickr.com/photos/32093297@N04/4067225575/"
+year: 2018
 ---
 
 The Expressive 2018 Joint Symposium will be hosted in Room ECS.660. in the building of Department of Computer Science in University of Victoria.
