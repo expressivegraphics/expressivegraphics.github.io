@@ -84,11 +84,13 @@ Sketch-Based Interfaces and Modeling focuses on the exploration of models, algor
 ### Submission Types
 {: .top1}
 
-Each paper submission should be designated by the authors as belonging to at least one of the three tracks. Paper submissions are invited across the broad range of areas covered by Expressive. We welcome papers in several categories:
+Paper submissions are invited across the broad range of areas covered by Expressive. We welcome papers in several categories:
 
 * __Research:__ new algorithms, scientific studies, analysis, or data (i.e., traditional academic papers). These must contain novel results that make a substantive contribution to the field.
 * __Production:__ candid discussion of the process of creating a work (e.g., film, image, game) or art tool (e.g., paint or CAD program, software library). We are equally interested in papers on the use of existing techniques combined in novel ways, or applying them in a new or unusual context.
 * __Meta:__ statements about research that do not contain new results, e.g.: grand challenges, position papers, evaluation standards, surveys, and primers on art / aesthetics / psychophysics for a computer science audience. We welcome papers that discuss the challenges of bridging computational expression across disciplines.
+
+Accepted papers will be published as a single conference proceedings by the ACM and will be available online via the [ACM Digital Library](http://dl.acm.org/). Papers will also be archived in the [Eurographics Digital Library](https://diglib.eg.org/).
 
 **Authors of selected papers will be invited to submit extended versions of their manuscripts to be considered for publication in a special section of [Computers & Graphics](https://www.journals.elsevier.com/computers-and-graphics/) journal (Elsevier) via a fast-track review process.**
 
