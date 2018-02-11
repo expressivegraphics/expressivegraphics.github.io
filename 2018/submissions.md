@@ -174,7 +174,7 @@ As at previous events, we will include a submission category for the presentatio
 
 The work should be published in the July 2017 – July 2018 time-frame, and not have been previously presented at a conference or symposium. A copy of the paper abstract and a link to the published paper or preprint should be submitted via email to the program chairs. Submissions will be reviewed by the program committee. Note that accepted presentations are subject to the same rules as regular papers, namely that at least one author must register for the conference.
 
-Rolling notification closes {{ site.symposium.paper }} |.
+Rolling notification closes May 3, 2018 |.
 
 ---
 {::options parse_block_html="true" /}

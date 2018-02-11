@@ -1,6 +1,7 @@
 ---
 layout: plain
 title: Expressive 2018
+excerpt: "Expressive Joint Symposium 2018 Website, rendering, with style!"
 image:
   feature: 2018/teaser.jpg
   card: 2018/expressiveCard.jpg

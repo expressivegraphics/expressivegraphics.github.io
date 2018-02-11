@@ -1,6 +1,6 @@
 ---
 layout: teaser
-excerpt: "Expressive Joint Symposium Website"
+excerpt: "Expressive Joint Symposium Website, rendering, with style!"
 search_omit: true
 image:
   feature: 2018/teaser.jpg
