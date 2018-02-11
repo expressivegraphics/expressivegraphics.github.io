@@ -154,7 +154,7 @@ General Submissions seeks for submissions for posters, demos and art exhibition 
 
 Expressive solicits extended abstracts for poster, demo and art exhibition proposals. Accepted works will be demonstrated and exhibited during the conference. We expect these works will pose new questions and motivate further research in three main areas of Expressive Conference: (1) Computational Aesthetics; (2) Sketch Based Interfaces and Modeling; and (3) Non-Photorealistic Animation and Rendering.
 
-Accepted general submissions (posters/demos/artworks) will be published as a single conference proceedings by the ACM and will be available online via the [ACM Digital Library](http://dl.acm.org/). Papers will also be archived in the [Eurographics Digital Library](https://diglib.eg.org/).
+Accepted general submissions (posters/demos/artworks) will be published together with the accepted papers as a single conference proceedings by the ACM and will be available online via the [ACM Digital Library](http://dl.acm.org/). Accepted submissions will also be archived in the [Eurographics Digital Library](https://diglib.eg.org/).
 
 ### Guidelines
 
