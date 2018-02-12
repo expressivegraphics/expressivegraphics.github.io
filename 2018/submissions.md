@@ -157,8 +157,8 @@ For detailed instructions to submit papers, posters, videos and other materials,
 
 | __Artwork submission deadline:__ Rolling notification, closes May 3, 2018 |
 | __Poster/Demos submission deadline:__ Rolling notification, closes May 3, 2018 |
-
-All deadlines are at 23:59:59 UTC/GMT
+| |
+| All deadlines are at 23:59:59 UTC/GMT |
 
 </div>
 </div>
@@ -199,8 +199,8 @@ For detailed instructions to submit papers, posters, videos and other materials,
 <div class="panel-body">
 
 | __Presentation of work previously published in a journal:__ Rolling notification, closes May 3, 2018 |
-
-All deadlines are at 23:59:59 UTC/GMT
+| |
+| All deadlines are at 23:59:59 UTC/GMT |
 
 </div>
 </div>
