@@ -8,5 +8,5 @@ image:
   year: 2018
 ---
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScJrr_kKZN9ACdJZpsoihGMxfkFb8SeGH6zAPpaEo2Dxba_4Q/viewform?embedded=true">Loading...</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScJrr_kKZN9ACdJZpsoihGMxfkFb8SeGH6zAPpaEo2Dxba_4Q/viewform?embedded=true" width="1170px" height="1200px">Loading...</iframe>
 
