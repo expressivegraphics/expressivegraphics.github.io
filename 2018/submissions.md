@@ -8,6 +8,13 @@ year: 2018
 Being at the forefront of expressive rendering research since 2012, [Expressive 2018](http://expressive.graphics/2018) will take place in Victoria, Canada, August 17–19, 2018 --- shortly after [SIGGRAPH 2018](http://s2018.siggraph.org/) in Vancouver. A single registration for Expressive 2018 will include all three workshops.
 Invited talks and artists talks will be shared among the workshops and sessions will be mixed. The submission, review, and publication process for the event will be handled jointly across the three conferences.
 
+---
+
+## Call for Papers
+{: .top2}
+
+[<span class="glyphicon glyphicon-file"></span> Call for Papers (PDF, 317 KiB)](/docs/expressive-2018-call-for-papers.pdf)
+
 {::options parse_block_html="true" /}
 
 <div class="panel panel-warning">
@@ -18,18 +25,13 @@ Invited talks and artists talks will be shared among the workshops and sessions 
 | __Paper submission deadline:__ {{ site.symposium.paper }} |
 | __Acceptance notification:__ {{ site.symposium.acceptance }} |
 | __Camera-ready submission:__ {{ site.symposium.camera-ready }} |
+| |
+| All deadlines are at 23:59:59 UTC/GMT |
 
 </div>
 </div>
 
 {::options parse_block_html="false" /}
-
----
-
-## Call for Papers
-{: .top2}
-
-[<span class="glyphicon glyphicon-file"></span> Call for Papers (PDF, 317 KiB)](/docs/expressive-2018-call-for-papers.pdf)
 
 Expressive is a joint Symposium featuring the following workshops:
 
@@ -84,11 +86,13 @@ Sketch-Based Interfaces and Modeling focuses on the exploration of models, algor
 ### Submission Types
 {: .top1}
 
-Each paper submission should be designated by the authors as belonging to at least one of the three tracks. Paper submissions are invited across the broad range of areas covered by Expressive. We welcome papers in several categories:
+Paper submissions are invited across the broad range of areas covered by Expressive. We welcome papers in several categories:
 
 * __Research:__ new algorithms, scientific studies, analysis, or data (i.e., traditional academic papers). These must contain novel results that make a substantive contribution to the field.
 * __Production:__ candid discussion of the process of creating a work (e.g., film, image, game) or art tool (e.g., paint or CAD program, software library). We are equally interested in papers on the use of existing techniques combined in novel ways, or applying them in a new or unusual context.
 * __Meta:__ statements about research that do not contain new results, e.g.: grand challenges, position papers, evaluation standards, surveys, and primers on art / aesthetics / psychophysics for a computer science audience. We welcome papers that discuss the challenges of bridging computational expression across disciplines.
+
+Accepted papers will be published as a single conference proceedings by the ACM and will be available online via the [ACM Digital Library](http://dl.acm.org/). Papers will also be archived in the [Eurographics Digital Library](https://diglib.eg.org/).
 
 **Authors of selected papers will be invited to submit extended versions of their manuscripts to be considered for publication in a special section of [Computers & Graphics](https://www.journals.elsevier.com/computers-and-graphics/) journal (Elsevier) via a fast-track review process.**
 
@@ -135,7 +139,7 @@ All work must be previously unpublished. Production and Meta papers need not con
 
 Paper submission is electronic using the [EasyChair system]({{site.symposium.submission}}).
 
-For detailed instructions to submit papers, posters, videos and other materials, please view the [submission instructions](/2018/instructions/).
+For detailed instructions to submit papers, posters, videos and other materials, please view the [submission instructions](http://expressive.graphics/2018/instructions/).
 
 ---
 
@@ -144,6 +148,23 @@ For detailed instructions to submit papers, posters, videos and other materials,
 
 [<span class="glyphicon glyphicon-file"></span> Call for General Submissions (PDF, 317 KiB)](/docs/expressive-2018-call-for-general-submissions.pdf)
 
+{::options parse_block_html="true" /}
+
+<div class="panel panel-warning">
+#### Important dates
+{: .panel-heading}
+<div class="panel-body">
+
+| __Artwork submission deadline:__ Rolling notification, closes May 3, 2018 |
+| __Poster/Demos submission deadline:__ Rolling notification, closes May 3, 2018 |
+| |
+| All deadlines are at 23:59:59 UTC/GMT |
+
+</div>
+</div>
+
+{::options parse_block_html="false" /}
+
 Expressive 2018 will continue to host a gallery for 2D and 3D artworks, sculptures, animations, posters and demonstration projects, where artist installations and computational demonstrations will be featured side-by-side. In this category, we focus on recent research and creative activities at the intersection of arts and sciences. We are open to any work that is related to topics of the Expressive 2018 conferences (Computational Aesthetics, Sketch-Based Interfaces and Modeling, and Non-Photorealistic Animation and Rendering). The authors of accepted works will be invited to present their work through a panel discussion or short oral presentation within the main Expressive 2018 conference. Accepted works will be archived through the ACM Digital Library.
 
 ### Topics
@@ -151,6 +172,8 @@ Expressive 2018 will continue to host a gallery for 2D and 3D artworks, sculptur
 General Submissions seeks for submissions for posters, demos and art exhibition in the three main tracks of Expressive Conference. We are interested in a wide variety of works that bridge arts and sciences. We are particularly interested in techniques for visually communicating ideas and information and for sketch based interaction and modeling integration through integration of computer science, mathematics, philosophy, psychology, and the fine, applied & performing arts.
 
 Expressive solicits extended abstracts for poster, demo and art exhibition proposals. Accepted works will be demonstrated and exhibited during the conference. We expect these works will pose new questions and motivate further research in three main areas of Expressive Conference: (1) Computational Aesthetics; (2) Sketch Based Interfaces and Modeling; and (3) Non-Photorealistic Animation and Rendering.
+
+Accepted general submissions (posters/demos/artworks) will be published together with the accepted papers as a single conference proceedings by the ACM and will be available online via the [ACM Digital Library](http://dl.acm.org/). Accepted submissions will also be archived in the [Eurographics Digital Library](https://diglib.eg.org/).
 
 ### Guidelines
 
@@ -168,13 +191,27 @@ For detailed instructions to submit papers, posters, videos and other materials,
 
 [<span class="glyphicon glyphicon-file"></span> Call for Journal Presentations (PDF, 317 KiB)](/docs/expressive-2018-call-for-journal-presentations.pdf)
 
+{::options parse_block_html="true" /}
+
+<div class="panel panel-warning">
+#### Important dates
+{: .panel-heading}
+<div class="panel-body">
+
+| __Presentation of work previously published in a journal:__ Rolling notification, closes May 3, 2018 |
+| |
+| All deadlines are at 23:59:59 UTC/GMT |
+
+</div>
+</div>
+
+{::options parse_block_html="false" /}
+
 As at previous events, we will include a submission category for the presentation of work previously published in a journal. The intent of this category is to allow authors of journal papers the opportunity to present their research at Expressive. These papers will not appear in the Expressive proceedings.
 
 ### Guidelines
 
 The work should be published in the July 2017 – July 2018 time-frame, and not have been previously presented at a conference or symposium. A copy of the paper abstract and a link to the published paper or preprint should be submitted via email to the program chairs. Submissions will be reviewed by the program committee. Note that accepted presentations are subject to the same rules as regular papers, namely that at least one author must register for the conference.
-
-Rolling notification closes {{ site.symposium.paper }} |.
 
 ---
 {::options parse_block_html="true" /}
