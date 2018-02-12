@@ -7,6 +7,5 @@ image:
   card: 2018/expressiveCard.jpg
   year: 2018
 ---
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScJrr_kKZN9ACdJZpsoihGMxfkFb8SeGH6zAPpaEo2Dxba_4Q/viewform?embedded=true" width="1170" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScJrr_kKZN9ACdJZpsoihGMxfkFb8SeGH6zAPpaEo2Dxba_4Q/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
