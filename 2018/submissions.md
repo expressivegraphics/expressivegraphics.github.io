@@ -25,8 +25,8 @@ Invited talks and artists talks will be shared among the workshops and sessions 
 | __Paper submission deadline:__ {{ site.symposium.paper }} |
 | __Acceptance notification:__ {{ site.symposium.acceptance }} |
 | __Camera-ready submission:__ {{ site.symposium.camera-ready }} |
-
-All deadlines are at 23:59:59 UTC/GMT
+| |
+| All deadlines are at 23:59:59 UTC/GMT |
 
 </div>
 </div>
