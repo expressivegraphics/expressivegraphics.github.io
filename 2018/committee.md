@@ -64,7 +64,7 @@ year: 2018
 			<h4 class="panel-title">Local Organization Chair</h4>
 		</div>
 		<div class="panel-body">
-			<h4>Li Ji<br><small>University of Victoria</small></h4>			
+			<h4>Li Ji<br><small>University of Victoria, Canada</small></h4>			
 		</div>
 	</div>
 </div>
