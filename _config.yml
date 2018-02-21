@@ -67,8 +67,6 @@ symposium:
   google:
     analytics: UA-76809364-1
     verify:
-    ad-client:
-    ad-slot:
   bing-verify:
   submission: https://easychair.org/conferences/?conf=expressive18
 
