@@ -21,8 +21,6 @@ year: 2018
 	</div>
 </div>
 
-
-
 <div class="col-8 col-sm-8 col-lg-4">
 	<div class="panel panel-default">
 		<div class="panel-heading">
@@ -45,6 +43,10 @@ year: 2018
 		</div>
 	</div>
 </div>
+
+</div>
+
+<div class="col-12 col-sm-12 col-lg-12">
 
 <div class="col-8 col-sm-8 col-lg-4">
 	<div class="panel panel-default">
