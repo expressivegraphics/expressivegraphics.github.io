@@ -8,7 +8,7 @@ image:
 year: 2018
 ---
 
-The Expressive 2018 Joint Symposium will be hosted in Room ECS.660. in the building of Department of Computer Science in University of Victoria.
+The Expressive 2018 Joint Symposium starts one day after SIGGRAPH 2018 (Vancouver) ends and will be hosted in Room ECS.660. in the building of Department of Computer Science in University of Victoria, BC, Canada.  _Victoria is a short ferry or float plane ride from Vancouver_ (approx. 58 miles / 94 kilometers).
 
 <iframe width="100%" height="250" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?key=AIzaSyBUszhnIOQJDdJyEILgLQIWujmrKDBP2B8&q=University of Victoria Department of Computer Science" allowfullscreen>
 </iframe>
