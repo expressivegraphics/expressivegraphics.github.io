@@ -14,6 +14,17 @@ The Expressive 2018 Joint Symposium starts one day after SIGGRAPH 2018 (Vancouve
 </iframe>
 
 ---
+## Travel to the Expressive 2018 from SIGGRAPH
+
+Expressive 2018 is officially co-located with SIGGRAPH 2018 this year, and begins the next day after SIGGRAPH 2018 ends. There are a few ways to travel to Expressive 2018 from the SIGGRAPH Venue in downtown Vancouver.
+
+* By the Sea-planes. The sea-planes takes off in downtown Vancouver, right besides the Convention Centre (SIGGRAPH's venue) within walking distance and directly lands in downtown Victoria. There are two sea-plane operators that fly between Vancouver and Victoria:
+  1. **Harbour Air Seaplanes** [(https://www.harbourair.com)](https://www.harbourair.com)
+  2. **HeliJet** [(http://helijet.com/)](http://helijet.com/)
+* By taking the regular flights operated by Air Canada, which fly from the Vancouver international airport (**YVR**) [(http://www.yvr.ca/)](http://www.yvr.ca/) and land in the Victoria International Airport (**YYJ**) [(http://www.victoriaairport.com/)](http://www.victoriaairport.com/).
+  1. You may take a taxi or the SkyTrain from downtown Vancouver to YVR. The **Canada Line** Skytrain from the **Waterfront** or **Vancouver City Centre** station will take you towards the airport, but be mindful don't hop on trains towards Richmond. [(https://www.translink.ca/)](https://www.translink.ca/Schedules-and-Maps/SkyTrain/SkyTrain-Schedules/Canada-Line.aspx). 
+  2. After arriving in YYJ, there are car rental service, shuttle bus and city bus that runs between the airport and the Victoria city [(http://www.victoriaairport.com/taxi-and-shuttle)](http://www.victoriaairport.com/taxi-and-shuttle).
+* By driving. Please drive toward the **Tsawwassen** Ferry Terminal and cross to the **Swartz Bay** terminal on the island, from where you can take the BC-17 highway to get to the city and University of Victoria. As the ferry service could be very busy during Friday and weekends, we recommend you make a **Reservation** with **BC Ferries** [(https://www.bcferries.com/)](https://www.bcferries.com/travel_planning/) to ensure a smooth ride.   
 
 ## Travel to Victoria
 

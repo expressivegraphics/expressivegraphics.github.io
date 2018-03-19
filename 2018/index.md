@@ -7,6 +7,12 @@ image:
   card: 2018/expressiveCard.jpg
 year: 2018
 ---
+## Expressive 2018 is officially co-located with SIGGRAPH 2018!
+
+We are officially co-located with SIGGRAPH 2018 in Vancouver that ends the day before Expressive 2018 starts. 
+Our conference venue is located in the beautiful city of Victoria, with only 30 minutes flight or 90 minutes driving from the SIGGRAPH venue in downtown Vancouver. Please take a look at the [**Venue**](./venue/) page for detailed travel instructions.
+
+Expressive 2018 requires separate registrations from SIGGRAPH 2018. Please consult the [**Registration**](./registration/) for details.
 
 ## Aims and Scope
 
