@@ -77,8 +77,6 @@ year: 2018
 
 	<h2>Program Committee</h2>
 
-	<!- <div class="alert alert-warning">Final committee to be announced/determined soon.</div> -->
-
 	<div class="panel panel-default">
 		<div class="panel-body">
 		
