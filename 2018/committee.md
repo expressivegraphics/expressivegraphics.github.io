@@ -84,11 +84,11 @@ year: 2018
 		
 		  <div class="col-4 col-sm-4 col-lg-4">
 				<h4>Ergun Akleman<br><small>Texas A&M University, US</small></h4>
-				<h4>Sami Arpa<br><small>Ecole Polytechnique Fédérale de Lausanne, CH</small></h4>
+				<h4>Sami Arpa<br><small>EPFL, CH</small></h4>
 				<h4>Paul Asente<br><small>Adobe Research, US</small></h4>
 				<h4>Tunç Aydin<br><small>Disney Research, CH</small></h4>
 				<h4>Seok-Hyung Bae<br><small>KAIST, KR</small></h4>
-				<h4>Sven Banisch<br><small>Max Planck Institute for Mathematics in the Sciences, DE</small></h4>
+				<h4>Sven Banisch<br><small>Max Planck Institute, DE</small></h4>
 				<h4>Loïc Barthe<br><small>Université Paul Sabatier, FR</small></h4>
 				<h4>Alexandra Bonnici<br><small>University of Malta, MT</small></h4>
 				<h4>Nadia Boukhelifa<br><small>Inria, FR</small></h4>
@@ -99,7 +99,7 @@ year: 2018
 				<h4>Frederic Cordier<br><small>University of Haute Alsace, FR</small></h4>
 				<h4>Mario Costa Sousa<br><small>University of Calgary, CA</small></h4>
 				<h4>Pedro Cruz<br><small>Northeastern University, US</small></h4>
-				<h4>Boris Dalstein<br><small>VGC EIRL DALSTEIN, FR</small></h4>
+				<h4>Boris Dalstein<br><small>VGC, FR</small></h4>
 				<h4>John Dingliana<br><small>Trinity College Dublin, IE</small></h4>
 				<h4>Stephen DiVerdi<br><small>Adobe, US</small></h4>
 				<h4>Neil Dodgson<br><small>Victoria University of Wellington, NZ</small></h4>
