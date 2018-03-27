@@ -84,7 +84,6 @@ year: 2018
 				<h4>Ergun Akleman<br><small>Texas A&M University, US</small></h4>
 				<h4>Sami Arpa<br><small>EPFL, CH</small></h4>
 				<h4>Paul Asente<br><small>Adobe Research, US</small></h4>
-				<h4>Tunç Aydin<br><small>Disney Research, CH</small></h4>
 				<h4>Seok-Hyung Bae<br><small>KAIST, KR</small></h4>
 				<h4>Sven Banisch<br><small>Max Planck Institute, DE</small></h4>
 				<h4>Loïc Barthe<br><small>Université Paul Sabatier, FR</small></h4>
@@ -101,10 +100,10 @@ year: 2018
 				<h4>John Dingliana<br><small>Trinity College Dublin, IE</small></h4>
 				<h4>Stephen DiVerdi<br><small>Adobe, US</small></h4>
 				<h4>Neil Dodgson<br><small>Victoria University of Wellington, NZ</small></h4>
+				<h4>Katayoon Etemad<br><small>University of Calgary, CA</small></h4>
 			</div>
 			
 			<div class="col-4 col-sm-4 col-lg-4">
-				<h4>Katayoon Etemad<br><small>University of Calgary, CA</small></h4>
 				<h4>Roland Fleming<br><small>University of Giessen, DE</small></h4>
 				<h4>Angus Forbes<br><small>UC Santa Cruz, US</small></h4>
 				<h4>Yotam Gingold<br><small>George Mason University, US</small></h4>
