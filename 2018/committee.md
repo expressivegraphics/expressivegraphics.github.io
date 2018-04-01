@@ -103,6 +103,7 @@ year: 2018
 			</div>
 			
 			<div class="col-4 col-sm-4 col-lg-4">
+			        <h4>Jürgen Döllner<br><small>HPI, University of Potsdam, DE</small></h4>
 				<h4>Katayoon Etemad<br><small>University of Calgary, CA</small></h4>
 				<h4>Roland Fleming<br><small>University of Giessen, DE</small></h4>
 				<h4>Angus Forbes<br><small>UC Santa Cruz, US</small></h4>
