@@ -122,10 +122,10 @@ year: 2018
 				<h4>Manfred Lau<br><small>Lancaster University, UK</small></h4>
 				<h4>Jing Liao<br><small>Microsoft Research Asia, CN</small></h4>
 				<h4>Ligang Liu<br><small>USTC, CN</small></h4>
-				<h4>Ann McNamara<br><small>Texas A&M University, US</small></h4>
 			</div>
 			
 			<div class="col-4 col-sm-4 col-lg-4">
+			        <h4>Ann McNamara<br><small>Texas A&M University, US</small></h4>
 				<h4>Barbara Meier<br><small>Brown University, US</small></h4>
 				<h4>David Mould<br><small>Carleton University, CA</small></h4>
 				<h4>Tania Pouli<br><small>Technicolor, FR</small></h4>
