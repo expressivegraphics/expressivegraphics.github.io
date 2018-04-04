@@ -6,7 +6,7 @@ headline: "Paper Submission Instructions"
 year: 2018
 ---
 
-All work must be previously unpublished. Production and Meta papers need not contain original research or results, but must make a substantive contribution to the knowledge in the field. Papers should be 8–10 pages in length (excluding citations). Papers longer than 10 pages must make a very significant contribution. Supplemental video and images may also be submitted. Research papers are reviewed double-blind and so must be anonymous when submitted. References to your own work should be made in the third person to maintain anonymity. Production and meta papers can either be submitted with clear names (single-blind) or anonymously (double-blind).
+All work must be previously unpublished. Production and Meta papers need not contain original research or results, but must make a substantive contribution to the knowledge in the field. Papers should be 8–10 pages in length (excluding citations). Papers longer than 10 pages must make a very significant contribution. Supplemental video and images may also be submitted. Papers are reviewed double-blind and so must be anonymous when submitted. References to your own work should be made in the third person to maintain anonymity.
 
 Paper submission is electronic using the [EasyChair system]({{site.symposium.submission}}).
 
