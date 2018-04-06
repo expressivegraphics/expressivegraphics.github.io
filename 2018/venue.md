@@ -8,12 +8,24 @@ image:
 year: 2018
 ---
 
-The Expressive 2018 Joint Symposium will be hosted in Room ECS.660. in the building of Department of Computer Science in University of Victoria.
+The Expressive 2018 Joint Symposium starts one day after SIGGRAPH 2018 (Vancouver) ends and will be hosted in Room ECS.660. in the building of Department of Computer Science in University of Victoria, BC, Canada.  _Victoria is a short ferry or float plane ride from Vancouver_ (approx. 58 miles / 94 kilometers).
 
 <iframe width="100%" height="250" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?key=AIzaSyBUszhnIOQJDdJyEILgLQIWujmrKDBP2B8&q=University of Victoria Department of Computer Science" allowfullscreen>
 </iframe>
 
 ---
+## Travel to the Expressive 2018 from SIGGRAPH
+
+Expressive 2018 is officially co-located with SIGGRAPH 2018 this year, and begins the next day after SIGGRAPH 2018 ends. There are a few ways to travel to Expressive 2018 from the SIGGRAPH Venue in downtown Vancouver.
+
+* By the Sea-planes. The sea-planes takes off in downtown Vancouver, right besides the Convention Centre (SIGGRAPH's venue) within walking distance and directly lands in downtown Victoria. There are two sea-plane operators that fly between Vancouver and Victoria:
+  1. **Harbour Air Seaplanes** [(https://www.harbourair.com)](https://www.harbourair.com)
+  2. **HeliJet** [(http://helijet.com/)](http://helijet.com/)
+* By taking the regular flights operated by Air Canada, which fly from the Vancouver international airport (**YVR**) [(http://www.yvr.ca/)](http://www.yvr.ca/) and land in the Victoria International Airport (**YYJ**) [(http://www.victoriaairport.com/)](http://www.victoriaairport.com/).
+  1. You may take a taxi or the SkyTrain from downtown Vancouver to YVR. The **Canada Line** Skytrain from the **Waterfront** or **Vancouver City Centre** station will take you towards the airport, but be mindful don't hop on trains towards Richmond. [(https://www.translink.ca/)](https://www.translink.ca/Schedules-and-Maps/SkyTrain/SkyTrain-Schedules/Canada-Line.aspx). 
+  2. After arriving in YYJ, there are car rental service, shuttle bus and city bus that runs between the airport and the Victoria city [(http://www.victoriaairport.com/taxi-and-shuttle)](http://www.victoriaairport.com/taxi-and-shuttle).
+* By driving. Please drive toward the **Tsawwassen** Ferry Terminal and cross to the **Swartz Bay** terminal on the island, from where you can take the BC-17 highway to get to the city and University of Victoria. As the ferry service could be very busy during friday and weekends, we recommend you make a **Reservation** with **BC Ferries** [(https://www.bcferries.com/)](https://www.bcferries.com/travel_planning/) to ensure a smooth ride.   
+* By taking public transit. You can ride the **Canada Line** to the **Bridgeport** station and take the **620** bus to reach the **Tsawwassen** ferry terminal, and board the BC Ferry towards Victoria. After disembark the ferry, take the **70** bus for downtown Victoria.
 
 ## Travel to Victoria
 

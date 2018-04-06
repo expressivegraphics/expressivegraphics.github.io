@@ -77,70 +77,73 @@ year: 2018
 
 	<h2>Program Committee</h2>
 
-	<div class="alert alert-warning">Final committee to be announced/determined soon.</div>
-
 	<div class="panel panel-default">
 		<div class="panel-body">
-
-			<div class="col-4 col-sm-4 col-lg-4">
-				<h4>Ergun Akleman<br><small>Texas A&M University, USA</small></h4>
+		
+		  <div class="col-4 col-sm-4 col-lg-4">
+				<h4>Ergun Akleman<br><small>Texas A&M University, US</small></h4>
+				<h4>Sami Arpa<br><small>EPFL, CH</small></h4>
+				<h4>Paul Asente<br><small>Adobe Research, US</small></h4>
+				<h4>Seok-Hyung Bae<br><small>KAIST, KR</small></h4>
+				<h4>Sven Banisch<br><small>Max Planck Institute, DE</small></h4>
 				<h4>Loïc Barthe<br><small>Université Paul Sabatier, FR</small></h4>
-				<h4>Stefan Bruckner<br><small>University of Bergen, NO</small></h4>
-				<h4>Frederic Cordier<br><small>Université de Haute Alsace, FR</small></h4>
-				<h4>Stephen DiVerdi<br><small>Adobe Research, USA</small></h4>
+				<h4>Alexandra Bonnici<br><small>University of Malta, MT</small></h4>
+				<h4>Nadia Boukhelifa<br><small>Inria, FR</small></h4>
+				<h4>Adrien Bousseau<br><small>Inria, FR</small></h4>
+				<h4>Martin Cadik<br><small>Brno University of Technology, CZ</small></h4>
+				<h4>Nathan Carr<br><small>Adobe Research, US</small></h4>
+				<h4>Forrester Cole<br><small>Google, US</small></h4>
+				<h4>Frederic Cordier<br><small>University of Haute Alsace, FR</small></h4>
+				<h4>Mario Costa Sousa<br><small>University of Calgary, CA</small></h4>
+				<h4>Pedro Cruz<br><small>Northeastern University, US</small></h4>
+				<h4>Boris Dalstein<br><small>VGC, FR</small></h4>
+				<h4>John Dingliana<br><small>Trinity College Dublin, IE</small></h4>
+				<h4>Stephen DiVerdi<br><small>Adobe, US</small></h4>
+				<h4>Neil Dodgson<br><small>Victoria University of Wellington, NZ</small></h4>
+			</div>
+			
+			<div class="col-4 col-sm-4 col-lg-4">
+			        <h4>Jürgen Döllner<br><small>HPI, University of Potsdam, DE</small></h4>
 				<h4>Katayoon Etemad<br><small>University of Calgary, CA</small></h4>
-				<h4>Angus Forbes<br><small>University of California, USA</small></h4>
-				<h4>Yotam Gingold<br><small>George Mason University, USA</small></h4>
-				<h4>Peter Hall<br><small>University of Bath, UK</small></h4>
-				<h4>Victoria Interrante<br><small>University of Minnesota, USA</small></h4>
-				<h4>Craig S. Kaplan<br><small>University of Waterloo, CA</small></h4>
-				<h4>Barbara Meier<br><small>Brown University, USA</small></h4>
-				<h4>Peter Rautek<br><small>KAUST, SA</small></h4>
-				<h4>Paul L. Rosin<br><small>Cardiff University, UK</small></h4>
-				<h4>Stefan Schlechtweg<br><small>Hochschule Anhalt, DE</small></h4>
-				<h4>Peter Shirley<br><small>University of Utah, USA</small></h4>
-				<h4>Kenshi Takayama<br><small>National Institute of Informatics, JP</small></h4>
-				<h4>Luiz Velho<br><small>IMPA, BR</small></h4>
-			</div>
-			<div class="col-4 col-sm-4 col-lg-4">
-				<h4>Zainab AlMeraj<br><small>Kuwait University, KW</small></h4>
-				<h4>Pierre Bénard<br><small>Université de Bordeaux, FR</small></h4>
-				<h4>Marie-Paule Cani<br><small>Grenoble Institute of Technology, FR</small></h4>
-				<h4>Pedro Cruz<br><small>Northeastern University, USA</small></h4>
-				<h4>Jürgen Döllner<br><small>Hasso Plattner Institute, DE</small></h4>
-				<h4>Adam Finkelstein<br><small>Princeton University, USA</small></h4>
-				<h4>Esteban Garcia Bravo<br><small>Purdue University, USA</small></h4>
-				<h4>Bruce Gooch<br><small>Texas A&M University, USA</small></h4>
-				<h4>Donald House<br><small>Clemson University, USA</small></h4>
-				<h4>Tobias Isenberg<br><small>Inria / Université Paris Saclay, FR</small></h4>
-				<h4>Joe La Viola<br><small>University of Central Florida, USA</small></h4>
-				<h4>David Mould<br><small>Carleton University, CA</small></h4>
-				<h4>Christian Richardt<br><small>University of Bath, UK</small></h4>
-				<h4>Anthony Santella<br><small>USA</small></h4>
-				<h4>Amir Semmo<br><small>Hasso Plattner Institute, DE</small></h4>
-				<h4>Karan Singh<br><small>University of Toronto, CA</small></h4>
-				<h4>Joëlle Thollot<br><small>Université Grenoble Alpes, FR</small></h4>
-				<h4>Daniel Weiskopf<br><small>Universität Stuttgart, DE</small></h4>
-			</div>
-			<div class="col-4 col-sm-4 col-lg-4">
-				<h4>Paul Asente<br><small>Adobe Research, USA</small></h4>
-				<h4>Adrien Bousseau<br><small>Inria Sophia-Antipolis, FR</small></h4>
-				<h4>Nathan Carr<br><small>Adobe Research, USA</small></h4>
-				<h4>Oliver Deussen<br><small>Universität Konstanz, USA</small></h4>
-				<h4>David Ebert<br><small>Purdue University, USA</small></h4>
 				<h4>Roland Fleming<br><small>University of Giessen, DE</small></h4>
-				<h4>Murat Germen<br><small>Sabanci University, TR</small></h4>
+				<h4>Angus Forbes<br><small>UC Santa Cruz, US</small></h4>
+				<h4>Yotam Gingold<br><small>George Mason University, US</small></h4>
+				<h4>Yann Gousseau<br><small>Telecom ParisTech, FR</small></h4>
 				<h4>Eduard Gröller<br><small>Vienna University of Technology, AT</small></h4>
-				<h4>John Hughes<br><small>Brown University, USA</small></h4>
-				<h4>Pushkar Joshi<br><small>Google Inc., USA</small></h4>
+				<h4>Peter Hall<br><small>University of Bath, UK</small></h4>
+				<h4>Ramon Hegedus<br><small>University of Tubingen, DE</small></h4>
+				<h4>John Hughes<br><small>Brown University, US</small></h4>
+				<h4>Thomas Hurtut<br><small>Polytechnique Montreal, CA</small></h4>
+				<h4>Victoria Interrante<br><small>University of Minnesota, US</small></h4>
+				<h4>Tobias Isenberg<br><small>Inria, FR</small></h4>
+				<h4>Joaquim Jorge<br><small>INESC-ID/U Lisboa, PT</small></h4>
+				<h4>Craig Kaplan<br><small>University of Waterloo, CA</small></h4>
+				<h4>Yu-Kun Lai<br><small>Cardiff University, UK</small></h4>
+				<h4>Manfred Lau<br><small>Lancaster University, UK</small></h4>
+				<h4>Jing Liao<br><small>Microsoft Research Asia, CN</small></h4>
 				<h4>Ligang Liu<br><small>USTC, CN</small></h4>
-				<h4>Karol Myszkowski<br><small>Max-Planck-Institut für Informatik, DE</small></h4>
+			</div>
+			
+			<div class="col-4 col-sm-4 col-lg-4">
+			        <h4>Ann McNamara<br><small>Texas A&M University, US</small></h4>
+				<h4>Barbara Meier<br><small>Brown University, US</small></h4>
+				<h4>David Mould<br><small>Carleton University, CA</small></h4>
+				<h4>Tania Pouli<br><small>Technicolor, FR</small></h4>
+				<h4>Christian Richardt<br><small>University of Bath, UK</small></h4>
 				<h4>Remi Ronfard<br><small>Inria, FR</small></h4>
-				<h4>Mateu Sbert<br><small>University of Girona, ES</small></h4>
+				<h4>Paul Rosin<br><small>Cardiff University, UK</small></h4>
+				<h4>Faramarz Samavati<br><small>University of Calgary, CA</small></h4>
+				<h4>Anthony Santella<br><small>Sloan Kettering Institute, US</small></h4>
+				<h4>Mateu Sbert<br><small>Tianjin University, CN</small></h4>
 				<h4>Metin Sezgin<br><small>Koc University, TR</small></h4>
-				<h4>Daniel Sýkora<br><small>Czech Technical University in Prague</small></h4>
-				<h4>David Vanderhaeghe<br><small>Université Paul Sabatier, FR</small></h4>
-				<h4>Holger Winnemöller<br><small>Adobe Research, USA</small></h4>
+				<h4>Peter Shirley<br><small>NVIDIA, US</small></h4>
+				<h4>Maryann Simmons<br><small>Walt Disney Animation Studios, US</small></h4>
+				<h4>Joëlle Thollot<br><small>Grenoble Inp - LJK, FR</small></h4>
+				<h4>David Vanderhaeghe<br><small>IRIT Université de Toulouse, FR</small></h4>
+				<h4>Luiz Velho<br><small>IMPA, BR</small></h4>
+				<h4>Christian Wallraven<br><small>Korea University, KR</small></h4>
+				<h4>Holger Winnemöller<br><small>Adobe Systems Inc., US</small></h4>
+				<h4>Mingtian Zhao<br><small>Google, US</small></h4>
 			</div>
 
 		</div>

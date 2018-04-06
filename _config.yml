@@ -6,7 +6,7 @@ url: 'http://expressive.graphics' # the base hostname & protocol for your site
 # url: 'http://localhost:4000'
 
 title: 'Expressive 2018'
-author: 'Santiago Montesdeoca, Amir Semmo'
+author: 'Santiago Montesdeoca, Amir Semmo, Daniel Limberger'
 
 google_font_sans_serif: 'Source+Sans+Pro:300'
 
@@ -54,7 +54,7 @@ sass:
 symposium:
   name: Expressive joint Symposium
   date: August 12-19, 2018
-  location: Victoria, Canada
+  location: Victoria, British Columbia, Canada
   URL: expressive.graphics/2018
   sponsors: ACM Siggraph, Eurographics, Disney Research and Adobe Research
   abstract: April 3, 2018
@@ -68,7 +68,7 @@ symposium:
     analytics: UA-76809364-1
     verify:
   bing-verify:
-  submission: https://easychair.org/conferences/?conf=expressive18
+  submission: https://easychair.org/conferences/?conf=expressive180
 
 
 # Conference chairs
