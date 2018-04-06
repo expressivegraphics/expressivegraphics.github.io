@@ -40,7 +40,7 @@ Additionally, please set the conference details in the template as follows:
 \setcopyright{none}
 ```
 
-For the camera-ready submission, please remove `\setcopyright{none}`. To comply with the ACM copyright policies.
+For the camera-ready submission, remove `\setcopyright{none}` to comply with the ACM copyright policies.
 
 ### Supplemental material
 {: .top1}

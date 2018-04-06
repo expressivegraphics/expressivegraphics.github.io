@@ -1,16 +1,6 @@
 <div class="col-xs-6 col-sm-3 sidebar-offcanvas" id="sidebar">
 
-  <!-- IMPORTANT DATES -->
-  <div class="panel panel-default top1" id="deadlines">
-    <h4 class="panel-heading">Important dates</h4>
-    <div class="panel-body top-1">
-      <!--<span class="bold">Abstract due:</span> <span>{{ site.symposium.abstract }}</span><br>-->
-      <span class="bold">Paper deadline:</span> <span>{{ site.symposium.paper }}</span><br>
-      <span class="bold">Acceptance by:</span> <span>{{ site.symposium.acceptance }}</span>
-      <span class="bold">Camera-ready:</span> <span>{{ site.symposium.camera-ready }}</span>
-    </div>
-  </div>
-
+{% include important-dates.html %}
 
   <!-- NEWS -->
   <div class="panel panel-default" id="news">

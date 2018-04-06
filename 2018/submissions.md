@@ -22,7 +22,9 @@ Invited talks and artists talks will be shared among the workshops and sessions 
 {: .panel-heading}
 <div class="panel-body">
 
-| __Paper submission deadline:__ {{ site.symposium.paper }} |
+| __Abstract due:__ {{ site.symposium.abstract }} |
+| __Paper submission deadline:__ ~~{{ site.symposium.paper }}~~ |
+| __Extended deadline:__ **{{ site.symposium.extension }}** |
 | __Acceptance notification:__ {{ site.symposium.acceptance }} |
 | __Camera-ready submission:__ {{ site.symposium.camera-ready }} |
 | |
