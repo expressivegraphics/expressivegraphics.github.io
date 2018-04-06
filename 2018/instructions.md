@@ -20,7 +20,7 @@ Manuscripts must be written in English. They should follow the [ACM SIGGRAPH pub
 
 The use of LaTeX is encouraged and preferred. However, only PDF files will be accepted for your submission. Please make sure that all fonts are embedded.
 
-#### Setting up the LaTex template
+#### Setting up the LaTeX template
 
 To setup the LaTeX template for anonymous submission, assign the _sigconf_ style in the document class as follows:
 
@@ -34,7 +34,9 @@ Additionally, please set the conference details in the template as follows:
 
 ```
 %Conference
-\acmConference[EXPRESSIVE 2018]{EXPRESSIVE 2018}{August 17--19, 2018}{Victoria, British Columbia, Canada}
+\acmConference[EXPRESSIVE 2018]{the Joint Symposium on Computational
+Aesthetics, Sketch-Based Interfaces and Modeling, and Non-Photorealistic
+Animation and Rendering}{Aug.\ 17--19}{Victoria, BC, Canada}
 \acmYear{2018}
 \copyrightyear{2018}
 \setcopyright{none}
