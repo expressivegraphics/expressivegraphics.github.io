@@ -183,7 +183,7 @@ We seek poster, demo and art exhibition submissions that show work that pertains
 
 General submission are in electronic form using the [EasyChair system]({{site.symposium.submission}}).
 
-For detailed instructions to submit papers, posters, videos and other materials, please view the [submission instructions](/2018/instructions/).
+For detailed instructions to submit papers, posters, videos and other materials, please view the [submission instructions](http://expressive.graphics/2018/instructions/).
 
 
 ---
