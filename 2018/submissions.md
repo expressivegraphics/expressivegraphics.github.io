@@ -13,7 +13,7 @@ Invited talks and artists talks will be shared among the workshops and sessions 
 ## Call for Papers
 {: .top2}
 
-[<span class="glyphicon glyphicon-file"></span> Call for Papers (PDF, 317 KiB)](/docs/expressive-2018-call-for-papers.pdf)
+[<span class="glyphicon glyphicon-file"></span> Call for Papers (PDF)](/docs/expressive-2018-call-for-papers-v02.pdf)
 
 {::options parse_block_html="true" /}
 
@@ -148,7 +148,7 @@ For detailed instructions to submit papers, posters, videos and other materials,
 ## Call for General Submissions
 {: .top2}
 
-[<span class="glyphicon glyphicon-file"></span> Call for General Submissions (PDF, 317 KiB)](/docs/expressive-2018-call-for-general-submissions.pdf)
+[<span class="glyphicon glyphicon-file"></span> Call for General Submissions (PDF)](/docs/expressive-2018-call-for-general-submissions-v02.pdf)
 
 {::options parse_block_html="true" /}
 
@@ -191,7 +191,7 @@ For detailed instructions to submit papers, posters, videos and other materials,
 ## Call for Journal Presentations
 {: .top2}
 
-[<span class="glyphicon glyphicon-file"></span> Call for Journal Presentations (PDF, 317 KiB)](/docs/expressive-2018-call-for-journal-presentations.pdf)
+[<span class="glyphicon glyphicon-file"></span> Call for Journal Presentations (PDF)](/docs/expressive-2018-call-for-journal-presentations-v02.pdf)
 
 {::options parse_block_html="true" /}
 
