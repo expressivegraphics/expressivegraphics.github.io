@@ -13,7 +13,7 @@ Invited talks and artists talks will be shared among the workshops and sessions 
 ## Call for Papers
 {: .top2}
 
-[<span class="glyphicon glyphicon-file"></span> Call for Papers (PDF)](/docs/expressive-2018-call-for-papers-v03.pdf)
+[<span class="glyphicon glyphicon-file"></span> Call for Papers (PDF)](/docs/expressive-2018-call-for-papers-v04.pdf)
 
 {::options parse_block_html="true" /}
 
