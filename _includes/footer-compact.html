@@ -10,7 +10,7 @@
 
 <!-- footer -->
 <div id="social">
-  <span>&copy; {{ site.time | date: '%Y' }} {{ site.symposium.name }}.</span>
+  <span>&copy; {{ site.time | date: '%Y' }} {{ site.symposium.name }}.{% if site.symposium.contact %} Contact: <a href="mailto:{{site.symposium.contact}}" target="_top">{{site.symposium.contact}}</a>{% endif %}</span>
   <div class="social-icons pull-right">
     {% if site.symposium.twitter %}<a href="https://twitter.com/{{ site.symposium.twitter }}" title="{{ site.symposium.name}} on Twitter" target="_blank"><i class="fa fa-twitter-square fa-2x"></i></a>{% endif %}
     {% if site.symposium.github %}<a href="https://github.com/{{ site.symposium.github }}" title="{{ site.symposium.name}} on Github" target="_blank"><i class="fa fa-github-square fa-2x"></i></a>{% endif %}
