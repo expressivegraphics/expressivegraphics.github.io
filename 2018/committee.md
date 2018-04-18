@@ -63,10 +63,10 @@ year: 2018
 <div class="col-4 col-sm-4 col-lg-4">
 	<div class="panel panel-default">
 		<div class="panel-heading">
-			<h4 class="panel-title">Local Organization Chair</h4>
+			<h4 class="panel-title">Organization Chair</h4>
 		</div>
 		<div class="panel-body">
-			<h4>Li Ji<br><small>University of Victoria, Canada</small></h4>			
+			<h4>Li Ji<br><small>University of Victoria, Canada</small><br><a href="mailto:expressive2018@uvic.ca">expressive2018@uvic.ca</h4>			
 		</div>
 	</div>
 </div>
