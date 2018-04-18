@@ -66,7 +66,7 @@ year: 2018
 			<h4 class="panel-title">Organization Chair</h4>
 		</div>
 		<div class="panel-body">
-			<h4>Li Ji<br><small>University of Victoria, Canada</small><br><a href="mailto:expressive2018@uvic.ca">expressive2018@uvic.ca</h4>			
+			<h4>Li Ji<br><small>University of Victoria, Canada</small><br><a href="mailto:expressive2018@uvic.ca">expressive2018@uvic.ca</a></h4>			
 		</div>
 	</div>
 </div>
