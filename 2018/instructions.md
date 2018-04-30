@@ -62,11 +62,11 @@ Posters, demos, and artworks should be submitted in PDF format as an extended ab
 
 General submission are in electronic form. Please directly email your submission to the conference email: [expressive2018@uvic.ca](mailto:expressive2018@uvic.ca). Please include the following information, and attach your submission materials in the email:
 
-**Title: 
-Author(s) Name:
-Authors' Institution(s):
-Primary Contact's Email (if not the same as the communicating email):
-Project Website (if applicable):
+**Title: <br/>
+Author(s) Name:<br/>
+Authors' Institution(s):<br/>
+Primary Contact's Email (if not the same as the communicating email):<br/>
+Project Website (if applicable):<br/>
 Intended Printing Size (width/height):**
 
 ---
