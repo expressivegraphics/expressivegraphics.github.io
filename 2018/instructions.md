@@ -8,7 +8,7 @@ year: 2018
 
 All work must be previously unpublished. Production and Meta papers need not contain original research or results, but must make a substantive contribution to the knowledge in the field. Papers should be 8–10 pages in length (excluding citations). Papers longer than 10 pages must make a very significant contribution. Supplemental video and images may also be submitted. Papers are reviewed double-blind and so must be anonymous when submitted. References to your own work should be made in the third person to maintain anonymity.
 
-Paper submission is electronic using the [EasyChair system]({{site.symposium.submission}}).
+Technical paper submission is electronic using the [EasyChair system]({{site.symposium.submission}})(currently closed).
 
 ### Paper formatting
 
@@ -59,6 +59,15 @@ Videos should be a maximum of 5 minutes in length and contain either clearly spo
 {: .top2}
 
 Posters, demos, and artworks should be submitted in PDF format as an extended abstract (2 or more pages). They should follow the ACM SIGGRAPH publication guidelines described above. Rejected papers may be considered for the poster track.
+
+General submission are in electronic form. Please directly email your submission to the conference email: [expressive2018@uvic.ca](mailto:expressive2018@uvic.ca). Please include the following information, and attach your submission materials in the email:
+
+**Title: 
+Author(s) Name:
+Authors' Institution(s):
+Primary Contact's Email (if not the same as the communicating email):
+Project Website (if applicable):
+Intended Printing Size (width/height):**
 
 ---
 

@@ -139,7 +139,7 @@ Accepted papers will be published as a single conference proceedings by the ACM 
 
 All work must be previously unpublished. Production and Meta papers need not contain original research or results, but must make a substantive contribution to the knowledge in the field. Papers should be 8–10 pages in length (excluding citations). Papers longer than 10 pages must make a very significant contribution.
 
-Paper submission is electronic using the [EasyChair system]({{site.symposium.submission}}).
+Paper submission is electronic using the [EasyChair system]({{site.symposium.submission}})(currently closed).
 
 For detailed instructions to submit papers, posters, videos and other materials, please view the [submission instructions](http://expressive.graphics/2018/instructions/).
 
@@ -181,7 +181,15 @@ Accepted general submissions (posters/demos/artworks) will be published together
 
 We seek poster, demo and art exhibition submissions that show work that pertains to all three tracks of Expressive 2018. All submissions should be in the form of a two-page or longer abstract, written in English, and should follow the SIGGRAPH formatting instructions, including a title page with an abstract, keywords, and a bibliography. Submissions should provide a clear description of the work and the process. Posters, demos and artworks will be demonstrated and/or displayed at the conference venue. Authors of accepted works in all areas of submitted work are encouraged to bring a demonstration of their work as well; it is not necessary to create a separate submission for a poster and a demo if they refer to the same project.
 
-General submission are in electronic form using the [EasyChair system]({{site.symposium.submission}}).
+General submission are in electronic form. Please directly email your submission to the conference email: [expressive2018@uvic.ca](mailto:expressive2018@uvic.ca). Please include the following information, and attach your submission materials in the email::
+
+**Title: 
+Author(s) Name:
+Authors' Institution(s):
+Primary Contact's Email (if not the same as the communicating address):
+Project Website (if applicable):
+Intended Printing Size (width/height):**
+
 
 For detailed instructions to submit papers, posters, videos and other materials, please view the [submission instructions](http://expressive.graphics/2018/instructions/).
 
