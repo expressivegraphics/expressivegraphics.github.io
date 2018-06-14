@@ -61,7 +61,7 @@ Please find the complete list of accepted submissions [here](/2018/accepted/inde
 			<tr><td></td><td><a href="/2018/accepted/index.html#paper11">ToonCap: A Layered Deformable Model for Capturing Poses From Cartoon Characters</a><br/>Xinyi Fan, Amit Bermano, Vladimir Kim, Jovan Popovic, and Szymon Rusinkiewicz</td><td>Paper</td></tr>
   	
 			<tr><td>12:00</td><td colspan="2">Lunch</td></tr>
-			<tr><td>13:30</td><td colspan="2"><b>Session 5: [Topic]</b><br/>XX XX (Chair)</td></tr>
+			<tr><td>13:30</td><td colspan="2"><b>Session 4: [Topic]</b><br/>XX XX (Chair)</td></tr>
 					
 			<tr><td></td><td><a href="/2018/accepted/index.html#paper12">Fluid Brush</a><br/>Sarah Abraham, Etienne Vouga, and Donald Fussell</td><td>Paper</td></tr>
 			<tr><td></td><td><a href="/2018/accepted/index.html#paper13">The Role of Grouping in Sketched Diagram Recognition</a><br/>Amir Ghodrati, Rachel Blagojevic, Hans W. Guesgen, Stephen Marsland, and Beryl Plimmer</td><td>Paper</td></tr>
@@ -86,7 +86,7 @@ Please find the complete list of accepted submissions [here](/2018/accepted/inde
 		<!-- Table -->
 		<table class="table table-striped">
 
-			<tr><td>09:00</td><td colspan="2"><b>Session 6: [Topic]</b><br/>XX XX (Chair)</td></tr>
+			<tr><td>09:00</td><td colspan="2"><b>Session 5: [Topic]</b><br/>XX XX (Chair)</td></tr>
     
 			
 			<tr><td></td><td><a href="/2018/accepted/index.html#paper15">Computational Light Painting and Kinetic Photography</a><br/>Yaozhun Huang, Sze Chun Tsang, Hei-Ting Tamar Wong, and Miu Ling Lam</td><td>Paper</td></tr>
