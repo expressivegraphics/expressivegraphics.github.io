@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Accepted submissions
+title: Accepted Submissions
 year: 2018
 ---
 
