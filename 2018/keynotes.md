@@ -46,7 +46,26 @@ year: 2018
 	  <hr class="bs-docs-separator">
 	  
 	  <a name="kn3"></a>
-      <h4>Capstone Talk: Title 3</h4>
+      <h4>Keynote Talk: Title 3</h4>
+	  
+	  <p><b>Steve DiPaola</b></p>
+	  
+	  <div class="row">
+
+		<figure class="col-3 col-sm-3 col-lg-3 top0">
+		  <img src="/img/people-none.jpg" class="img-responsive img-thumbnail">
+		</figure>
+
+		  <p>Abstract:<br/>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+		  <p>Biography:<br/>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+	  </div>
+	  
+	  <hr class="bs-docs-separator">
+	  
+	  <a name="kn4"></a>
+      <h4>Capstone Talk: Title 4</h4>
 	  
 	  <p><b>Peter Blaskovic</b></p>
 	  

@@ -6,8 +6,6 @@ year: 2018
 
 Please find the complete list of accepted submissions [here](/2018/accepted/index.html).
 
----
-
 <div class="col-12 col-sm-12 col-lg-12">
 
 	<div class="panel panel-default">
@@ -94,7 +92,7 @@ Please find the complete list of accepted submissions [here](/2018/accepted/inde
 			
 			<tr><td>10:30</td><td colspan="2">Coffee Break and Posters</td></tr>
 			
-			<tr><td>11:00</td><td><b><a href="/2018/keynotes/index.html#kn3">Capstone Title</a></b><br/>Peter Blaskovic</td><td align="right">Capstone</td></tr>
+			<tr><td>11:00</td><td><b><a href="/2018/keynotes/index.html#kn4">Capstone Title</a></b><br/>Peter Blaskovic</td><td align="right">Capstone</td></tr>
   	
 			<tr><td>11:40</td><td colspan="2"><b>Closing Remarks</b></td></tr>
 			
