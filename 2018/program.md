@@ -14,7 +14,7 @@ Please find the complete list of accepted submissions [here](/2018/accepted/inde
 
 			<!-- Table -->
 			<table class="table table-striped">
-				<tr><td>12:00</td><td><b>Registration Booth Open</b></td><td></td></tr>
+				<tr><td>10:00</td><td><b>Registration Booth Open</b></td><td></td></tr>
 				<tr><td>12:50</td><td><b>Opening Remarks</b><br/>Brian Wyvill and Hongbo Fu</td><td></td></tr>
 
 				<tr><td>13:00</td><td><b>Opening Keynote</b><br/>Maryann Simmons</td><td></td></tr>
