@@ -8,6 +8,12 @@ image:
 year: 2018
 ---
 
+* **[Travel to the Expressive 2018 from SIGGRAPH](#travel-to-the-expressive-2018-from-siggraph)**
+* **[Travel to Victoria](#travel-to-victoria)**
+* **[Accommodation](#accommodation)** 
+* **[Attractions](#attractions)**
+
+
 The Expressive 2018 Joint Symposium starts one day after SIGGRAPH 2018 (Vancouver) ends and will be hosted in Room ECS.660. in the building of Department of Computer Science in University of Victoria, BC, Canada.  _Victoria is a short ferry or float plane ride from Vancouver_ (approx. 58 miles / 94 kilometers).
 
 <iframe width="100%" height="250" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?key=AIzaSyBUszhnIOQJDdJyEILgLQIWujmrKDBP2B8&q=University of Victoria Department of Computer Science" allowfullscreen>
@@ -67,6 +73,18 @@ If you start from __Seattle__, there are direct, passenger-only ferry connection
 
 ---
 
+## Accommodation
+
+As a renowned tourist destination, Victoria B.C. hosts many great accommodation options, particularly around the downtown and inner harbour areas. In addition to searching for accommodation using your preferred hotel-booking platforms, please also take a look at **[Tourism Victoria](https://www.tourismvictoria.com/stay)**, an official tourism portal maintained by the city. Most hotels in the downtown area have direct bus connections to the conference venue. 
+
+Our conference dinner will be hosted in **[Delta Hotels Victoria Ocean Pointe Resort](https://www.marriott.com/hotels/travel/yyjvo-delta-hotels-victoria-ocean-pointe-resort/)**. Due to the small number of attendees of Expressive'18 we will only have regular booking prices with this hotel, but staying there will keep you close to the events in Saturday afternoon. 
+
+As the conference date is close to the September semester, on-campus accommodation is not available for Expressive'18, therefore please search for accommodation options around the downtown area of Victoria B.C.
+
+If there are any difficulties in securing accommodation for the conference, or find transportation between airport/ferry terminal to your hotel, please directly contact the conference committee at [expressive2018@uvic.ca](mailto:expressive2018@uvic.ca).
+
+---
+
 ## Attractions
 
 <div class="row">
@@ -74,10 +92,10 @@ If you start from __Seattle__, there are direct, passenger-only ferry connection
 <div class="col-9 col-sm-9 col-lg-9" markdown="1">
   As the capital city of British Columbia, Victoria is a famous worldwide tourist destination. We hope you enjoy your stay in our beautiful city. Below, we list several most mentioned attractions around the city. The charming city offers much more than what we can introduce here, for more information please refer to [Tourism Victoria](http://www.tourismvictoria.com) and [Wikipedia](http://en.wikipedia.org/wiki/Victoria,_British_Columbia).
 
-  1. [The Inner Harbour and the Fisherman's Wharf](#the-inner-harbour-and-the-fishermans-wharf)
-  2. [The Butchart Gardens](#the-butchart-gardens)
-  3. [Craigdarroch Castle](#craigdarroch-castle)
-  4. [Finnerty Gardens and Cadboro Bay](#the-finnerty-gardens-and-the-cadboro-bay)
+  1. **[The Inner Harbour and the Fisherman's Wharf](#the-inner-harbour-and-the-fishermans-wharf)**
+  2. **[The Butchart Gardens](#the-butchart-gardens)**
+  3. **[Craigdarroch Castle](#craigdarroch-castle)**
+  4. **[Finnerty Gardens and Cadboro Bay](#the-finnerty-gardens-and-the-cadboro-bay)**
 </div>
 
 <div class="col-3 col-sm-3 col-lg-3 top1">

@@ -139,7 +139,7 @@ Accepted papers will be published as a single conference proceedings by the ACM 
 
 All work must be previously unpublished. Production and Meta papers need not contain original research or results, but must make a substantive contribution to the knowledge in the field. Papers should be 8–10 pages in length (excluding citations). Papers longer than 10 pages must make a very significant contribution.
 
-Paper submission is electronic using the [EasyChair system]({{site.symposium.submission}})(currently closed).
+Paper submission is electronic using the [EasyChair system]({{site.symposium.submission}}).
 
 For detailed instructions to submit papers, posters, videos and other materials, please view the [submission instructions](http://expressive.graphics/2018/instructions/).
 
