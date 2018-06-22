@@ -150,7 +150,7 @@ year: 2018
 	  
       <a name="poster1"></a>
       <hr class="bs-docs-separator">
-      <h4>MaeSTrO: A Mobile App for Style Transfer Orchestration using Neural Networks</h4>
+      <h4>Approaches for Local Artistic Control of Mobile Neural Style Transfer</h4>
 
       <p>Max Reimann, Mandy Klingbeil, Sebastian Pasewaldt, Amir Semmo, Jürgen Döllner, and Matthias Trapp.</p>
       <p>This work presents enhancements to state-of-the-art adaptive neural style transfer techniques, thereby providing a generalized user interface with creativity tool support for lower-level local control to facilitate the demanding interactive editing on mobile devices. The approaches are implemented in a mobile app that is designed for orchestration of three neural style transfer techniques using iterative, multi-style generative and adaptive neural networks that can be locally controlled by on-screen painting metaphors to perform location-based filtering and direct the composition. Based on first user tests, we conclude with insights, showing different levels of satisfaction for the implemented techniques and user interaction design, pointing out directions for future research.</p>
