@@ -25,7 +25,7 @@ Please find the complete list of accepted submissions [here](/2018/accepted/inde
 				<tr><td></td><td><a href="/2018/accepted/index.html#paper13">The Role of Grouping in Sketched Diagram Recognition</a><br/>Amir Ghodrati, Rachel Blagojevic, Hans W. Guesgen, Stephen Marsland, and Beryl Plimmer</td><td align="right">Paper</td></tr>
 				<tr><td></td><td><a href="/2018/accepted/index.html#paper5">Context-based Sketch Classification</a><br/>Jianhui Zhang, Yilan Chen, Lei Li, Hongbo Fu, and Chiew-Lan Tai</td><td align="right">Paper</td></tr>
 
-				<tr><td>15:10</td><td colspan="2">Coffee Break and Posters </td></tr>
+				<tr><td>15:10</td><td colspan="2">Coffee Break and <a href="/2018/accepted/index.html#posters">Posters</a> </td></tr>
 
 				<!--
 				<tr><td></td><td><a href="/2018/accepted/index.html#poster1">MaeSTrO: A Mobile App for Style Transfer Orchestration using Neural Networks</a><br/>Max Reimann, Mandy Klingbeil, Sebastian Pasewaldt, Amir Semmo, Jürgen Döllner, and Matthias Trapp</td><td align="right">Poster</td></tr>
@@ -53,7 +53,7 @@ Please find the complete list of accepted submissions [here](/2018/accepted/inde
 
 			<tr><td>09:00</td><td><b>[Steve Keynote Title]</b><br/>Steve DiPaola - Professor and Chair of the Cognitive Science Program, <i>Simon Fraser University</i></td><td align="right">Keynote</td></tr>
 
-			<tr><td>09:40</td><td colspan="2">Coffee Break and Posters</td></tr>
+			<tr><td>09:40</td><td colspan="2">Coffee Break and <a href="/2018/accepted/index.html#posters">Posters</a></td></tr>
 			<tr><td>10:00</td><td colspan="2"><b>Session 3: Stylization Before and Now</b><br/>XX XX (Chair)</td></tr>
 
 			<tr><td></td><td><a href="/2018/accepted/index.html#paper14">Abstract Depiction of Human and Animal Figures: Examples from Two Centuries of Art and Craft</a><br/>Neil Dodgson</td><td align="right">Paper</td></tr>
@@ -92,7 +92,7 @@ Please find the complete list of accepted submissions [here](/2018/accepted/inde
 			<tr><td></td><td><a href="/2018/accepted/index.html#paper11">ToonCap: A Layered Deformable Model for Capturing Poses From Cartoon Characters</a><br/>Xinyi Fan, Amit Bermano, Vladimir Kim, Jovan Popovic, and Szymon Rusinkiewicz</td><td align="right">Paper</td></tr>
 			<tr><td></td><td><a href="/2018/accepted/index.html#paper7">Automatic Generation of Geological Stories from a Single Sketch</a><br/>Maxime Garcia, Remi Ronfard, Marie-Paule Cani, Claude Gout, and Christian Perrenoud</td><td align="right">Paper</td></tr>
 
-			<tr><td>10:30</td><td colspan="2">Coffee Break and Posters</td></tr>
+			<tr><td>10:30</td><td colspan="2">Coffee Break and <a href="/2018/accepted/index.html#posters">Posters</a></td></tr>
 
 			<tr><td>10:45</td><td><b>[Capstone Title]</b><br/>Peter Blaskovic - Founder and CEO, <i>Escape Motions</i></td><td align="right">Capstone</td></tr>
 
