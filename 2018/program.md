@@ -73,7 +73,7 @@ Please find the complete list of accepted submissions [here](/2018/accepted/inde
 
 			<tr><td>16:00</td><td colspan="2">Industrial Connection Workshop at Dinner Restaurant</td></tr>
 
-			<tr><td>18:00</td><td><b>Conference Dinner/Banquet with Keynote: [Andrew Pearce Keynote Title]</a></b><br/>Andrew Pearce< - VP of Global Technology, <i>DreamWorks Animation</i></td><td align="right">Dinner/<br/>Keynote</td></tr>
+			<tr><td>18:00</td><td><b>Conference Dinner/Banquet with Keynote: [Andrew Pearce Keynote Title]</b><br/>Andrew Pearce< - VP of Global Technology, <i>DreamWorks Animation</i></td><td align="right">Dinner/<br/>Keynote</td></tr>
 
 		</table>
 
