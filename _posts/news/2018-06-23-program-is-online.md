@@ -19,4 +19,4 @@ The joint symposium on Computational Aesthetics, Sketch-Based Interfaces and Mod
 
 We all look forward to see you in Victoria, BC, Canada in August!
 
-Please make sure to check out the [program](2018/program/) and [accepted submissions](2018/accepted/), the registration system will be posted soon!
+Please make sure to check out the [program](../../2018/program/) and [accepted submissions](../../2018/accepted/), the registration system will be posted soon!
