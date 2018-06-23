@@ -22,11 +22,11 @@ Invited talks and artists talks will be shared among the workshops and sessions 
 {: .panel-heading}
 <div class="panel-body">
 
-| __Abstract due:__ {{ site.symposium.abstract }} |
+| __Abstract due:__ ~~{{ site.symposium.abstract }}~~ |
 | __Paper submission deadline:__ ~~{{ site.symposium.paper }}~~ |
-| __Extended deadline:__ **{{ site.symposium.extension }}** |
-| __Acceptance notification:__ {{ site.symposium.acceptance }} |
-| __Camera-ready submission:__ {{ site.symposium.camera-ready }} |
+| __Extended deadline:__ ~~{{ site.symposium.extension }}~~ |
+| __Acceptance notification:__ ~~{{ site.symposium.acceptance }}~~ |
+| __Camera-ready submission:__ ~~{{ site.symposium.camera-ready }}~~ |
 | |
 | All deadlines are at 23:59:59 UTC/GMT |
 
