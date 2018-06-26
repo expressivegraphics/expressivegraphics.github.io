@@ -66,7 +66,7 @@ year: 2018
 			<h4 class="panel-title">Organization Chair</h4>
 		</div>
 		<div class="panel-body">
-			<h4>Li Ji<br><small>University of Victoria, Canada</small><br><a href="mailto:expressive2018@uvic.ca">expressive2018@uvic.ca</a></h4>			
+			<h4>Li Ji<br><small>University of Victoria, Canada<br><a href="mailto:expressive2018@uvic.ca">expressive2018@uvic.ca</a></small></h4>			
 		</div>
 	</div>
 </div>
@@ -79,7 +79,7 @@ year: 2018
 
 	<div class="panel panel-default">
 		<div class="panel-body">
-		
+
 		  <div class="col-4 col-sm-4 col-lg-4">
 				<h4>Ergun Akleman<br><small>Texas A&M University, US</small></h4>
 				<h4>Sami Arpa<br><small>EPFL, CH</small></h4>
@@ -102,7 +102,7 @@ year: 2018
 				<h4>Neil Dodgson<br><small>Victoria University of Wellington, NZ</small></h4>
 			        <h4>Jürgen Döllner<br><small>HPI, University of Potsdam, DE</small></h4>
 			</div>
-			
+
 			<div class="col-4 col-sm-4 col-lg-4">
 				<h4>Katayoon Etemad<br><small>University of Calgary, CA</small></h4>
 				<h4>Roland Fleming<br><small>University of Giessen, DE</small></h4>
@@ -124,7 +124,7 @@ year: 2018
 				<h4>Ligang Liu<br><small>USTC, CN</small></h4>
 			        <h4>Ann McNamara<br><small>Texas A&M University, US</small></h4>
 			</div>
-			
+
 			<div class="col-4 col-sm-4 col-lg-4">
 				<h4>Barbara Meier<br><small>Brown University, US</small></h4>
 				<h4>David Mould<br><small>Carleton University, CA</small></h4>
