@@ -72,12 +72,12 @@ Please find the complete list of accepted submissions [here](/2018/accepted/inde
 			<tr><td></td><td><a href="/2018/accepted/index.html#paper12">Fluid Brush</a><br/>Sarah Abraham, Etienne Vouga, and Donald Fussell</td><td align="right">Paper</td></tr>
 			<tr><td></td><td><a href="/2018/accepted/index.html#paper15">Computational Light Painting and Kinetic Photography</a><br/>Yaozhun Huang, Sze Chun Tsang, Hei-Ting Tamar Wong, and Miu Ling Lam</td><td align="right">Paper</td></tr>
 			<tr><td></td><td><a href="/2018/accepted/index.html#talk1">Pigmento: Pigment-Based Image Analysis and Editing</a><br/>Jianchao Tan, Stephen DiVerdi, Jingwan Lu, and Yotam Gingold</td><td align="right">Journal<br/> Talk</td></tr>
-
+            <tr><td colspan="3" style="text-align:center"> <b>Optional: Industrial Workshop in Delta Hotel Victoria Ocean Pointe Resort</b></td></tr>
 			<tr><td>15:30</td><td colspan="2">Bus to Ocean Pointe Resort (Workshop and Conference Dinner)</td></tr>
 
-			<tr><td>16:00</td><td colspan="2">Industrial Connection Workshop at Dinner Restaurant</td></tr>
+			<tr><td>16:00</td><td colspan="2">Industrial Connection Workshop at Delta Hotel </td></tr>
 
-			<tr><td>18:00</td><td><b>Conference Dinner/Banquet with Keynote: [Andrew Pearce Keynote Title]</b><br/>Andrew Pearce< - VP of Global Technology, <i>DreamWorks Animation</i></td><td align="right">Dinner/<br/>Keynote</td></tr>
+			<tr><td>18:00</td><td><b>Dinner with Indusitrial Keynote (DreamWorks Animation): [Andrew Pearce Keynote Title]</b><br/>Andrew Pearce< - VP of Global Technology, <i>DreamWorks Animation</i></td><td align="right">Dinner/<br/>Keynote</td></tr>
 
 		</table>
 
