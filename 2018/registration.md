@@ -26,8 +26,7 @@ _All prices are in Canadian Dollars_
 
 #### Additional Options
 {: .top1}
-* **Extra** Workshop & Dinner Ticket - $70 <br>
-  _(Use this ticket to bring guests to the industrial connection workshop and conference dinner on Saturday afternoon. One ticket for the registrant already included in the registration.)_
+
 * The Second Gate by _Brian Wyvill_ - $15 <br>
   _(with book launch event limited gift - receive your book and gift at the conference reception.)_
 
