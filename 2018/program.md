@@ -90,7 +90,7 @@ Please find the complete list of accepted submissions [here](/2018/accepted/inde
 		<!-- Table -->
 		<table class="table table-striped">
 
-			<tr><td>09:00</td><td colspan="2"><b>Session 5: [Topic]</b><br/>XX XX (Chair)</td></tr>
+			<tr><td>09:00</td><td colspan="2"><b>Session 5: Cartoons & Beyond</b><br/>XX XX (Chair)</td></tr>
 
 			<tr><td></td><td><a href="/2018/accepted/index.html#paper9">2D Shading for Cel Animation</a><br/>Matis Hudon, Mairéad Grogan, Rafael Pagés, Jan Ondřej, and Aljosa Smolic</td><td align="right">Paper</td></tr>
 			<tr><td></td><td><a href="/2018/accepted/index.html#paper11">ToonCap: A Layered Deformable Model for Capturing Poses From Cartoon Characters</a><br/>Xinyi Fan, Amit Bermano, Vladimir Kim, Jovan Popovic, and Szymon Rusinkiewicz</td><td align="right">Paper</td></tr>
