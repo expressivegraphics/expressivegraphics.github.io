@@ -77,7 +77,7 @@ Please find the complete list of accepted submissions [here](/2018/accepted/inde
 
 			<tr><td>16:00</td><td colspan="2">Industrial Connection Workshop at Delta Hotel </td></tr>
 
-			<tr><td>18:00</td><td>Dinner with Indusitrial Keynote (DreamWorks Animation): [Andrew Pearce Keynote Title]<br/><b>Andrew Pearce</b> VP of Global Technology, <i>DreamWorks Animation</i></td><td align="right">Dinner/<br/>Keynote</td></tr>
+			<tr><td>18:00</td><td>Dinner with Industrial Keynote (DreamWorks Animation): [Andrew Pearce Keynote Title]<br/><b>Andrew Pearce</b> VP of Global Technology, <i>DreamWorks Animation</i></td><td align="right">Dinner/<br/>Keynote</td></tr>
 
 		</table>
 
