@@ -21,7 +21,7 @@ Please find the complete list of accepted submissions [here](/2018/accepted/inde
 				<tr><td>10:00</td><td><b>Registration Booth Open</b></td><td></td></tr>
 				<tr><td>12:50</td><td><b>Opening Remarks</b><br/>Brian Wyvill and Hongbo Fu</td><td></td></tr>
 
-				<tr><td>13:00</td><td><b>Opening Keynote</b><br/>Maryann Simmons - Senior Software Engineer, <i>Walt Disney Animation Studios</i></td><td align="right">Keynote</td></tr>
+				<tr><td>13:00</td><td><b>Opening Keynote: Making the Impossible Plausible</b><br/>Maryann Simmons - Senior Software Engineer, <i>Walt Disney Animation Studios</i></td><td align="right">Keynote</td></tr>
 
 				<tr><td>13:40</td><td colspan="2"><b>Paper Session 1: Sketching</b><br/>XX XX (Chair)</td></tr>
 
