@@ -27,15 +27,19 @@ year: 2018
 	  <hr class="bs-docs-separator">
 
 	  <a name="kn2"></a>
-      <h3><i>Keynote title to be announced</i></h3>
+      <h3><i>Emulating the creativity of a painter:<br/> integrating cognitive deep learning AI and painting rendering</i></h3>
 
 	  <p><b>Steve DiPaola</b><br/>Professor and Chair of the Cognitive Science Program, <i>Simon Fraser University</i></p>
 
 	  <div class="row">
 
 		<figure class="col-3 col-sm-3 col-lg-3 top0">
-		  <img src="/img/people-none.jpg" class="img-responsive img-thumbnail">
+		  <img src="/img/2018/people-steve_dipaola.jpg" class="img-responsive img-thumbnail">
 		</figure>
+		
+		<p>Abstract:<br/>DiPaola will discuss and demonstrate his lab’s approach (ivizlab.sfu.ca) to cognitively modeling a fine art painter process by integrating Deep Learning AI with novel computational novel NPR approaches. This interdisciplinary (cognitive science / arts / AI) work brings computational creative fields together with Deep Learning Neural networks. DiPaola will demonstrate and discuss the work as well as the applications spaces in interactive arts, health and a recent Google / Knight Foundation granted project using creative painterly emulation as a new approach to anonymize interviewees in documentary videos where the study data shows improvement to overall empathy and engagement compared to current techniques. He will also demonstrate its use in VR and bio sensing interaction.</p>
+
+		<p>Biography:<br/>DiPaola is the past Dir of Cognitive Science and Prof at SFU. Before SFU, as faculty DiPaola taught the first VR Course at Stanford in 2002 and is known as an expert in computation models that emulate fine art painters and human emotive faces detailed in > 100 published papers and showcased in the journal Nature. He has directed R&D groups at Electronic Arts, Saatchi Interactive and SV startups. His AI/digital artwork has been shown at museum and galleries world wide including the AIR and Tibor de Nagy galleries in NYC, the Whitney Museum and the Smithsonian.</p>
 
 	  </div>
 
