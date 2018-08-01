@@ -21,7 +21,7 @@ Please find the complete list of accepted submissions [here](/2018/accepted/inde
 				<tr><td>10:00</td><td><b>Registration Booth Open</b></td><td></td></tr>
 				<tr><td>12:50</td><td><b>Opening Remarks</b><br/>Brian Wyvill and Hongbo Fu</td><td></td></tr>
 
-				<tr><td>13:00</td><td><b>Opening Keynote: Making the Impossible Plausible</b><br/>Maryann Simmons - Senior Software Engineer, <i>Walt Disney Animation Studios</i></td><td align="right">Keynote</td></tr>
+				<tr><td>13:00</td><td><a href="/2018/keynotes/index.html#kn1"><b>Opening Keynote: Making the Impossible Plausible</b></a><br/>Maryann Simmons - Senior Software Engineer, <i>Walt Disney Animation Studios</i></td><td align="right">Keynote</td></tr>
 
 				<tr><td>13:40</td><td colspan="2"><b>Paper Session 1: Sketching</b><br/>XX XX (Chair)</td></tr>
 
@@ -55,7 +55,7 @@ Please find the complete list of accepted submissions [here](/2018/accepted/inde
 		<!-- Table -->
 		<table class="table table-striped">
 
-			<tr><td>09:00</td><td><b>[Steve Keynote Title]</b><br/>Steve DiPaola - Professor and Chair of the Cognitive Science Program, <i>Simon Fraser University</i></td><td align="right">Keynote</td></tr>
+			<tr><td>09:00</td><td><a href="/2018/keynotes/index.html#kn2"><b>Keynote title to be announced</b></a><br/>Steve DiPaola - Professor and Chair of the Cognitive Science Program, <i>Simon Fraser University</i></td><td align="right">Keynote</td></tr>
 
 			<tr><td>09:40</td><td colspan="2">Coffee Break and <a href="/2018/accepted/index.html#posters">Posters</a></td></tr>
 			<tr><td>10:00</td><td colspan="2"><b>Session 3: Stylization Before and Now</b><br/>XX XX (Chair)</td></tr>
@@ -77,7 +77,7 @@ Please find the complete list of accepted submissions [here](/2018/accepted/inde
 
 			<tr><td>16:00</td><td colspan="2">Industrial Connection Workshop at Delta Hotel </td></tr>
 
-			<tr><td>18:00</td><td>Dinner with Industrial Keynote (DreamWorks Animation): [Andrew Pearce Keynote Title]<br/><b>Andrew Pearce</b> VP of Global Technology, <i>DreamWorks Animation</i></td><td align="right">Dinner/<br/>Keynote</td></tr>
+			<tr><td>18:00</td><td>Dinner with Industrial Keynote (DreamWorks Animation): <a href="/2018/keynotes/index.html#kn3"><b>Keynote title to be announced</b></a><br/>Andrew Pearce - VP of Global Technology, <i>DreamWorks Animation</i></td><td align="right">Dinner/<br/>Keynote</td></tr>
 
 		</table>
 
@@ -98,7 +98,7 @@ Please find the complete list of accepted submissions [here](/2018/accepted/inde
 
 			<tr><td>10:30</td><td colspan="2">Coffee Break and <a href="/2018/accepted/index.html#posters">Posters</a></td></tr>
 
-			<tr><td>10:45</td><td><b>[Capstone Title]</b><br/>Peter Blaskovic - Founder and CEO, <i>Escape Motions</i></td><td align="right">Capstone</td></tr>
+			<tr><td>10:45</td><td><a href="/2018/keynotes/index.html#kn4"><b>When Artistic Inspirations Influence Software Development</b></a><br/>Peter Blaskovic - Founder and CEO, <i>Escape Motions</i></td><td align="right">Capstone</td></tr>
 
 			<tr><td>11:30</td><td colspan="2"><b>Closing Remarks</b><br/>Brian Wyvill and Hongbo Fu</td></tr>
 

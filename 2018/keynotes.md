@@ -8,7 +8,7 @@ year: 2018
 <div class="col-12 col-sm-12 col-lg-12">
 
       <a name="kn1"></a>
-      <h4>Making the Impossible Plausible</h4>
+      <h3><i>Making the Impossible Plausible</i></h3>
 
       <p><b>Maryann Simmons</b><br/>Senior Software Engineer, <i>Walt Disney Animation Studios</i></p>
 
@@ -27,7 +27,7 @@ year: 2018
 	  <hr class="bs-docs-separator">
 
 	  <a name="kn2"></a>
-      <h4>Keynote Talk: Title 2</h4>
+      <h3><i>Keynote title to be announced</i></h3>
 
 	  <p><b>Steve DiPaola</b><br/>Professor and Chair of the Cognitive Science Program, <i>Simon Fraser University</i></p>
 
@@ -37,16 +37,12 @@ year: 2018
 		  <img src="/img/people-none.jpg" class="img-responsive img-thumbnail">
 		</figure>
 
-		  <p>Abstract:<br/>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-
-		  <p>Biography:<br/>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-
 	  </div>
 
 	  <hr class="bs-docs-separator">
 
 	  <a name="kn3"></a>
-      <h4>Keynote Talk: Title 3</h4>
+      <h3><i>Keynote title to be announced</i></h3>
 
 	  <p><b>Andrew Pearce</b><br/>VP of Global Technology, <i>DreamWorks Animation</i></p>
 
@@ -65,7 +61,7 @@ year: 2018
 	  <hr class="bs-docs-separator">
 
 	  <a name="kn4"></a>
-      <h4>Capstone Talk: Title 4</h4>
+      <h3><i>When Artistic Inspirations Influence Software Development</i></h3>
 
 	  <p><b>Peter Blaskovic</b><br/>Founder and CEO, <i>Escape Motions</i></p>
 
@@ -75,9 +71,9 @@ year: 2018
 		  <img src="/img/people-none.jpg" class="img-responsive img-thumbnail">
 		</figure>
 
-		  <p>Abstract:<br/>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+		  <p>Abstract:<br/>A mission of Escape Motions is to create tools that bring new experience and widen possibilities for digital artists so that they become more motivated and determined to express themselves in a new unique way. In this talk, I will speak about this phase of searching and find the inspirations when developing our tools (Flame Painter, Rebelle, Amberlight, and Inspirit) and what I see is essential to realize those innovative concepts in practice.</p>
 
-		  <p>Biography:<br/>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+		  <p>Biography:<br/>Peter Blaskovic is founder and CEO of Escape Motions. He got his master degree at the Faculty of Architecture, STU in Bratislava. His long-standing passion—connecting art with the world of code—started in mid-90s on 16-bit machines when Peter was coding visual demos for Amiga computers. In 2003 Peter joined Cauldron, a game development company, where he worked as a lead animator for Activision game projects. His website with interactive artistic applets attracted millions of people and motivated him to establish his studio Escape Motions in 2012. The company and the software they developed got numerous renowned awards and nominations (IT Company of the year 2016 Slovakia, Hermes Creative Awards 2016 Platinum Winner, IT Europa - Software Innovation Solution of the Year 2018 and others) and is used by acclaimed studios including Walt Disney, ILM, Lucas Film, or Sony Entertainment.</p>
 
 	  </div>
 
