@@ -72,7 +72,7 @@ year: 2018
 	  <div class="row">
 
 		<figure class="col-3 col-sm-3 col-lg-3 top0">
-		  <img src="/img/people-none.jpg" class="img-responsive img-thumbnail">
+		  <img src="/img/2018/people-peter_blaskovic.jpg" class="img-responsive img-thumbnail">
 		</figure>
 
 		  <p>Abstract:<br/>A mission of Escape Motions is to create tools that bring new experience and widen possibilities for digital artists so that they become more motivated and determined to express themselves in a new unique way. In this talk, I will speak about this phase of searching and find the inspirations when developing our tools (Flame Painter, Rebelle, Amberlight, and Inspirit) and what I see is essential to realize those innovative concepts in practice.</p>
