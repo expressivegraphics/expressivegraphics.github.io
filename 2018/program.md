@@ -23,7 +23,7 @@ Please find the complete list of accepted submissions [here](/2018/accepted/inde
 
 				<tr><td>13:00</td><td><a href="/2018/keynotes/index.html#kn1"><b>Opening Keynote: Making the Impossible Plausible</b></a><br/>Maryann Simmons - Senior Software Engineer, <i>Walt Disney Animation Studios</i></td><td align="right">Keynote</td></tr>
 
-				<tr><td>13:40</td><td colspan="2"><b>Paper Session 1: Sketching</b><br/>XX XX (Chair)</td></tr>
+				<tr><td>13:40</td><td colspan="2"><b>Paper Session 1: Sketching</b><br/>Vladimir G. Kim (Chair)</td></tr>
 
 				<tr><td></td><td><a href="/2018/accepted/index.html#paper17">3D Sketching for Interactive Model Retrieval in Virtual Reality</a><br/>Daniele Giunchi, Stuart James, and Anthony Steed</td><td align="right">Paper</td></tr>
 				<tr><td></td><td><a href="/2018/accepted/index.html#paper13">The Role of Grouping in Sketched Diagram Recognition</a><br/>Amir Ghodrati, Rachel Blagojevic, Hans W. Guesgen, Stephen Marsland, and Beryl Plimmer</td><td align="right">Paper</td></tr>
