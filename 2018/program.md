@@ -36,7 +36,7 @@ Please find the complete list of accepted submissions [here](/2018/accepted/inde
 				<tr><td></td><td><a href="/2018/accepted/index.html#poster2">Stylized Stereoscopic 3D Line Drawings from 3D Images</a><br/>Lesley Istead and Craig Kaplan</td><td align="right">Poster</td></tr>
 				<tr><td></td><td><a href="/2018/accepted/index.html#poster3">An ego-altruist society</a><br/>Pedro M. Cruz and Andre B. Cunha</td><td align="right">Poster</td></tr>
 				-->
-				<tr><td>15:20</td><td colspan="2"><b>Session 2: Between 2.5D and 3D</b><br/>XX XX (Chair)</td></tr>
+				<tr><td>15:20</td><td colspan="2"><b>Paper Session 2: Between 2.5D and 3D</b><br/>XX XX (Chair)</td></tr>
 
 				<tr><td></td><td><a href="/2018/accepted/index.html#paper3">Structuring and Layering Contour Drawings of Organic Shapes</a><br/>Even Entem, Amal Dev Parakkat, Marie-Paule Cani, and Loic Barthe</td><td align="right">Paper</td></tr>
 				<tr><td></td><td><a href="/2018/accepted/index.html#paper10">Seamless Reconstruction of Part-Based High-Relief Models from Hand-Drawn Images</a><br/>Marek Dvorožnák, Saman Sepehri Nejad, Ondřej Jamriška, Alec Jacobson, Ladislav Kavan, and Daniel Sýkora</td><td align="right">Paper</td></tr>
@@ -58,7 +58,7 @@ Please find the complete list of accepted submissions [here](/2018/accepted/inde
 			<tr><td>09:00</td><td><a href="/2018/keynotes/index.html#kn2"><b>Emulating the creativity of a painter: integrating cognitive deep learning AI and painting rendering</b></a><br/>Steve DiPaola - Professor and Chair of the Cognitive Science Program, <i>Simon Fraser University</i></td><td align="right">Keynote</td></tr>
 
 			<tr><td>09:40</td><td colspan="2">Coffee Break and <a href="/2018/accepted/index.html#posters">Posters</a></td></tr>
-			<tr><td>10:00</td><td colspan="2"><b>Session 3: Stylization Before and Now</b><br/>Marie-Paule Cani (Chair)</td></tr>
+			<tr><td>10:00</td><td colspan="2"><b>Paper Session 3: Stylization Before and Now</b><br/>Marie-Paule Cani (Chair)</td></tr>
 
 			<tr><td></td><td><a href="/2018/accepted/index.html#paper14">Abstract Depiction of Human and Animal Figures: Examples from Two Centuries of Art and Craft</a><br/>Neil Dodgson</td><td align="right">Paper</td></tr>
 			<tr><td></td><td><a href="/2018/accepted/index.html#paper2">MNPR: A Framework for Real-Time Expressive Non-Photorealistic Rendering of 3D Computer Graphics</a><br/>Santiago Montesdeoca, Hock Soon Seah, Amir Semmo, Pierre Bénard, Vergne Romain, Joelle Thollot, and Davide Benvenuti</td><td align="right">Paper</td></tr>
@@ -66,7 +66,7 @@ Please find the complete list of accepted submissions [here](/2018/accepted/inde
 			<tr><td></td><td><a href="/2018/accepted/index.html#paper1">Reducing Affective Responses to Surgical Images through Color Manipulation and Stylization</a><br/>Lonni Besançon, Amir Semmo, David Biau, Bruno Frachet, Virginie Pineau, El Hadi Sariali, Rabah Taouachi, Tobias Isenberg, and Pierre Dragicevic</td><td align="right">Paper</td></tr>
 
 			<tr><td>12:00</td><td colspan="2">Lunch</td></tr>
-			<tr><td>13:30</td><td colspan="2"><b>Session 4: Virtual Brushes</b><br/>Oliver Deussen (Chair)</td></tr>
+			<tr><td>13:30</td><td colspan="2"><b>Paper Session 4: Virtual Brushes</b><br/>Oliver Deussen (Chair)</td></tr>
 
 			<tr><td></td><td><a href="/2018/accepted/index.html#paper16">Brush Stroke Synthesis with a Generative Adversarial Network Driven by Physically Based Simulation</a><br/>Rundong Wu, Zhili Chen, Zhaowen Wang, Jimei Yang, and Steve Marschner</td><td align="right">Paper</td></tr>
 			<tr><td></td><td><a href="/2018/accepted/index.html#paper12">Fluid Brush</a><br/>Sarah Abraham, Etienne Vouga, and Donald Fussell</td><td align="right">Paper</td></tr>
@@ -90,7 +90,7 @@ Please find the complete list of accepted submissions [here](/2018/accepted/inde
 		<!-- Table -->
 		<table class="table table-striped">
 
-			<tr><td>09:00</td><td colspan="2"><b>Session 5: Cartoons & Beyond</b><br/>Boris Dalstein (Chair)</td></tr>
+			<tr><td>09:00</td><td colspan="2"><b>Paper Session 5: Cartoons & Beyond</b><br/>Boris Dalstein (Chair)</td></tr>
 
 			<tr><td></td><td><a href="/2018/accepted/index.html#paper9">2D Shading for Cel Animation</a><br/>Matis Hudon, Mairéad Grogan, Rafael Pagés, Jan Ondřej, and Aljosa Smolic</td><td align="right">Paper</td></tr>
 			<tr><td></td><td><a href="/2018/accepted/index.html#paper11">ToonCap: A Layered Deformable Model for Capturing Poses From Cartoon Characters</a><br/>Xinyi Fan, Amit Bermano, Vladimir Kim, Jovan Popovic, and Szymon Rusinkiewicz</td><td align="right">Paper</td></tr>
