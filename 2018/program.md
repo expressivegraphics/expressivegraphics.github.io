@@ -58,7 +58,7 @@ Please find the complete list of accepted submissions [here](/2018/accepted/inde
 			<tr><td>09:00</td><td><a href="/2018/keynotes/index.html#kn2"><b>Emulating the creativity of a painter: integrating cognitive deep learning AI and painting rendering</b></a><br/>Steve DiPaola - Professor and Chair of the Cognitive Science Program, <i>Simon Fraser University</i></td><td align="right">Keynote</td></tr>
 
 			<tr><td>09:40</td><td colspan="2">Coffee Break and <a href="/2018/accepted/index.html#posters">Posters</a></td></tr>
-			<tr><td>10:00</td><td colspan="2"><b>Session 3: Stylization Before and Now</b><br/>XX XX (Chair)</td></tr>
+			<tr><td>10:00</td><td colspan="2"><b>Session 3: Stylization Before and Now</b><br/>Marie-Paule Cani (Chair)</td></tr>
 
 			<tr><td></td><td><a href="/2018/accepted/index.html#paper14">Abstract Depiction of Human and Animal Figures: Examples from Two Centuries of Art and Craft</a><br/>Neil Dodgson</td><td align="right">Paper</td></tr>
 			<tr><td></td><td><a href="/2018/accepted/index.html#paper2">MNPR: A Framework for Real-Time Expressive Non-Photorealistic Rendering of 3D Computer Graphics</a><br/>Santiago Montesdeoca, Hock Soon Seah, Amir Semmo, Pierre Bénard, Vergne Romain, Joelle Thollot, and Davide Benvenuti</td><td align="right">Paper</td></tr>
