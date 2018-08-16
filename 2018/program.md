@@ -6,9 +6,11 @@ year: 2018
 
 Please find the complete list of accepted submissions [here](/2018/accepted/index.html).
 
+<!--
 <p>
     <div class="alert alert-warning">Please note that the program is preliminary and will be continuously updated.</div>
 </p>
+-->
 
 <div class="col-12 col-sm-12 col-lg-12">
 
@@ -36,7 +38,7 @@ Please find the complete list of accepted submissions [here](/2018/accepted/inde
 				<tr><td></td><td><a href="/2018/accepted/index.html#poster2">Stylized Stereoscopic 3D Line Drawings from 3D Images</a><br/>Lesley Istead and Craig Kaplan</td><td align="right">Poster</td></tr>
 				<tr><td></td><td><a href="/2018/accepted/index.html#poster3">An ego-altruist society</a><br/>Pedro M. Cruz and Andre B. Cunha</td><td align="right">Poster</td></tr>
 				-->
-				<tr><td>15:20</td><td colspan="2"><b>Paper Session 2: Between 2.5D and 3D</b><br/>XX XX (Chair)</td></tr>
+				<tr><td>15:20</td><td colspan="2"><b>Paper Session 2: Between 2.5D and 3D</b><br/>Zhili Chen (Chair)</td></tr>
 
 				<tr><td></td><td><a href="/2018/accepted/index.html#paper3">Structuring and Layering Contour Drawings of Organic Shapes</a><br/>Even Entem, Amal Dev Parakkat, Marie-Paule Cani, and Loic Barthe</td><td align="right">Paper</td></tr>
 				<tr><td></td><td><a href="/2018/accepted/index.html#paper10">Seamless Reconstruction of Part-Based High-Relief Models from Hand-Drawn Images</a><br/>Marek Dvorožnák, Saman Sepehri Nejad, Ondřej Jamriška, Alec Jacobson, Ladislav Kavan, and Daniel Sýkora</td><td align="right">Paper</td></tr>
