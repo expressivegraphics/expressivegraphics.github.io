@@ -8,11 +8,9 @@ year: 2018
 
 Please find the complete list of accepted submissions [here](/2018/accepted/index.html).
 
-<!--
 <p>
-    <div class="alert alert-warning">Please note that the program is preliminary and will be continuously updated.</div>
+    <div class="alert alert-warning">Please find the proceedings with this link: <a>ACM Digital Library</a></div>
 </p>
--->
 
 <div class="col-12 col-sm-12 col-lg-12">
 
