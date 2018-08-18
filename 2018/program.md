@@ -4,6 +4,8 @@ title: Program
 year: 2018
 ---
 
+**The proceedings of the Symposium can now be acquired [from here](https://dl.acm.org/citation.cfm?id=3229147)**.
+
 Please find the complete list of accepted submissions [here](/2018/accepted/index.html).
 
 <!--
