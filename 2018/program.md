@@ -6,7 +6,7 @@ year: 2018
 
 **The proceedings of the Symposium can now be acquired [from here](https://dl.acm.org/citation.cfm?id=3229147)**.
 
-Please find the complete list of accepted submissions [here](/2018/accepted/index.html).
+Please find the complete list of accepted submissions **[here](/2018/accepted/index.html)**.
 
 <div class="col-12 col-sm-12 col-lg-12">
 
