@@ -2,6 +2,7 @@
 layout: news
 title: News
 sidebar: twitter
+year: 2019
 ---
 
 <div class="col-12 col-sm-12 col-lg-12 news">

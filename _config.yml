@@ -5,7 +5,6 @@ baseurl: '/2018' # the subpath to the year of conference
 url: 'http://expressive.graphics' # the base hostname & protocol for your site
 # url: 'http://localhost:4000'
 
-title: 'Expressive 2018'
 author: 'Santiago Montesdeoca, Amir Semmo, Daniel Limberger'
 
 google_font_sans_serif: 'Source+Sans+Pro:300'
@@ -34,7 +33,7 @@ defaults:
       comments: true
       share: true
       image:
-        card: 2018/expressiveCard.jpg
+        card: 2019/expressiveCard.jpg
 
 # Outputting
 exclude: [
@@ -52,26 +51,65 @@ sass:
 
 # Symposium data
 symposium:
-  name: Expressive joint Symposium
-  date: August 17-19, 2018
-  location: Victoria, British Columbia, Canada
-  URL: expressive.graphics/2018
-  sponsors: ACM Siggraph, Eurographics, Disney Research and Adobe Research
-  abstract: April 15, 2018
-  paper: April 10, 2018
-  extension: April 17, 2018
-  acceptance: May 15, 2018
-  camera-ready: June 12, 2018
-  contact: expressive2018@uvic.ca
-  disqus-shortname: expressiverendering
-  twitter: ExpressiveGfx
-  github: expressivegraphics
-  google:
-    analytics: UA-76809364-1
-    verify:
-  bing-verify:
-  submission: https://easychair.org/conferences/?conf=expressive180
-
+  2018:
+    title: 'Expressive 2018'
+    name: Expressive joint Symposium
+    date: August 17-19, 2018
+    location: Victoria, British Columbia, Canada
+    URL: expressive.graphics/2018
+    sponsors:
+    - name: ACM Siggraph
+      url: http://www.siggraph.org/
+      logo: /img/SIGGRAPH-logo.png
+    - name: Eurographics
+      url: http://www.eg.org/
+      logo: /img/Eurographics-logo.png
+    - name: Disney Research
+      url: https://www.disneyresearch.com/
+      logo: /img/Disney-logo.jpg
+    abstract: April 15, 2018
+    paper: April 10, 2018
+    extension: April 17, 2018
+    acceptance: May 15, 2018
+    camera-ready: June 12, 2018
+    general-submission: May 3, 2018
+    journal-submission: May 3, 2018
+    contact: expressive2018@uvic.ca
+    disqus-shortname: expressiverendering
+    twitter: ExpressiveGfx
+    github: expressivegraphics
+    google:
+      analytics: UA-76809364-1
+      verify:
+    bing-verify:
+    submission: https://easychair.org/conferences/?conf=expressive180
+  2019:
+    title: 'Expressive 2019'
+    name: Expressive joint Symposium
+    date: May 11-12, 2019
+    location: Genoa, Italy
+    URL: expressive.graphics/2019
+    sponsors:
+    - name: ACM Siggraph
+      url: http://www.siggraph.org/
+      logo: /img/SIGGRAPH-logo.png
+    - name: Eurographics
+      url: http://www.eg.org/
+      logo: /img/Eurographics-logo.png
+    abstract: tba
+    paper: tba
+    acceptance: tba
+    general-submission: tba
+    journal-submission: tba
+    contact: expressive2019@gmail.com
+    disqus-shortname: expressiverendering
+    twitter: ExpressiveGfx
+    github: expressivegraphics
+    google:
+      analytics: UA-76809364-1
+      verify:
+    bing-verify:
+    submission: https://easychair.org/conferences/?conf=expressive180
 
 # Conference chairs
 chairs2018:
@@ -89,3 +127,19 @@ chairs2018:
   publicityAff: Nanyang Technological University, Singapore
   publicity2: Amir Semmo
   publicity2Aff: Hasso Plattner Institute, University of Potsdam, Germany
+
+chairs2019:
+  general: Joaquim Jorge
+  generalAff: Instituto Superior Técnico (IST/UTL), Portugal
+  general2: tba
+  general2Aff: tba
+  paper: tba
+  paperAff: tba
+  paper2: tba
+  paper2Aff: tba
+  art: tba
+  artAff: tba
+  publicity: Amir Semmo
+  publicityAff: Hasso Plattner Institute, University of Potsdam, Germany
+  publicity2: tba
+  publicity2Aff: tba

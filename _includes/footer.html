@@ -15,9 +15,9 @@
 
 <!-- footer -->
 <div class="panel" id="social">
-  <span>&copy; {{ site.time | date: '%Y' }} {{ site.symposium.name }}.{% if site.symposium.contact %} Contact: <a href="mailto:{{site.symposium.contact}}" target="_top">{{site.symposium.contact}}</a>{% endif %}</span>
+  <span>&copy; {{ site.time | date: '%Y' }} {{ site.symposium[page.year].name }}.{% if site.symposium[page.year].contact %} Contact: <a href="mailto:{{site.symposium[page.year].contact}}" target="_top">{{site.symposium[page.year].contact}}</a>{% endif %}</span>
   <div class="social-icons pull-right">
-    {% if site.symposium.twitter %}<a href="https://twitter.com/{{ site.symposium.twitter }}" title="{{ site.symposium.name}} on Twitter" target="_blank"><i class="fa fa-twitter-square fa-2x"></i></a>{% endif %}
-    {% if site.symposium.github %}<a href="https://github.com/{{ site.symposium.github }}" title="{{ site.symposium.name}} on Github" target="_blank"><i class="fa fa-github-square fa-2x"></i></a>{% endif %}
+    {% if site.symposium[page.year].twitter %}<a href="https://twitter.com/{{ site.symposium[page.year].twitter }}" title="{{ site.symposium[page.year].name}} on Twitter" target="_blank"><i class="fa fa-twitter-square fa-2x"></i></a>{% endif %}
+    {% if site.symposium[page.year].github %}<a href="https://github.com/{{ site.symposium[page.year].github }}" title="{{ site.symposium[page.year].name}} on Github" target="_blank"><i class="fa fa-github-square fa-2x"></i></a>{% endif %}
   </div><!-- /.social-icons -->
 </div>

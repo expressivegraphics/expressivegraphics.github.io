@@ -3,12 +3,12 @@ layout: default
 title: Paper Submission Instructions
 excerpt: "Paper Submission Instructions for Expressive 2018"
 headline: "Paper Submission Instructions"
-year: 2018
+year: 2019
 ---
 
 All work must be previously unpublished. Production and Meta papers need not contain original research or results, but must make a substantive contribution to the knowledge in the field. Papers should be 8–10 pages in length (excluding citations). Papers longer than 10 pages must make a very significant contribution. Supplemental video and images may also be submitted. Papers are reviewed double-blind and so must be anonymous when submitted. References to your own work should be made in the third person to maintain anonymity.
 
-Technical paper submission is electronic using the [EasyChair system]({{site.symposium[2018].submission}}).
+Technical paper submission is electronic using the [EasyChair system]({{site.symposium[2019].submission}}).
 
 ### Paper formatting
 
@@ -34,11 +34,11 @@ Additionally, please set the conference details in the template as follows:
 
 ```
 %Conference
-\acmConference[EXPRESSIVE 2018]{the Joint Symposium on Computational
+\acmConference[EXPRESSIVE 2019]{the Joint Symposium on Computational
 Aesthetics, Sketch-Based Interfaces and Modeling, and Non-Photorealistic
-Animation and Rendering}{Aug.\ 17--19}{Victoria, BC, Canada}
-\acmYear{2018}
-\copyrightyear{2018}
+Animation and Rendering}{May 11--12}{Genoa, Italy}
+\acmYear{2019}
+\copyrightyear{2019}
 \setcopyright{none}
 ```
 
@@ -60,7 +60,7 @@ Videos should be a maximum of 5 minutes in length and contain either clearly spo
 
 Posters, demos, and artworks should be submitted in PDF format as an extended abstract (2 or more pages). They should follow the ACM SIGGRAPH publication guidelines described above. Rejected papers may be considered for the poster track.
 
-General submission are in electronic form. Please directly email your submission to the conference email: [expressive2018@uvic.ca](mailto:expressive2018@uvic.ca). Please include the following information, and attach your submission materials in the email:
+General submission are in electronic form. Please directly email your submission to the conference email: [{{site.symposium[page.year].contact}}](mailto:{{site.symposium[page.year].contact}}). Please include the following information, and attach your submission materials in the email:
 
 **Title: <br/>
 Author(s) Name:<br/>

@@ -5,16 +5,18 @@ image:
   feature: previous.jpg
   credit: "Glen Noble"
   creditlink: "https://unsplash.com/photos/o4-YyGi5JBc"
-  card: 2018/expressiveCard.jpg
+  card: 2019/expressiveCard.jpg
+year: 2019
 ---
 {::options parse_block_html="true" /}
 
-The {{ site.baseurl | remove: "/" }} edition of Expressive is preceded by six editions of the Expressive joint Symposium.
+The {{ page.year }} edition of Expressive is preceded by six editions of the Expressive joint Symposium.
 
 <div class="panel panel-default">
-#### Expressive -- [ 2012 - {{ site.baseurl | remove: "/" | minus: 1 }} ]
+#### Expressive -- [ 2012 - {{ page.year | minus: 1 }} ]
 {: .panel-heading}
 <div class="panel-body">
+* [**Expressive 2018**](http://expressive.graphics/2018/){:target="_blank"}, _Victoria, BC, Canada_ -- August 17-19
 * [**Expressive 2017**](http://expressivesymposium.wordpress.com/){:target="_blank"}, _Los Angeles, CA, USA_ -- July 29-30
 * [**Expressive 2016**](http://expressive.richardt.name/2016/){:target="_blank"}, _Lisbon, Portugal_ -- May 7-9
 * [**Expressive 2015**](http://expressive.richardt.name/2015/){:target="_blank"}, _Istanbul, Turkey_ -- June 20-22

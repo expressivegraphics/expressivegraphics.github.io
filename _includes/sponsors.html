@@ -3,15 +3,11 @@
   <h4 class="panel-heading">Co-sponsored by</h4>
   <div class="panel-body">
     <div class="dense-gutter">
-      <div class="col-sm-6">
-        <a href="http://www.siggraph.org/"><img src="/img/SIGGRAPH-logo.png" class="img-responsive"></a>
+	{% for sponsor in site.symposium[page.year].sponsors %}
+	  <div class="col-sm-6">
+        <a href="{{ sponsor.url }}"><img src="{{ sponsor.logo }}" class="img-responsive"></a>
       </div>
-      <div class="col-sm-6">
-        <a href="http://www.eg.org/"><img src="/img/Eurographics-logo.png" class="img-responsive"></a>
-      </div>
-      <div class="col-sm-6">
-        <a href="https://www.disneyresearch.com/"><img src="/img/Disney-logo.jpg" class="img-responsive"></a>
-      </div>
+	{% endfor %}
     </div>
   </div>
 </div>

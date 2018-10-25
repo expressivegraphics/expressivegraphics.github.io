@@ -1,5 +1,6 @@
 # Site navigation links
 
+2018:
 - title: Call for Submissions
   url: /submissions/
 
@@ -17,6 +18,19 @@
 
 - title: Venue
   url: /venue/
+
+- title: Committee
+  url: /committee/
+
+- title: Previous Editions
+  url: /../previous/
+  
+2019:
+- title: Call for Submissions
+  url: /submissions/
+
+- title: Submission Instructions
+  url: /instructions/
 
 - title: Committee
   url: /committee/

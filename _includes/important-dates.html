@@ -2,11 +2,17 @@
 <div class="panel panel-default top1" id="deadlines">
   <h4 class="panel-heading">Important dates</h4>
   <div class="panel-body top-1" markdown="1">
-    <span class="bold">Symposium:</span> <span><b>{{ site.symposium.date }}</b></span>
-    <span>Abstract due:</span> <span><s>{{ site.symposium.abstract }}</s></span><br>
-    <span>Paper deadline:</span> <span><s>{{ site.symposium.paper }}</s></span><br>
-    <span>Extended deadline:</span> <span><s>{{ site.symposium.extension }}</s></span><br>
-    <span>Acceptance by:</span> <span><s>{{ site.symposium.acceptance }}</s></span><br>
-    <span>Camera-ready:</span> <span><s>{{ site.symposium.camera-ready }}</s></span>
+    {% capture nowtime %}{{'now' | date: '%s'}}{% endcapture %}
+    {% capture abstractduetime %}{{site.symposium[page.year].abstract | date: '%s'}}{% endcapture %}
+	{% capture paperduetime %}{{site.symposium[page.year].paper | date: '%s'}}{% endcapture %}
+	{% capture extensionduetime %}{{site.symposium[page.year].extension | date: '%s'}}{% endcapture %}
+	{% capture acceptanceduetime %}{{site.symposium[page.year].acceptance | date: '%s'}}{% endcapture %}
+	{% capture camerareadyduetime %}{{site.symposium[page.year].camera-ready | date: '%s'}}{% endcapture %}
+    <span class="bold">Symposium:</span> <span><b>{{ site.symposium[page.year].date }}</b></span>
+    <span>Abstract due:</span> <span>{% if abstractduetime < nowtime %}<s>{% endif %}{{ site.symposium[page.year].abstract }}{% if abstractduetime < nowtime %}</s>{% endif %}</span><br>
+    <span>Paper deadline:</span> <span>{% if paperduetime < nowtime %}<s>{% endif %}{{ site.symposium[page.year].paper }}{% if paperduetime < nowtime %}</s>{% endif %}</span><br>
+    {% if site.symposium[page.year] contains 'extension' %}<span>Extended deadline:</span> <span>{% if extensionduetime < nowtime %}<s>{% endif %}{{ site.symposium[page.year].extension }}{% if extensionduetime < nowtime %}</s>{% endif %}</span><br>{% endif %}
+    <span>Acceptance by:</span> <span>{% if acceptanceduetime < nowtime %}<s>{% endif %}{{ site.symposium[page.year].acceptance }}{% if acceptanceduetime < nowtime %}</s>{% endif %}</span><br>
+    {% if site.symposium[page.year] contains 'camera-ready' %}<span>Camera-ready:</span> <span>{% if camerareadyduetime < nowtime %}<s>{% endif %}{{ site.symposium[page.year].camera-ready }}{% if camerareadyduetime < nowtime %}</s>{% endif %}</span>{% endif %}
   </div>
 </div>

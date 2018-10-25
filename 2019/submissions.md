@@ -1,11 +1,11 @@
 ---
 layout: submission
 title: Call for Submissions
-excerpt: "Submit your work to Expressive 2018"
-year: 2018
+excerpt: "Submit your work to Expressive 2019"
+year: 2019
 ---
 
-Being at the forefront of expressive rendering research since 2012, [Expressive 2018](http://expressive.graphics/2018) will take place in Victoria, British Columbia, Canada, August 17–19, 2018 --- shortly after [SIGGRAPH 2018](http://s2018.siggraph.org/) in Vancouver. A single registration for Expressive 2018 will include all three workshops.
+Being at the forefront of expressive rendering research since 2012, [Expressive 2019](http://expressive.graphics/2019) will take place in Genoa, Italy, May 11-12, 2019 --- shortly after [Eurographics 2019](https://www.eurographics2019.it/). A single registration for Expressive 2019 will include all three workshops.
 Invited talks and artists talks will be shared among the workshops and sessions will be mixed. The submission, review, and publication process for the event will be handled jointly across the three conferences.
 
 ---
@@ -13,7 +13,7 @@ Invited talks and artists talks will be shared among the workshops and sessions 
 ## Call for Papers
 {: .top2}
 
-[<span class="glyphicon glyphicon-file"></span> Call for Papers (PDF)](/docs/expressive-2018-call-for-papers-v04.pdf)
+[<span class="glyphicon glyphicon-file"></span> Call for Papers (PDF)](/docs/expressive-2019-call-for-papers-v01.pdf)
 
 {::options parse_block_html="true" /}
 
@@ -146,16 +146,16 @@ Accepted papers will be published as a single conference proceedings by the ACM 
 
 All work must be previously unpublished. Production and Meta papers need not contain original research or results, but must make a substantive contribution to the knowledge in the field. Papers should be 8–10 pages in length (excluding citations). Papers longer than 10 pages must make a very significant contribution.
 
-Paper submission is electronic using the [EasyChair system]({{site.symposium[2018].submission}}).
+Paper submission is electronic using the [EasyChair system]({{site.symposium[2019].submission}}).
 
-For detailed instructions to submit papers, posters, videos and other materials, please view the [submission instructions](http://expressive.graphics/2018/instructions/).
+For detailed instructions to submit papers, posters, videos and other materials, please view the [submission instructions](http://expressive.graphics/2019/instructions/).
 
 ---
 
 ## Call for General Submissions
 {: .top2}
 
-[<span class="glyphicon glyphicon-file"></span> Call for General Submissions (PDF)](/docs/expressive-2018-call-for-general-submissions-v02.pdf)
+[<span class="glyphicon glyphicon-file"></span> Call for General Submissions (PDF)](/docs/expressive-2019-call-for-general-submissions-v01.pdf)
 
 {::options parse_block_html="true" /}
 
@@ -177,7 +177,7 @@ For detailed instructions to submit papers, posters, videos and other materials,
 
 {::options parse_block_html="false" /}
 
-Expressive 2018 will continue to host a gallery for 2D and 3D artworks, sculptures, animations, posters and demonstration projects, where artist installations and computational demonstrations will be featured side-by-side. In this category, we focus on recent research and creative activities at the intersection of arts and sciences. We are open to any work that is related to topics of the Expressive 2018 conferences (Computational Aesthetics, Sketch-Based Interfaces and Modeling, and Non-Photorealistic Animation and Rendering). The authors of accepted works will be invited to present their work through a panel discussion or short oral presentation within the main Expressive 2018 conference. Accepted works will be archived through the ACM Digital Library.
+Expressive 2019 will continue to host a gallery for 2D and 3D artworks, sculptures, animations, posters and demonstration projects, where artist installations and computational demonstrations will be featured side-by-side. In this category, we focus on recent research and creative activities at the intersection of arts and sciences. We are open to any work that is related to topics of the Expressive 2019 conferences (Computational Aesthetics, Sketch-Based Interfaces and Modeling, and Non-Photorealistic Animation and Rendering). The authors of accepted works will be invited to present their work through a panel discussion or short oral presentation within the main Expressive 2019 conference. Accepted works will be archived through the ACM Digital Library.
 
 ### Topics
 
@@ -189,9 +189,9 @@ Accepted general submissions (posters/demos/artworks) will be published together
 
 ### Guidelines
 
-We seek poster, demo and art exhibition submissions that show work that pertains to all three tracks of Expressive 2018. All submissions should be in the form of a two-page or longer abstract, written in English, and should follow the SIGGRAPH formatting instructions, including a title page with an abstract, keywords, and a bibliography. Submissions should provide a clear description of the work and the process. Posters, demos and artworks will be demonstrated and/or displayed at the conference venue. Authors of accepted works in all areas of submitted work are encouraged to bring a demonstration of their work as well; it is not necessary to create a separate submission for a poster and a demo if they refer to the same project.
+We seek poster, demo and art exhibition submissions that show work that pertains to all three tracks of Expressive 2019. All submissions should be in the form of a two-page or longer abstract, written in English, and should follow the SIGGRAPH formatting instructions, including a title page with an abstract, keywords, and a bibliography. Submissions should provide a clear description of the work and the process. Posters, demos and artworks will be demonstrated and/or displayed at the conference venue. Authors of accepted works in all areas of submitted work are encouraged to bring a demonstration of their work as well; it is not necessary to create a separate submission for a poster and a demo if they refer to the same project.
 
-General submission are in electronic form. Please directly email your submission to the conference email: [expressive2018@uvic.ca](mailto:expressive2018@uvic.ca). Please include the following information, and attach your submission materials in the email::
+General submission are in electronic form. Please directly email your submission to the conference email: [{{site.symposium[page.year].contact}}](mailto:{{site.symposium[page.year].contact}}). Please include the following information, and attach your submission materials in the email::
 
 **Title: <br/>
 Author(s) Name:<br/>
@@ -201,7 +201,7 @@ Project Website (if applicable):<br/>
 Intended Printing Size (width/height):**
 
 
-For detailed instructions to submit papers, posters, videos and other materials, please view the [submission instructions](http://expressive.graphics/2018/instructions/).
+For detailed instructions to submit papers, posters, videos and other materials, please view the [submission instructions](http://expressive.graphics/2019/instructions/).
 
 
 ---
@@ -209,7 +209,7 @@ For detailed instructions to submit papers, posters, videos and other materials,
 ## Call for Journal Presentations
 {: .top2}
 
-[<span class="glyphicon glyphicon-file"></span> Call for Journal Presentations (PDF)](/docs/expressive-2018-call-for-journal-presentations-v02.pdf)
+[<span class="glyphicon glyphicon-file"></span> Call for Journal Presentations (PDF)](/docs/expressive-2019-call-for-journal-presentations-v01.pdf)
 
 {::options parse_block_html="true" /}
 
@@ -234,7 +234,7 @@ As at previous events, we will include a submission category for the presentatio
 
 ### Guidelines
 
-The work should be published in the July 2017 – July 2018 time-frame, and not have been previously presented at a conference or symposium. A copy of the paper abstract and a link to the published paper or preprint should be submitted via email to the program chairs. Submissions will be reviewed by the program committee. Note that accepted presentations are subject to the same rules as regular papers, namely that at least one author must register for the conference.
+The work should be published in the May 2018 – May 2019 time-frame, and not have been previously presented at a conference or symposium. A copy of the paper abstract and a link to the published paper or preprint should be submitted via email to the program chairs. Submissions will be reviewed by the program committee. Note that accepted presentations are subject to the same rules as regular papers, namely that at least one author must register for the conference.
 
 ---
 {::options parse_block_html="true" /}
@@ -245,13 +245,13 @@ The work should be published in the July 2017 – July 2018 time-frame, and not 
 {: .panel-heading .top2}
 <div class="panel-body">
 
-| __General Chairs:__ || {{ site.chairs2018.general }}, _{{ site.chairs2018.generalAff }}_
-|                     || {{ site.chairs2018.general2 }}, _{{ site.chairs2018.general2Aff }}_
-| __Paper chairs:__   || {{ site.chairs2018.paper }}, _{{ site.chairs2018.paperAff }}_
-|                     || {{ site.chairs2018.paper2 }}, _{{ site.chairs2018.paper2Aff }}_
-| __Art chair:__      || {{ site.chairs2018.art }}, _{{ site.chairs2018.artAff }}_
-| __Publicity chairs:__      || {{ site.chairs2018.publicity }}, _{{ site.chairs2018.publicityAff }}_
-|                     || {{ site.chairs2018.publicity2 }}, _{{ site.chairs2018.publicity2Aff }}_ ||
+| __General Chairs:__ || {{ site.chairs2019.general }}, _{{ site.chairs2019.generalAff }}_
+|                     || {{ site.chairs2019.general2 }}, _{{ site.chairs2019.general2Aff }}_
+| __Paper chairs:__   || {{ site.chairs2019.paper }}, _{{ site.chairs2019.paperAff }}_
+|                     || {{ site.chairs2019.paper2 }}, _{{ site.chairs2019.paper2Aff }}_
+| __Art chair:__      || {{ site.chairs2019.art }}, _{{ site.chairs2019.artAff }}_
+| __Publicity chairs:__      || {{ site.chairs2019.publicity }}, _{{ site.chairs2019.publicityAff }}_
+|                     || {{ site.chairs2019.publicity2 }}, _{{ site.chairs2019.publicity2Aff }}_ ||
 
 </div>
 </div>
