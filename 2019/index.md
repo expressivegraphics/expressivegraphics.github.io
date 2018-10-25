@@ -9,7 +9,7 @@ year: 2019
 ---
 ## Expressive 2019 is officially co-located with Eurographics 2019!
 
-We are officially co-located with Eurographics 2019 in Genoa that ends the day before Expressive 2019 starts.
+We are officially co-located with Eurographics 2019 in Genoa. Expressive 2019 will start and end shortly before Eurographics 2019.
 
 ## Aims and Scope
 {: .top2}
