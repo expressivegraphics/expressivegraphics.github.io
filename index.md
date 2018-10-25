@@ -30,7 +30,7 @@ and
 
 <br>
 
-Expressive 2019 starts shortly before [Eurographics 2019](https://www.eurographics2019.it/).
+Expressive 2019 starts and ends shortly before [Eurographics 2019](https://www.eurographics2019.it/).
 {: .top-05}
 
 <br>
