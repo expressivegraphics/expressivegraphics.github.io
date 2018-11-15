@@ -1,6 +1,8 @@
 <div class="col-xs-6 col-sm-3 sidebar-offcanvas" id="sidebar">
 
-  <!--<a href="/2018/submissions/"><img src="/img/2018/call-for-papers.png" alt="call for papers" style="max-width:100%;" ></a>-->
+{% if page.year == 2019 %}
+  <!--<a href="/2019/submissions/"><img src="/img/2019/call-for-submissions.png" alt="call for submissions" style="max-width:100%;" ></a>-->
+{% endif %}
 
 {% include important-dates.html %}
 

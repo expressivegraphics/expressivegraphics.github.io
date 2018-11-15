@@ -1,6 +1,6 @@
 ---
 layout: teaser
-excerpt: "Expressive Joint Symposium Website, rendering, with style!"
+excerpt: "Expressive Symposium Website, rendering, with style!"
 search_omit: true
 image:
   feature: 2019/teaser.jpg
@@ -14,19 +14,9 @@ year: 2019
 If you are not redirected automatically, please manually continue to [{{ site.baseurl }}]({{ site.baseurl }}).
 -->
 ---
-##### The __Joint Symposium__ on
+### The __ACM/EG Expressive Symposium__
 
-#### __Computational Aesthetics__
-
-and
-
-#### __Sketch-Based Interfaces and Modeling__
-
-and
-
-#### __Non-Photorealistic Animation and Rendering__
-
-##### in __Genoa, Italy__ on __5 – 6 May 2019__.
+#### in __Genoa, Italy__ on __5 – 6 May 2019__.
 
 <br>
 

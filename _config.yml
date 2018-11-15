@@ -85,7 +85,7 @@ symposium:
     submission: https://easychair.org/conferences/?conf=expressive180
   2019:
     title: 'Expressive 2019'
-    name: Expressive joint Symposium
+    name: Expressive Symposium
     date: May 5-6, 2019
     location: Genoa, Italy
     URL: expressive.graphics/2019
@@ -96,12 +96,15 @@ symposium:
     - name: Eurographics
       url: http://www.eg.org/
       logo: /img/Eurographics-logo.png
-    abstract: tba
-    paper: tba
-    acceptance: tba
-    general-submission: tba
-    journal-submission: tba
+    paper: February 5, 2019
+    acceptance: March 5, 2019
+    camera-ready: March 26, 2019
+    general-artwork-submission: March 15, 2019
+    general-poster-demo-submission: March 15, 2019
+    journal-submission: March 15, 2019
     contact: expressive2019@gmail.com
+    contact-arts: expressive2019arts@gmail.com
+    contact-poster-demo: expressive2019posters@gmail.com
     disqus-shortname: expressiverendering
     twitter: ExpressiveGfx
     github: expressivegraphics
@@ -109,7 +112,7 @@ symposium:
       analytics: UA-76809364-1
       verify:
     bing-verify:
-    submission: https://easychair.org/conferences/?conf=expressive180
+    submission: http://srmv2.eg.org/
 
 # Conference chairs
 chairs2018:
@@ -130,20 +133,22 @@ chairs2018:
 
 chairs2019:
   general: Joaquim Jorge
-  generalAff: Instituto Superior Técnico (IST/UTL), Portugal
+  generalAff: Instituto Superior Técnico, Portugal
   general2: Lyn Bartram
   general2Aff: Simon Fraser University, Canada
   general3: Chiara Eva Catalano
-  general3Aff: CNR IMATI, Italy
+  general3Aff: Institute for Applied Mathematics and Information Technologies, Italy
   program: Craig Kaplan
   programAff: University of Waterloo, Canada
-  program2: Stephen DiVerdi
-  program2Aff: Adobe Research, USA
-  program3: Angus Forbes
-  program3Aff: UC Santa Cruz, USA
+  program2: Angus Forbes
+  program2Aff: University of California, Santa Cruz, USA
+  program3: Stephen DiVerdi
+  program3Aff: Adobe Research, USA
   art: Daniel Berio
-  artAff: Goldsmiths, University of London, United Kingdom
+  artAff: Goldsmiths, University of London, UK
   art2: Pedro Cruz
   art2Aff: Northeastern University, USA
+  postersdemo: Jose Echevarria
+  postersdemoAff: Adobe Research, USA
   publicity: Amir Semmo
   publicityAff: Hasso Plattner Institute, University of Potsdam, Germany

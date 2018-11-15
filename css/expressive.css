@@ -52,6 +52,14 @@ figcaption {
   border-bottom: 0px;
 }
 
+#page-header-title {
+  text-align: right;
+  margin-top: 26px;
+  margin-right: 14px;
+  font-size: 34px;
+}
+
+
 #title-header {
   margin-top: 0;
   margin-bottom: 0;

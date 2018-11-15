@@ -9,10 +9,17 @@
 		<br>
     </div>
     <div class="col-xs-12 col-sm-6">
-      <h1>
+	{% if page.year == 2019 %}
+      <h1 id="page-header-title">
+	  The 8<sup>th</sup> ACM/EG<br><b>Expressive Symposium</b><br>
+        <small><b>{{site.symposium[page.year].date}}</b>, {{site.symposium[page.year].location}}</small>
+	  </h1>
+	{% else %}
+	  <h1>
 	  Joint Symposium on <br><b>Computational Aesthetics</b><br><b>Sketch-Based Interfaces and Modeling</b><br><b>Non-Photorealistic Animation and Rendering</b><br>
         <small><b>{{site.symposium[page.year].date}}</b>, {{site.symposium[page.year].location}}</small>
 	  </h1>
+	{% endif %}
     </div>
 
   </div>
