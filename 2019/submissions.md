@@ -204,16 +204,16 @@ Conference chairs can be contacted via the following emails:
 {: .panel-heading .top2}
 <div class="panel-body">
 
-| __General Co-chairs:__ || {{ site.chairs2019.general }}, _{{ site.chairs2019.generalAff }}_
+| __General Co-chairs:__ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|| {{ site.chairs2019.general }}, _{{ site.chairs2019.generalAff }}_
 |                        || {{ site.chairs2019.general2 }}, _{{ site.chairs2019.general2Aff }}_
 |                        || {{ site.chairs2019.general3 }}, _{{ site.chairs2019.general3Aff }}_
-| <br>__Program Co-chairs:__ || <br>{{ site.chairs2019.program }}, _{{ site.chairs2019.programAff }}_
+| __Program Co-chairs:__ || {{ site.chairs2019.program }}, _{{ site.chairs2019.programAff }}_
 |                            || {{ site.chairs2019.program2 }}, _{{ site.chairs2019.program2Aff }}_
 |                            || {{ site.chairs2019.program3 }}, _{{ site.chairs2019.program3Aff }}_
-| <br>__Arts Program Co-chairs:__ || <br>{{ site.chairs2019.art }}, _{{ site.chairs2019.artAff }}_
+| __Arts Program Co-chairs:__ || {{ site.chairs2019.art }}, _{{ site.chairs2019.artAff }}_
 |                                 || {{ site.chairs2019.art2 }}, _{{ site.chairs2019.art2Aff }}_
-| <br>__Posters and Demo Chair:__ || <br>{{ site.chairs2019.postersdemo }}, _{{ site.chairs2019.postersdemoAff }}_
-| <br>__Publicity Chair:__      || <br>{{ site.chairs2019.publicity }}, _{{ site.chairs2019.publicityAff }}_
+| __Posters and Demo Chair:__ || {{ site.chairs2019.postersdemo }}, _{{ site.chairs2019.postersdemoAff }}_
+| __Publicity Chair:__      || {{ site.chairs2019.publicity }}, _{{ site.chairs2019.publicityAff }}_
 
 </div>
 </div>
