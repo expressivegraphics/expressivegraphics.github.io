@@ -1,7 +1,7 @@
 # Site settings
 timezone: America/Vancouver
 
-baseurl: '/2018' # the subpath to the year of conference
+baseurl: '/2019' # the subpath to the year of conference
 url: 'http://expressive.graphics' # the base hostname & protocol for your site
 # url: 'http://localhost:4000'
 
