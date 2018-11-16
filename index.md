@@ -8,11 +8,11 @@ image:
 year: 2019
 ---
 <!-- Once the new conference website is released, uncomment the following section: -->
-<!--
+
 <head> <script>window.location.href = "{{ site.baseurl }}"</script> </head>
 
 If you are not redirected automatically, please manually continue to [{{ site.baseurl }}]({{ site.baseurl }}).
--->
+
 ---
 ### The __ACM/EG Expressive Symposium__
 
