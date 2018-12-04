@@ -17,12 +17,19 @@ The Expressive symposium explores the capacity of computer graphics, animation, 
 
 Expressive technical papers will be submitted, evaluated, and presented in a single, unified track. This unification reflects the ongoing evolution of the symposium, which originated as the union of three separate events: Computational Aesthetics (CAe), Non-Photorealistic Animation and Rendering (NPAR), and Sketch-Based Interfaces and Modelling (SBIM). The symposium will also include an arts program, posters and demos, and presentations of published journal articles.
 
+{::options parse_block_html="true" /}
+<a href="#call-for-papers" class="bold"> > Call for Papers</a><br>
+<a href="#call-for-posters-and-demos" class="bold"> > Call for Posters and Demos</a><br>
+<a href="#call-for-artworks--generative-chronicles" class="bold"> > Call for Artworks</a><br>
+<a href="#call-for-journal-presentations" class="bold"> > Call for Journal Presentations</a>
+{::options parse_block_html="false" /}
+
 ---
 
 ## Call for Papers
 {: .top2}
 
-[<span class="glyphicon glyphicon-file"></span> Call for Papers (PDF)](/docs/expressive-2019-call-for-papers-v01.pdf)
+[<span class="glyphicon glyphicon-file"></span> Call for Papers (PDF)](/docs/expressive-2019-call-for-papers-v02.pdf)
 
 {::options parse_block_html="true" /}
 
@@ -105,10 +112,56 @@ For detailed instructions to submit papers, posters, videos and other materials,
 
 ---
 
-## Call for General Submissions
+## Call for Posters and Demos
 {: .top2}
 
-[<span class="glyphicon glyphicon-file"></span> Call for General Submissions (PDF)](/docs/expressive-2019-call-for-general-submissions-v01.pdf)
+[<span class="glyphicon glyphicon-file"></span> Call for Posters and Demos (PDF)](/docs/expressive-2019-call-for-posters-demos-v01.pdf)
+
+{::options parse_block_html="true" /}
+
+<div class="panel panel-warning">
+#### Important dates
+{: .panel-heading}
+<div class="panel-body">
+
+{% capture nowtime %}{{'now' | date: '%s'}}{% endcapture %}{% capture nowtime %}{{'now' | date: '%s'}}{% endcapture %}
+{% capture generalposterdemosubmissionduetime %}{{site.symposium[page.year].general-poster-demo-submission | date: '%s'}}{% endcapture %}
+
+| __Poster/Demos submission deadline:__ Rolling notification, closes {% if generalposterdemosubmissionduetime < nowtime %}~~{% endif %}{{ site.symposium[page.year].general-poster-demo-submission }}{% if generalposterdemosubmissionduetime < nowtime %}~~{% endif %} |
+| |
+| All deadlines are at 23:59:59 UTC/GMT |
+
+</div>
+</div>
+
+{::options parse_block_html="false" /}
+
+Expressive 2019 will host an exhibition for artworks (see [Call for Artworks](#call-for-artworks--generative-chronicles)), posters and demonstration projects, where artistic pieces, computational demonstrations, and posters, will be featured side-by-side. In this category, we focus on recent research and creative activities at the intersection of arts and sciences. We are open to any work and research that is related to topics of the Expressive 2019 conference. The authors of accepted works will be invited to present their work through a panel discussion or short oral presentation within the main Expressive 2019 conference. Accepted works will be archived through the [ACM Digital Library](http://dl.acm.org/) and [Eurographics Digital Library](https://diglib.eg.org/).
+
+### Topics
+
+We seek submissions for posters and demos. We are interested in a wide variety of works that bridge arts and sciences. We are particularly interested in techniques for visually communicating ideas and information and for sketch based interaction and modeling integration through integration of computer science, mathematics, philosophy, psychology, and the fine, applied & performing arts.
+
+Expressive solicits extended abstracts for posters and demos. Accepted works will be demonstrated and displayed during the conference. We expect these works will pose new questions and motivate further research in the main areas of Expressive: understanding, communication, and interaction.
+
+Accepted submissions for Posters and Demos will be published together with the accepted papers as a single conference proceedings by the ACM and will be available online via the [ACM Digital Library](http://dl.acm.org/). Accepted submissions will also be archived in the [Eurographics Digital Library](https://diglib.eg.org/).
+
+### Guidelines
+
+We seek posters and demos submissions that show work that pertains to all topics of Expressive 2019. All submissions should be in the form of an extended abstract of 1 to 2 pages, written in English, including a title page with an abstract, keywords, and a bibliography. Submissions should provide a clear description of the work and the process. Posters and demos will be demonstrated and/or displayed at the conference venue. Authors of accepted works in all areas of submitted work are encouraged to bring a demonstration of their work as well; it is not necessary to create a separate submission for a poster and a demo if they refer to the same project.
+
+### Submission
+
+All submissions must be made through the Eurographics SRM conference submission site. Please feel welcome to contact the Posters and Demos chair Jose Echevarria at [{{site.symposium[page.year].contact-poster-demo}}](mailto:{{site.symposium[page.year].contact-poster-demo}}) if you have any questions.
+
+For detailed instructions to submit posters, demos and other materials, please view the [submission instructions](http://expressive.graphics/2019/instructions/).
+
+---
+
+## Call for Artworks — _Generative Chronicles_
+{: .top2}
+
+[<span class="glyphicon glyphicon-file"></span> Call for Artworks (PDF)](/docs/expressive-2019-call-for-artworks-v01.pdf)
 
 {::options parse_block_html="true" /}
 
@@ -119,10 +172,8 @@ For detailed instructions to submit papers, posters, videos and other materials,
 
 {% capture nowtime %}{{'now' | date: '%s'}}{% endcapture %}{% capture nowtime %}{{'now' | date: '%s'}}{% endcapture %}
 {% capture generalartworksubmissionduetime %}{{site.symposium[page.year].general-artwork-submission | date: '%s'}}{% endcapture %}
-{% capture generalposterdemosubmissionduetime %}{{site.symposium[page.year].general-poster-demo-submission | date: '%s'}}{% endcapture %}
 
 | __Artwork submission deadline:__ Rolling notification, closes {% if generalartworksubmissionduetime < nowtime %}~~{% endif %}{{ site.symposium[page.year].general-artwork-submission }}{% if generalartworksubmissionduetime < nowtime %}~~{% endif %} |
-| __Poster/Demos submission deadline:__ Rolling notification, closes {% if generalposterdemosubmissionduetime < nowtime %}~~{% endif %}{{ site.symposium[page.year].general-poster-demo-submission }}{% if generalposterdemosubmissionduetime < nowtime %}~~{% endif %} |
 | |
 | All deadlines are at 23:59:59 UTC/GMT |
 
@@ -131,35 +182,31 @@ For detailed instructions to submit papers, posters, videos and other materials,
 
 {::options parse_block_html="false" /}
 
-Expressive 2019 will host an exhibition for 2D and 3D artworks, sculptures, animations, posters and demonstration projects, where artist installations and computational demonstrations will be featured side-by-side. In this category, we focus on recent research and creative activities at the intersection of arts and sciences. We are open to any work that is related to topics of the Expressive 2019 conference. The authors of accepted works will be invited to present their work through a panel discussion or short oral presentation within the main Expressive 2019 conference. Accepted works will be archived through the [ACM Digital Library](http://dl.acm.org/) and [Eurographics Digital Library](https://diglib.eg.org/).
+### Theme: _Generative Chronicles_
 
-### Topics
+What are the possible transformations and processes underlying the genesis of a visual form? For the Expressive 2019 Arts Program, we invite artwork submissions that explore, visualize, challenge, or reflect upon the process embedded in the artwork itself. This includes, but is not limited to:
 
-General Submissions seeks submissions for posters, demos, and the art exhibition. We are interested in a wide variety of works that bridge arts and sciences. We are particularly interested in techniques for visually communicating ideas and information and for sketch based interaction and modeling integration through integration of computer science, mathematics, philosophy, psychology, and the fine, applied & performing arts.
+* Simulations and visualizations of biologically inspired growth/decay processes;
+* Procedurally-generated graphics and expressive animations that highlight the steps required for their generation;
+* Digital elaborations upon the cognitive and motor processes underlying the act of human art making (e.g. painting/drawing/sculpting);
+* Rule-based design systems that generate a myriad of visual outcomes;
+* Projects that utilize glitches or explore serendipity.
 
-Expressive solicits extended abstracts for poster, demo and art exhibition proposals. Accepted works will be demonstrated and exhibited during the conference. We expect these works will pose new questions and motivate further research in the main areas of Expressive: understanding, communication, and interaction.
+Projects may take the form of computer animations and interactive installations, 
+but we also welcome prints, digitally fabricated objects, as well as handmade drawings or design notes. 
 
-Accepted general submissions (posters/demos/artworks) will be published together with the accepted papers as a single conference proceedings by the ACM and will be available online via the [ACM Digital Library](http://dl.acm.org/). Accepted submissions will also be archived in the [Eurographics Digital Library](https://diglib.eg.org/).
+For each submission, we require an extended abstract of 1 to 4 pages. The extended abstract should describe, illustrate, and discuss how the work relates to the theme of **Generative Chronicles** or to the Expressive Symposium's focus on expressive understanding, expressive communication, and expressive interaction. We suggest the inclusion of at least one representative image in the extended abstract.
 
-### Guidelines
+Submissions can also optionally include supplementary materials, such as additional images, links to a video or website, and technical and installation requirements. Extended abstracts will be published in the ACM/EG Expressive 2019 conference proceedings, and archived through the [ACM Digital Library](http://dl.acm.org/) and [Eurographics Digital Library](https://diglib.eg.org/). **We also encourage dual submissions to the Arts Program and the main Expressive papers track**. The authors of accepted works will be invited to present their work through a panel discussion or short oral presentation within the main Expressive 2019 conference. All submissions must be made through the Eurographics SRM conference submission site. Please feel welcome to contact the Arts Program chairs Pedro Cruz and Daniel Berio at [{{site.symposium[page.year].contact-arts}}](mailto:{{site.symposium[page.year].contact-arts}}) if you have any questions.
 
-We seek poster, demo and art exhibition submissions that show work that pertains to all topics of Expressive 2019. All submissions should be in the form of a two-page or longer abstract, written in English, and should follow the SIGGRAPH formatting instructions, including a title page with an abstract, keywords, and a bibliography. Submissions should provide a clear description of the work and the process. Posters, demos and artworks will be demonstrated and/or displayed at the conference venue. Authors of accepted works in all areas of submitted work are encouraged to bring a demonstration of their work as well; it is not necessary to create a separate submission for a poster and a demo if they refer to the same project.
-
-### Submission
-
-General submission are in electronic form. Please directly email your submission to one of the following emails:
-
-* Posters and Demos Track: [{{site.symposium[page.year].contact-poster-demo}}](mailto:{{site.symposium[page.year].contact-poster-demo}})
-* Exhibition Track: [{{site.symposium[page.year].contact-arts}}](mailto:{{site.symposium[page.year].contact-arts}})
-
-For detailed instructions to submit papers, posters, artworks, demos and other materials, please view the [submission instructions](http://expressive.graphics/2019/instructions/).
+For detailed instructions to submit artworks and other materials, please view the [submission instructions](http://expressive.graphics/2019/instructions/).
 
 ---
 
 ## Call for Journal Presentations
 {: .top2}
 
-[<span class="glyphicon glyphicon-file"></span> Call for Journal Presentations (PDF)](/docs/expressive-2019-call-for-journal-presentations-v01.pdf)
+[<span class="glyphicon glyphicon-file"></span> Call for Journal Presentations (PDF)](/docs/expressive-2019-call-for-journal-presentations-v02.pdf)
 
 {::options parse_block_html="true" /}
 
