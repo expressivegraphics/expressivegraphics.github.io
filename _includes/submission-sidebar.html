@@ -1,8 +1,10 @@
 <div class="col-xs-6 col-sm-3 sidebar-offcanvas" id="sidebar">
 
+{% include important-dates.html %}
+
   <!-- TYPES OF SUBMISSION -->
   <div class="panel panel-default top1" id="submission">
-    <h4 class="panel-heading">Types of submissions</h4>
+    <h4 class="panel-heading">Types of Submissions</h4>
     <div class="panel-body top-1">
 	{% if page.year == 2019 %}
       <a href="#call-for-papers" class="bold"> > Call for Papers</a><br>
@@ -16,8 +18,6 @@
 	{% endif %}
     </div>
   </div>
-
-{% include important-dates.html %}
 
 {% include news.html %}
 

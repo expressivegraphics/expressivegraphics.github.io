@@ -37,7 +37,11 @@ layout: compress
 
         </div><!--/span-->
 
-		{% include sidebar.html %}
+		{% if page.year == 2019 %}
+          {% include submission-sidebar.html %}
+	    {% else %}
+	      {% include sidebar.html %}
+	    {% endif %}
 
       </div><!--/row-->
 

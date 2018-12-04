@@ -17,7 +17,12 @@ layout: compress
     <div class="row row-offcanvas row-offcanvas-right">
 
       {% include post.html %}
-      {% include sidebar.html %}
+	  
+	  {% if page.year == 2019 %}
+        {% include submission-sidebar.html %}
+	  {% else %}
+	    {% include sidebar.html %}
+	  {% endif %}
 
     </div><!--/row-->
 
