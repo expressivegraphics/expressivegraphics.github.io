@@ -190,6 +190,7 @@ What are the possible transformations and processes underlying the genesis of a 
 * Procedurally-generated graphics and expressive animations that highlight the steps required for their generation;
 * Digital elaborations upon the cognitive and motor processes underlying the act of human art making (e.g. painting/drawing/sculpting);
 * Rule-based design systems that generate a myriad of visual outcomes;
+* Multimodal visualizations exploring the art-making process;
 * Projects that utilize glitches or explore serendipity.
 
 Projects may take the form of computer animations and interactive installations, 
