@@ -29,7 +29,7 @@ Expressive technical papers will be submitted, evaluated, and presented in a sin
 ## Call for Papers
 {: .top2}
 
-[<span class="glyphicon glyphicon-file"></span> Call for Papers (PDF)](/docs/expressive-2019-call-for-papers-v02.pdf)
+[<span class="glyphicon glyphicon-file"></span> Call for Papers (PDF)](/docs/expressive-2019-call-for-papers-v03.pdf)
 
 {::options parse_block_html="true" /}
 
