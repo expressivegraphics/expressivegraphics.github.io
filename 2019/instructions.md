@@ -34,7 +34,7 @@ Videos should be a maximum of 5 minutes in length and contain either clearly spo
 
 Posters, demos, and artworks should be submitted in PDF format as an extended abstract (2 or more pages). They should follow the Eurographics publication guidelines described above. Rejected papers may be considered for the poster track.
 
-General submissions are in electronic form. Please directly email your submission to the chairs: For posters and demos: [expressive2019posters@gmail.com](mailto:expressive2019posters@gmail.com). For artworks: [expressive2019arts@gmail.com](mailto:expressive2019arts@gmail.com). Please include the following information, and attach your submission materials in the email:
+General submissions are in electronic form. Please directly email your submission to the chairs: For posters and demos: [{{site.symposium[page.year].contact-poster-demo}}](mailto:{{site.symposium[page.year].contact-poster-demo}}). For artworks: [{{site.symposium[page.year].contact-arts}}](mailto:{{site.symposium[page.year].contact-arts}}). Please include the following information, and attach your submission materials in the email:
 
 **Title: <br/>
 Author(s) Name:<br/>
