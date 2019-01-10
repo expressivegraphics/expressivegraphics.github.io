@@ -29,7 +29,7 @@ Expressive technical papers will be submitted, evaluated, and presented in a sin
 ## Call for Papers
 {: .top2}
 
-[<span class="glyphicon glyphicon-file"></span> Call for Papers (PDF)](/docs/expressive-2019-call-for-papers-v03.pdf)
+[<span class="glyphicon glyphicon-file"></span> Call for Papers (PDF)](/docs/expressive-2019-call-for-papers-v04.pdf)
 
 {::options parse_block_html="true" /}
 
@@ -115,7 +115,7 @@ For detailed instructions to submit papers, posters, videos and other materials,
 ## Call for Posters and Demos
 {: .top2}
 
-[<span class="glyphicon glyphicon-file"></span> Call for Posters and Demos (PDF)](/docs/expressive-2019-call-for-posters-demos-v01.pdf)
+[<span class="glyphicon glyphicon-file"></span> Call for Posters and Demos (PDF)](/docs/expressive-2019-call-for-posters-demos-v02.pdf)
 
 {::options parse_block_html="true" /}
 
@@ -161,7 +161,7 @@ For detailed instructions to submit posters, demos and other materials, please v
 ## Call for Artworks — _Generative Chronicles_
 {: .top2}
 
-[<span class="glyphicon glyphicon-file"></span> Call for Artworks (PDF)](/docs/expressive-2019-call-for-artworks-v02.pdf)
+[<span class="glyphicon glyphicon-file"></span> Call for Artworks (PDF)](/docs/expressive-2019-call-for-artworks-v03.pdf)
 
 {::options parse_block_html="true" /}
 
@@ -207,7 +207,7 @@ For detailed instructions to submit artworks and other materials, please view th
 ## Call for Journal Presentations
 {: .top2}
 
-[<span class="glyphicon glyphicon-file"></span> Call for Journal Presentations (PDF)](/docs/expressive-2019-call-for-journal-presentations-v02.pdf)
+[<span class="glyphicon glyphicon-file"></span> Call for Journal Presentations (PDF)](/docs/expressive-2019-call-for-journal-presentations-v03.pdf)
 
 {::options parse_block_html="true" /}
 
