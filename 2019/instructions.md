@@ -42,6 +42,7 @@ Authors' Institution(s):<br/>
 Primary Contact's Email (if not the same as the communicating email):<br/>
 Project Website (if applicable):<br/>
 Intended Printing Size (width/height):**
+Installation schematics and requirements (if applicable)
 
 ---
 
