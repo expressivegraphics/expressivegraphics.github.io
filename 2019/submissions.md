@@ -161,7 +161,7 @@ For detailed instructions to submit posters, demos and other materials, please v
 ## Call for Artworks — _Generative Chronicles_
 {: .top2}
 
-[<span class="glyphicon glyphicon-file"></span> Call for Artworks (PDF)](/docs/expressive-2019-call-for-artworks-v03.pdf)
+[<span class="glyphicon glyphicon-file"></span> Call for Artworks (PDF)](/docs/expressive-2019-call-for-artworks-v04.pdf)
 
 {::options parse_block_html="true" /}
 
