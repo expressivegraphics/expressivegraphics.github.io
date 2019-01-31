@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Committee
+image:
+  card: 2019/expressiveCard.jpg
 year: 2019
 ---
 

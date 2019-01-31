@@ -3,6 +3,8 @@ layout: default
 title: Paper Submission Instructions
 excerpt: "Paper Submission Instructions for Expressive 2019"
 headline: "Paper Submission Instructions"
+image:
+  card: 2019/expressiveCard.jpg
 year: 2019
 ---
 
