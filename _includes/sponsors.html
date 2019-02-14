@@ -4,7 +4,7 @@
   <div class="panel-body">
     <div class="dense-gutter">
 	{% for sponsor in site.symposium[page.year].sponsors %}
-	  <div class="col-sm-6">
+	  <div class="{{ sponsor.class }}">
         <a href="{{ sponsor.url }}"><img src="{{ sponsor.logo }}" class="img-responsive"></a>
       </div>
 	{% endfor %}

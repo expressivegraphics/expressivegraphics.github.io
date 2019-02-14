@@ -61,12 +61,15 @@ symposium:
     - name: ACM Siggraph
       url: http://www.siggraph.org/
       logo: /img/SIGGRAPH-logo.png
+      class: col-sm-6
     - name: Eurographics
       url: http://www.eg.org/
       logo: /img/Eurographics-logo.png
+      class: col-sm-6
     - name: Disney Research
       url: https://www.disneyresearch.com/
       logo: /img/Disney-logo.jpg
+      class: col-sm-6
     abstract: April 15, 2018
     paper: April 10, 2018
     extension: April 17, 2018
@@ -90,12 +93,22 @@ symposium:
     location: Genoa, Italy
     URL: expressive.graphics/2019
     sponsors:
-    - name: ACM Siggraph
-      url: http://www.siggraph.org/
-      logo: /img/SIGGRAPH-logo.png
     - name: Eurographics
       url: http://www.eg.org/
       logo: /img/Eurographics-logo.png
+      class: col-sm-6
+    - name: ACM Siggraph
+      url: http://www.siggraph.org/
+      logo: /img/SIGGRAPH-logo.png
+      class: col-sm-6
+    - name: Casa Paganini-InfoMus Research Centre
+      url: http://www.casapaganini.org/
+      logo: /img/casa_paganini-logo.jpg
+      class: col-sm-14
+    - name: EU Horizon 2020 FET PROACTIVE project EnTimeMent n.824160
+      url: http://entimement.dibris.unige.it/
+      logo: /img/h2020_mod_01.png
+      class: col-sm-14
     paper: February 21, 2019
     acceptance: March 21, 2019
     camera-ready: April 5, 2019
