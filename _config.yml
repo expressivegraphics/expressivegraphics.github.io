@@ -93,13 +93,13 @@ symposium:
     location: Genoa, Italy
     URL: expressive.graphics/2019
     sponsors:
-    - name: Eurographics
-      url: http://www.eg.org/
-      logo: /img/Eurographics-logo.png
-      class: col-sm-6
     - name: ACM Siggraph
       url: http://www.siggraph.org/
       logo: /img/SIGGRAPH-logo.png
+      class: col-sm-6
+    - name: Eurographics
+      url: http://www.eg.org/
+      logo: /img/Eurographics-logo.png
       class: col-sm-6
     - name: Casa Paganini-InfoMus Research Centre
       url: http://www.casapaganini.org/

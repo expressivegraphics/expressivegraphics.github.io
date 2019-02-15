@@ -11,11 +11,11 @@ year: 2019
 <div class="row">
 
 <figure class="col-5 col-sm-5 col-lg-5 top0">
-<img src="/img/2019/eurographics-logo.jpg" class="img-responsive">
+<img src="/img/2019/siggraph-logo.png" class="img-responsive">
 </figure>
 
 <figure class="col-5 col-sm-5 col-lg-5 top0">
-<img src="/img/2019/siggraph-logo.png" class="img-responsive">
+<img src="/img/2019/eurographics-logo.jpg" class="img-responsive">
 </figure>
 
 </div>
