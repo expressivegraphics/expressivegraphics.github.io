@@ -21,7 +21,7 @@ Expressive 2019 is officially co-located with Eurographics 2019 this year, and w
 
 <div class="col-7 col-sm-7 col-lg-7" markdown="1">
 
-<iframe width="100%" height="300" frameborder="0" style="border:0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d11401.468766930486!2d8.919554298777415!3d44.40511035396756!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12d343de7f8b691b%3A0xb966433ca6a63d34!2sCasa+Paganini!5e0!3m2!1sit!2sit!4v1507647500147" allowfullscreen>
+<iframe width="100%" height="350" frameborder="0" style="border:0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d11401.468766930486!2d8.919554298777415!3d44.40511035396756!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12d343de7f8b691b%3A0xb966433ca6a63d34!2sCasa+Paganini!5e0!3m2!1sit!2sit!4v1507647500147" allowfullscreen>
 </iframe>
 
 </div>
@@ -64,7 +64,7 @@ The major Italian international hubs of Milan (MXP and LIN) are connected to Gen
 ---
 ## Travel to Casa Paganini
 
-Getting to Casa Paganini from Genoa's airport is a 15-minute taxi ride (7,5 Km). Here is how to reach it by public transportation (information taken from [MOCO 2018](http://moco18.movementcomputing.org)):
+Getting to Casa Paganini from Genoa's airport is a 15-minute taxi ride (7,5 Km). Here is how to reach it by public transportation:
 
 1. From the airport, catch the Volabus (timetable) and stop in Principe or Brignole railway stations then follow directions from point 2. You may also take a taxi and ask to be brought to piazza Dante, then follow directions from point 4.
 
@@ -127,8 +127,6 @@ Coffee and lunch breaks will be held at Santa Maria di Castello, which is a 1-mi
 <img src="/img/2019/Genua_-_Piazza_De_Ferrari.jpg" class="img-responsive img-thumbnail">
 <figcaption class="image-credit">Piazza de Ferrari. <a href="https://commons.wikimedia.org/w/index.php?curid=7014768">Hpschaefer www.reserv-a-rt.de – Own work, CC BY 3.0</a>.</figcaption>
 </figure>
-
-*(Taken from [Eurographics 2019](https://www.eurographics2019.it/index.php/for-attendees/genova-and-surroundings/))*
 
 __Genoa__ (Italian, Genova - Genoese, Zena) is a historical port city in northern Italy, the capital of the Region of Liguria. Genoa has a long history as a rich and powerful trade centre. However, with its multitude of hidden gems behind cozy alleyways, excellent cuisine, renovated old port, beautiful sights, the largest medieval city center in Europe, and the magnificent “Palazzi dei Rolli" (a series of noble abodes in the Renaissance and Baroque styles, UNESCO World Heritage Sites) have made Genoa an enticing place and a popular tourist destination. It's really hard to list the things to see in Genoa: the Palazzo Ducale (the Doges' residence since 1339), the Aquarium of Genoa (one of the biggest in Europe), the Galata Museum of the Sea, the Churches & the Cathedral and their astonishing artworks, Palazzo Rosso e Palazzo Bianco (amazing noble residences and important art museums), La Città dei bambini e dei ragazzi (a large facility dedicated to children), the old sailors' neighborhood of Boccadasse, and much more! With pastel-coloured terracotta-roofed houses, lovely seaside villas, and also several luxurious boutiques, Genoa is a must see if you want to experience the "quintessential" Italy.
 
