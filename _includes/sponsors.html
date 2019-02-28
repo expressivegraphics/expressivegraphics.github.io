@@ -11,3 +11,19 @@
     </div>
   </div>
 </div>
+
+<!-- ORGANISERS -->
+{% if site.symposium[page.year].organisers.size > 0 %}
+<div class="panel panel-default" id="sponsors">
+  <h4 class="panel-heading">Co-organised by</h4>
+  <div class="panel-body">
+    <div class="dense-gutter">
+	{% for organiser in site.symposium[page.year].organisers %}
+	  <div class="{{ organiser.class }}">
+        <a href="{{ organiser.url }}"><img src="{{ organiser.logo }}" class="img-responsive"></a>
+      </div>
+	{% endfor %}
+    </div>
+  </div>
+</div>
+{% endif %}

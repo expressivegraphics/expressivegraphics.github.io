@@ -33,3 +33,10 @@ year: 2019
 </figure>
 
 </div>
+
+# Co-organisers
+
+<figure class="col-5 col-sm-5 col-lg-5 top0">
+<img src="/img/IMATI.png" class="img-responsive">
+<figcaption class="image-credit">IMATI CNR</figcaption>
+</figure>

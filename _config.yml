@@ -101,15 +101,25 @@ symposium:
       url: http://www.eg.org/
       logo: /img/Eurographics-logo.png
       class: col-sm-6
-    - name: Casa Paganini-InfoMus Research Centre
-      url: http://www.casapaganini.org/
-      logo: /img/casa_paganini-logo.jpg
-      class: col-sm-14
+    - name: Adobe
+      url: https://www.adobe.com/
+      logo: /img/adobe.png
+      class: col-sm-10
     - name: EU Horizon 2020 FET PROACTIVE project EnTimeMent n.824160
       url: http://entimement.dibris.unige.it/
       logo: /img/h2020_mod_01.png
       class: col-sm-10
+    - name: Casa Paganini-InfoMus Research Centre
+      url: http://www.casapaganini.org/
+      logo: /img/casa_paganini-logo.jpg
+      class: col-sm-12
+    organisers:
+    - name: CNR IMATI
+      url: http://www.ge.imati.cnr.it/
+      logo: /img/imati.png
+      class: col-sm-10
     paper: February 21, 2019
+    extension: March 3, 2019
     acceptance: March 21, 2019
     camera-ready: April 5, 2019
     general-artwork-submission: March 15, 2019
