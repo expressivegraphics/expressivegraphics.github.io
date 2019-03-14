@@ -139,7 +139,7 @@ year: 2019
 				<h4>David Vanderhaeghe<br><small>IRIT Université de Toulouse, FR</small></h4>
 				<h4>Luiz Velho<br><small>IMPA, BR</small></h4>
 				<h4>Holger Winnemöller<br><small>Adobe Research, US</small></h4>
-				<h4>Mingtian Zhao<br><small>Google, US</small></h4>
+				<h4>Mingtian Zhao<br><small>DMAI, US</small></h4> 
 			</div>
 
 		</div>
