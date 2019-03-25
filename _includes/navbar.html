@@ -1,7 +1,11 @@
 {% capture nav_prefix %}/{% endcapture %}
 
 <nav class="navbar navbar-fixed-top navbar-inverse" role="navigation">
+{% if page.year == 2018 %}
   <div class="container">
+{% else %}
+  <div class="container-fluid">
+{% endif %}
     <div class="navbar-header">
       <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
         <span class="sr-only">Toggle navigation</span>
