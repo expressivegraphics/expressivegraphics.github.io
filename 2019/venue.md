@@ -14,6 +14,7 @@ year: 2019
 * **[Accommodation](#accommodation)**
 * **[Coffee Breaks and Lunch](#coffee-breaks-and-lunch)**
 * **[Attractions](#attractions)**
+* **[What's On](#whats-on)**
 
 Expressive 2019 is officially co-located with Eurographics 2019 this year, and will start and end shortly before Eurographics 2019. The symposium will be held in the Monumental building of Casa Paganini-InfoMus, University of Genoa, Italy, which is only 900m away from The Porto Antico Conference Center at Magazzini del Cotone (the venue of [Eurographics 2019](https://www.eurographics2019.it/index.php/for-attendees/venue/)).
 
@@ -148,3 +149,17 @@ External link(s):
   
   7. Genoa for kids, a nice blog: [LINK](https://www.patatofriendly.com/en/things-to-do-in-genoa-with-kids/)
 
+---
+## What's On
+
+Genoa is a lively city, and you might enjoy some great events during your stay!
+
+Here are the main events in calendar - find out more at [www.visitgenoa.it/en/eventi](www.visitgenoa.it/en/eventi).
+
+### [Rolli Days (May 3-5)](http://www.visitgenoa.it/en/evento/rolli-days-may-2019)
+
+Rolli Palaces are the sumptuous estates which belonged to the Genoese aristocracy and were built to demonstrate its finesse, elegance and richness, part of the UNESCO World Heritage since 2006. Genoa celebrates the Rolli Days with a voyage through the splendours of the Renaissance and Baroque style in Genoa: many of these richly decorated buildings, full of history, will open to the public to unveil the secrets of Genoa and its families.
+
+### [Slow Fish 2019 (May 9-12)](http://www.visitgenoa.it/en/evento/slow-fish-2019-genoa-0)
+
+The international event organized by Slow Food Italy and the Liguria Region, that combines food and environmental themes regarding the safeguard of the sea and sea creatures, will take place in the beautiful setting of the Porto Antico of Genoa. The event will allow to discover the marine environment and fish resources in a simple and enjoyable way thanks to laboratories and meetings for all those who want to know more about fish consumption, on its effects on health and the impact of fishing on marine ecosystems. The event features Taste Workshops, cooking school lessons and ludic events, and strolling along the many stands set up for the event in Porto Antico you can taste and buy local fish specialities accompanied by italian wine or craft beer!
