@@ -25,9 +25,5 @@ year: 2019
 		  <p>Biography:<br/>Aaron Hertzmann is a Principal Scientist at Adobe Research, an ACM Fellow, and an affiliate faculty at University of Washington and University of Toronto.  He received a BA in Computer Science and Art & Art History from Rice University in 1996, and a PhD in Computer Science from New York University in 2001. He was a Professor at University of Toronto for 10 years, and has also worked at Pixar Animation Studios, University of Washington, Microsoft Research, Mitsubishi Electric Research Lab, and Interval Research Corporation.</p>
 
 	  </div>
-	  
-	  <hr class="bs-docs-separator">
-
-	  <div markdown="span" class="alert alert-info" role="alert"><i class="fa fa-info-circle"></i> Further keynote speakers will be announced. Stay tuned!</div>
 
 </div><!--/span-->
