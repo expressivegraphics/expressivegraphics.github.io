@@ -116,35 +116,35 @@ year: 2019
       <h4>Wandering Without Wondering</h4>
 
       <p>Sala Wong and Peter Williams.</p>
-      <p></p>
+      <p>Wandering Without Wondering is a hybrid-media installation distilling and chronicling artists Sala Wong and Peter Williams’ collaborative walking practice. The project uses various digital technologies to augment human senses, metaphorically linking and complicating the concepts of immersion and interaction through disruptive and hypermediated approaches to technologies such as 360-degree imaging, projection mapping, virtual reality and spatial audio produce an expressive, visually-saturated, physical/virtual hybrid space through which visitors journey between states of technologically-facilitated expression.</p>
 	  
 	  <a name="artwork2"></a>
       <hr class="bs-docs-separator">
       <h4>The CyberAnthill</h4>
 
       <p>Evan Raskob.</p>
-      <p></p>
+      <p>The CyberAnthill is both a generative sculpture and a Live Computational Sculpting (LCS) system that uses a 3D printer and custom software to build plastic sculptures out of layered cellular automata. As the title alludes to, the cellular automata are inspired by Langston’s Ant and the light cycle racers in the cult 1980’s science-fiction movie Tron. Instead of the normal process of printing exacting, predetermined 3D models, the 3D printer generates its plastic forms by running unpredictable computer code.</p>
 	  
 	  <a name="artwork3"></a>
       <hr class="bs-docs-separator">
-      <h4>Human-Machine Interaction as a Neutral Base for a New Artistic and Creative Practice</h4>
+      <h4>Transhuman Expression Human-Machine Interaction as a Neutral Base for a New Artistic and Creative Practice</h4>
 
       <p>Liat Grayver and Gualtiero Volpe.</p>
-      <p></p>
+      <p>Transhuman Expression is an interactive room installation created by Liat Grayver in collaboration with the EU-H2020-ICT project weDRAW in the context of a Vertigo STARTS residency at the Casa Paganini - InfoMus reseach center of DIBRIS - University of Genova, Italy. Data captured via motion detection of visitors is analyzed, processed, and projected on large screens positioned in the exhibition area. The collaboration benefited, was built on, and furthered experiences that both the artist and the research team have had in ongoing work exploring convergence of artistic and scientific practices. Grayver’s work in robotics-assisted painting gained new tools that can be integrated into the system she works with at the University of Konstanz, whilst Casa Paganini - InfoMus has acquired new perspectives on the range, scope, and scale of real-time, automated movement analysis. This paper reports about goals, methodology, and results of such a joint multidisciplinary activity.</p>
 	  
 	  <a name="artwork4"></a>
       <hr class="bs-docs-separator">
       <h4>Emergence in the Expressive Machine</h4>
 
       <p>Laura Dekker.</p>
-      <p></p>
+      <p>The “Expressive Machine” is a series of interactive artworks which explore a machine’s-eye view of the world. The machine— an assemblage of hardware and software—provokes sensual interaction with viewer-participants, playing with transduction across multiple modes: from touch to sound, to word, to vision, to taste, to uniquely machinic states with no particular human analogue. These stimuli are processed in various interpretations, elaborations, in a relatively unstructured “data soup”. Asynchronous processes consume data from the soup. When trigger conditions for a particular expressive process are satisfied, the machine produces externalised outputs in various forms: sound, shift of attention, fragments of narrative, and so on. What can be considered as creativity arises as an emergent property—a serendipitous by-product of the machine working through its experiences, rather than an explicit creative process. To make this conceptual exploration possible, an adaptable, extensible, decentralised system is presented: its requirements, architecture and some implementations as interactive artworks. Each new site and context gives rise to a unique instantiation of the machine, as it explores and expresses its experiences.</p>
 	  
 	  <a name="artwork5"></a>
       <hr class="bs-docs-separator">
       <h4>Surface - Xbox Controlled Hot Wire Foam Cutter</h4>
 
       <p>Freddie Taewoo Hong.</p>
-      <p></p>
+      <p>This artwork is a 3-axis sculpting instrument controlled by an Xbox controller, which allows anyone to intuitively apply one’s creativity in a real-time flow without the aid of pre-drawn digital geometry. Surface runs purely on user instinct rather than on any digital geometry. The artwork explores the ambiguous boundary between the analogue and digital; it also challenges conventional methods of digital fabrication, which rely vitally on CAD software.</p>
 	  
 	  <br/>
 	  

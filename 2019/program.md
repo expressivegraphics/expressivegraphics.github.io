@@ -44,7 +44,7 @@ Please find the complete list of accepted submissions **[here](/2019/accepted/in
 				<tr><td></td><td><a href="/2019/accepted/index.html#paper6">Sketching and Layering Graffiti Primitives</a><br/>Daniel Berio, Paul Asente, Jose Echevarria, and Frederic Fol Leymarie</td><td align="center"><p style="background-color:#C9DAF8;">&nbsp;Paper&nbsp;</p></td></tr>
 				<tr><td></td><td><a href="/2019/accepted/index.html#paper7">Single Stroke Aerial Robot Light Painting</a><br/>Kejia Ren and Paul Kry</td><td align="center"><p style="background-color:#C9DAF8;">&nbsp;Paper&nbsp;</p></td></tr>
 				<tr><td></td><td><a href="/2019/accepted/index.html#demo1">Artistic Sketching for Expressive Coding</a><br/>Elodie Fourque</td><td align="center"><p style="background-color:#D9EAD3;">&nbsp;Demo&nbsp;</p></td></tr>
-				<tr><td></td><td><a href="/2019/accepted/index.html#artwork3">Human-Machine Interaction as a Neutral Base for a New Artistic and Creative Practice</a><br/> Liat Grayver, and Gualtiero Volpe</td><td align="center"><p style="background-color:#EAD1DC;">&nbsp;Artwork&nbsp;</p></td></tr>
+				<tr><td></td><td><a href="/2019/accepted/index.html#artwork3">Transhuman Expression Human-Machine Interaction as a Neutral Base for a New Artistic and Creative Practice</a><br/> Liat Grayver, and Gualtiero Volpe</td><td align="center"><p style="background-color:#EAD1DC;">&nbsp;Artwork&nbsp;</p></td></tr>
 
 				<tr><td>16:45 - 17:45</td><td colspan="2"><b>Art and Demo Exhibition</b><br/></td></tr>
 
