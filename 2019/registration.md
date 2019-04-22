@@ -69,7 +69,7 @@ Each registration includes:
 It is possible to buy tickets for the Expressive Social Dinner and/or for the EG Opening Ceremony, Fast Forward and Welcome Reception separately (e.g., for accompanying people):
 
 * Ticket for the Welcome Cocktail: 20€
-* Ticket for the Social Dinner: TBA
+* Ticket for the Social Dinner: 45€
 
 If you have any questions about registration please always feel free to ask the general chairs at [{{site.symposium[page.year].contact}}](mailto:{{site.symposium[page.year].contact}}). We look forward to seeing you in Genoa this year!
 {: .top2}

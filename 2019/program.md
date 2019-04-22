@@ -47,6 +47,8 @@ Please find the complete list of accepted submissions **[here](/2019/accepted/in
 				<tr><td></td><td><a href="/2019/accepted/index.html#artwork3">Transhuman Expression Human-Machine Interaction as a Neutral Base for a New Artistic and Creative Practice</a><br/> Liat Grayver, and Gualtiero Volpe</td><td align="center"><p style="background-color:#EAD1DC;">&nbsp;Artwork&nbsp;</p></td></tr>
 
 				<tr><td>16:45 - 17:45</td><td colspan="2"><b>Art and Demo Exhibition</b><br/></td></tr>
+				
+				<tr><td>20:00</td><td colspan="2"><b>Social Dinner at <a href="https://www.leterrazzedelducale.com/"><i>Le Terrazze del Ducale</i></a></b></td></tr>
 
 			</table>
 	</div>
@@ -86,9 +88,9 @@ Please find the complete list of accepted submissions **[here](/2019/accepted/in
 			<tr><td></td><td><a href="/2019/accepted/index.html#paper13">Stipple Removal in Extreme-tone Regions</a><br/>Rosa Azami, Lars Doyle, and David Mould</td><td align="center"><p style="background-color:#C9DAF8;">&nbsp;Paper&nbsp;</p></td></tr>
 			<tr><td></td><td><a href="/2019/accepted/index.html#paper14">Irregular Pebble Mosaics with Sub-Pebble Detail</a><br/>Ali Sattari, Lars Doyle, and David Mould</td><td align="center"><p style="background-color:#C9DAF8;">&nbsp;Paper&nbsp;</p></td></tr>
 			
-			<tr><td>17:15 - 19:30</td><td colspan="2" style="text-align:center">Eurographics Opening/Fast Forward/Awards</td></tr>
+			<tr><td>17:15 - 19:30</td><td colspan="2" style="text-align:center"><a href="https://www.eurographics2019.it/index.php/program/full-program/">Eurographics 2019 Opening/Fast Forward/Awards</a></td></tr>
 			
-			<tr><td>19:30</td><td colspan="2" style="text-align:center">Welcome Reception</td></tr>
+			<tr><td>19:30</td><td colspan="2" style="text-align:center"><a href="https://www.eurographics2019.it/index.php/program/full-program/">Eurographics 2019 Welcome Reception</a></td></tr>
 
 		</table>
 
