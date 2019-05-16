@@ -6,6 +6,8 @@ image:
 year: 2019
 ---
 
+**The proceedings of the Symposium can now be acquired [from here](https://diglib.eg.org/handle/10.2312/2632756)**.
+
 Please find the complete list of accepted submissions **[here](/2019/accepted/index.html)**.
 
 <div class="col-12 col-sm-12 col-lg-12">
